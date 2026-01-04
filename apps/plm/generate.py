@@ -297,8 +297,11 @@ class PackedCausalTransformerGenerator:
                 self.device
             )
             assert tokens.shape[0] == 1
-            offsets = torch.roll(lengths.cpu(), shifts=1, dims=-1).numpy()
-            offsets[0] = 0
+            # offsets = torch.roll(lengths.cpu(), shifts=1, dims=-1).numpy()
+            # offsets[0] = 0
+            offsets = torch.roll(lengths.cpu(), shifts=1, dims=-1) 
+            offsets[0] = 0 
+            offsets = torch.cumsum(offsets, dim=0).numpy() 
             num_chunks_seq = 0
             image_id_offset = 0
             for image_id, offset in enumerate(offsets):
