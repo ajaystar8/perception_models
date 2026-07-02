@@ -1,0 +1,112 @@
+W1117 17:25:57.193000 4145479 site-packages/torch/distributed/run.py:803] 
+W1117 17:25:57.193000 4145479 site-packages/torch/distributed/run.py:803] *****************************************
+W1117 17:25:57.193000 4145479 site-packages/torch/distributed/run.py:803] Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed. 
+W1117 17:25:57.193000 4145479 site-packages/torch/distributed/run.py:803] *****************************************
+Setting Data Parallel size to 8
+Tensor parallelism has not been tested for a while, use at your own risk
+7: WARNING 25-11-17 17:26:19.200867 - 0:00:00 - Signal handler installed.
+7: WARNING 25-11-17 17:26:19.202361 - 0:00:00 - WARNING: Setting MKL_SERVICE_FORCE_INTEL to GNU
+7: WARNING 25-11-17 17:26:19.202417 - 0:00:00 - WARNING: Setting MKL_NUM_THREADS to 1
+7: WARNING 25-11-17 17:26:19.202456 - 0:00:00 - WARNING: Setting ENABLE_INTRA_NODE_COMM to 0
+7: WARNING 25-11-17 17:26:19.202491 - 0:00:00 - WARNING: Setting TORCH_NCCL_AVOID_RECORD_STREAMS to 1
+7: WARNING 25-11-17 17:26:19.202524 - 0:00:00 - WARNING: Setting NCCL_IB_TIMEOUT to 22
+7: WARNING 25-11-17 17:26:19.202558 - 0:00:00 - WARNING: Setting NCCL_DEBUG to WARN
+7: WARNING 25-11-17 17:26:19.202593 - 0:00:00 - WARNING: Setting PYTORCH_CUDA_ALLOC_CONF to expandable_segments:True
+7: WARNING 25-11-17 17:26:19.202625 - 0:00:00 - WARNING: Setting TRITON_CACHE_DIR to /tmp/tmpupu9g1lq
+Setting Data Parallel size to 8
+Setting Data Parallel size to 8
+Tensor parallelism has not been tested for a while, use at your own risk
+Tensor parallelism has not been tested for a while, use at your own risk
+3: WARNING 25-11-17 17:26:19.203815 - 0:00:00 - Signal handler installed.
+6: WARNING 25-11-17 17:26:19.203811 - 0:00:00 - Signal handler installed.
+6: WARNING 25-11-17 17:26:19.204068 - 0:00:00 - WARNING: Setting MKL_SERVICE_FORCE_INTEL to GNU
+6: WARNING 25-11-17 17:26:19.204125 - 0:00:00 - WARNING: Setting MKL_NUM_THREADS to 1
+3: WARNING 25-11-17 17:26:19.204112 - 0:00:00 - WARNING: Setting MKL_SERVICE_FORCE_INTEL to GNU
+6: WARNING 25-11-17 17:26:19.204165 - 0:00:00 - WARNING: Setting ENABLE_INTRA_NODE_COMM to 0
+3: WARNING 25-11-17 17:26:19.204170 - 0:00:00 - WARNING: Setting MKL_NUM_THREADS to 1
+6: WARNING 25-11-17 17:26:19.204200 - 0:00:00 - WARNING: Setting TORCH_NCCL_AVOID_RECORD_STREAMS to 1
+3: WARNING 25-11-17 17:26:19.204209 - 0:00:00 - WARNING: Setting ENABLE_INTRA_NODE_COMM to 0
+6: WARNING 25-11-17 17:26:19.204232 - 0:00:00 - WARNING: Setting NCCL_IB_TIMEOUT to 22
+3: WARNING 25-11-17 17:26:19.204244 - 0:00:00 - WARNING: Setting TORCH_NCCL_AVOID_RECORD_STREAMS to 1
+6: WARNING 25-11-17 17:26:19.204265 - 0:00:00 - WARNING: Setting NCCL_DEBUG to WARN
+3: WARNING 25-11-17 17:26:19.204277 - 0:00:00 - WARNING: Setting NCCL_IB_TIMEOUT to 22
+6: WARNING 25-11-17 17:26:19.204298 - 0:00:00 - WARNING: Setting PYTORCH_CUDA_ALLOC_CONF to expandable_segments:True
+3: WARNING 25-11-17 17:26:19.204311 - 0:00:00 - WARNING: Setting NCCL_DEBUG to WARN
+6: WARNING 25-11-17 17:26:19.204330 - 0:00:00 - WARNING: Setting TRITON_CACHE_DIR to /tmp/tmpdpsogdln
+3: WARNING 25-11-17 17:26:19.204344 - 0:00:00 - WARNING: Setting PYTORCH_CUDA_ALLOC_CONF to expandable_segments:True
+3: WARNING 25-11-17 17:26:19.204377 - 0:00:00 - WARNING: Setting TRITON_CACHE_DIR to /tmp/tmpux5wl_gz
+Setting Data Parallel size to 8
+Tensor parallelism has not been tested for a while, use at your own risk
+Setting Data Parallel size to 8
+Tensor parallelism has not been tested for a while, use at your own risk
+2: WARNING 25-11-17 17:26:19.207633 - 0:00:00 - Signal handler installed.
+5: WARNING 25-11-17 17:26:19.207940 - 0:00:00 - Signal handler installed.
+2: WARNING 25-11-17 17:26:19.208010 - 0:00:00 - WARNING: Setting MKL_SERVICE_FORCE_INTEL to GNU
+2: WARNING 25-11-17 17:26:19.208069 - 0:00:00 - WARNING: Setting MKL_NUM_THREADS to 1
+2: WARNING 25-11-17 17:26:19.208109 - 0:00:00 - WARNING: Setting ENABLE_INTRA_NODE_COMM to 0
+2: WARNING 25-11-17 17:26:19.208145 - 0:00:00 - WARNING: Setting TORCH_NCCL_AVOID_RECORD_STREAMS to 1
+5: WARNING 25-11-17 17:26:19.208158 - 0:00:00 - WARNING: Setting MKL_SERVICE_FORCE_INTEL to GNU
+2: WARNING 25-11-17 17:26:19.208202 - 0:00:00 - WARNING: Setting NCCL_IB_TIMEOUT to 22
+5: WARNING 25-11-17 17:26:19.208215 - 0:00:00 - WARNING: Setting MKL_NUM_THREADS to 1
+2: WARNING 25-11-17 17:26:19.208239 - 0:00:00 - WARNING: Setting NCCL_DEBUG to WARN
+5: WARNING 25-11-17 17:26:19.208256 - 0:00:00 - WARNING: Setting ENABLE_INTRA_NODE_COMM to 0
+2: WARNING 25-11-17 17:26:19.208273 - 0:00:00 - WARNING: Setting PYTORCH_CUDA_ALLOC_CONF to expandable_segments:True
+5: WARNING 25-11-17 17:26:19.208292 - 0:00:00 - WARNING: Setting TORCH_NCCL_AVOID_RECORD_STREAMS to 1
+2: WARNING 25-11-17 17:26:19.208304 - 0:00:00 - WARNING: Setting TRITON_CACHE_DIR to /tmp/tmpig6umijc
+5: WARNING 25-11-17 17:26:19.208325 - 0:00:00 - WARNING: Setting NCCL_IB_TIMEOUT to 22
+5: WARNING 25-11-17 17:26:19.208358 - 0:00:00 - WARNING: Setting NCCL_DEBUG to WARN
+5: WARNING 25-11-17 17:26:19.208391 - 0:00:00 - WARNING: Setting PYTORCH_CUDA_ALLOC_CONF to expandable_segments:True
+5: WARNING 25-11-17 17:26:19.208437 - 0:00:00 - WARNING: Setting TRITON_CACHE_DIR to /tmp/tmppnhh1xtz
+Setting Data Parallel size to 8
+Tensor parallelism has not been tested for a while, use at your own risk
+Setting Data Parallel size to 8
+Tensor parallelism has not been tested for a while, use at your own risk
+1: WARNING 25-11-17 17:26:19.209979 - 0:00:00 - Signal handler installed.
+1: WARNING 25-11-17 17:26:19.210315 - 0:00:00 - WARNING: Setting MKL_SERVICE_FORCE_INTEL to GNU
+1: WARNING 25-11-17 17:26:19.210373 - 0:00:00 - WARNING: Setting MKL_NUM_THREADS to 1
+1: WARNING 25-11-17 17:26:19.210414 - 0:00:00 - WARNING: Setting ENABLE_INTRA_NODE_COMM to 0
+1: WARNING 25-11-17 17:26:19.210450 - 0:00:00 - WARNING: Setting TORCH_NCCL_AVOID_RECORD_STREAMS to 1
+1: WARNING 25-11-17 17:26:19.210484 - 0:00:00 - WARNING: Setting NCCL_IB_TIMEOUT to 22
+1: WARNING 25-11-17 17:26:19.210518 - 0:00:00 - WARNING: Setting NCCL_DEBUG to WARN
+1: WARNING 25-11-17 17:26:19.210552 - 0:00:00 - WARNING: Setting PYTORCH_CUDA_ALLOC_CONF to expandable_segments:True
+1: WARNING 25-11-17 17:26:19.210584 - 0:00:00 - WARNING: Setting TRITON_CACHE_DIR to /tmp/tmpft6rdahu
+Setting Data Parallel size to 8
+Tensor parallelism has not been tested for a while, use at your own risk
+4: WARNING 25-11-17 17:26:19.217581 - 0:00:00 - Signal handler installed.
+4: WARNING 25-11-17 17:26:19.217903 - 0:00:00 - WARNING: Setting MKL_SERVICE_FORCE_INTEL to GNU
+4: WARNING 25-11-17 17:26:19.217970 - 0:00:00 - WARNING: Setting MKL_NUM_THREADS to 1
+4: WARNING 25-11-17 17:26:19.218009 - 0:00:00 - WARNING: Setting ENABLE_INTRA_NODE_COMM to 0
+4: WARNING 25-11-17 17:26:19.218042 - 0:00:00 - WARNING: Setting TORCH_NCCL_AVOID_RECORD_STREAMS to 1
+4: WARNING 25-11-17 17:26:19.218075 - 0:00:00 - WARNING: Setting NCCL_IB_TIMEOUT to 22
+4: WARNING 25-11-17 17:26:19.218108 - 0:00:00 - WARNING: Setting NCCL_DEBUG to WARN
+4: WARNING 25-11-17 17:26:19.218143 - 0:00:00 - WARNING: Setting PYTORCH_CUDA_ALLOC_CONF to expandable_segments:True
+4: WARNING 25-11-17 17:26:19.218175 - 0:00:00 - WARNING: Setting TRITON_CACHE_DIR to /tmp/tmpjj5g58qj
+0: WARNING 25-11-17 17:26:19.239030 - 0:00:00 - Signal handler installed.
+0: WARNING 25-11-17 17:26:19.239281 - 0:00:00 - WARNING: Setting MKL_SERVICE_FORCE_INTEL to GNU
+0: WARNING 25-11-17 17:26:19.239348 - 0:00:00 - WARNING: Setting MKL_NUM_THREADS to 1
+0: WARNING 25-11-17 17:26:19.239396 - 0:00:00 - WARNING: Setting ENABLE_INTRA_NODE_COMM to 0
+0: WARNING 25-11-17 17:26:19.239440 - 0:00:00 - WARNING: Setting TORCH_NCCL_AVOID_RECORD_STREAMS to 1
+0: WARNING 25-11-17 17:26:19.239481 - 0:00:00 - WARNING: Setting NCCL_IB_TIMEOUT to 22
+0: WARNING 25-11-17 17:26:19.239522 - 0:00:00 - WARNING: Setting NCCL_DEBUG to WARN
+0: WARNING 25-11-17 17:26:19.239564 - 0:00:00 - WARNING: Setting PYTORCH_CUDA_ALLOC_CONF to expandable_segments:True
+0: WARNING 25-11-17 17:26:19.239605 - 0:00:00 - WARNING: Setting TRITON_CACHE_DIR to /tmp/tmpr5wu4nmw
+[W1117 17:26:31.501922959 ProcessGroupNCCL.cpp:924] Warning: TORCH_NCCL_AVOID_RECORD_STREAMS is the default now, this environment variable is thus deprecated. (function operator())
+[W1117 17:26:31.505667512 ProcessGroupNCCL.cpp:924] Warning: TORCH_NCCL_AVOID_RECORD_STREAMS is the default now, this environment variable is thus deprecated. (function operator())
+[W1117 17:26:31.505789212 ProcessGroupNCCL.cpp:924] Warning: TORCH_NCCL_AVOID_RECORD_STREAMS is the default now, this environment variable is thus deprecated. (function operator())
+[W1117 17:26:31.506655240 ProcessGroupNCCL.cpp:924] Warning: TORCH_NCCL_AVOID_RECORD_STREAMS is the default now, this environment variable is thus deprecated. (function operator())
+[W1117 17:26:31.531619196 ProcessGroupNCCL.cpp:924] Warning: TORCH_NCCL_AVOID_RECORD_STREAMS is the default now, this environment variable is thus deprecated. (function operator())
+[W1117 17:26:31.542045308 ProcessGroupNCCL.cpp:924] Warning: TORCH_NCCL_AVOID_RECORD_STREAMS is the default now, this environment variable is thus deprecated. (function operator())
+[W1117 17:26:31.551473571 ProcessGroupNCCL.cpp:924] Warning: TORCH_NCCL_AVOID_RECORD_STREAMS is the default now, this environment variable is thus deprecated. (function operator())
+[W1117 17:26:31.561710733 ProcessGroupNCCL.cpp:924] Warning: TORCH_NCCL_AVOID_RECORD_STREAMS is the default now, this environment variable is thus deprecated. (function operator())
+/home/rajendrakumar.a/.conda/envs/perception_models/lib/python3.12/site-packages/torch/distributed/distributed_c10d.py:4876: UserWarning: barrier(): using the device under current context. You can specify `device_id` in `init_process_group` to mute this warning.
+  warnings.warn(  # warn only once
+[rank0]:[W1117 17:27:39.596156235 ProcessGroupNCCL.cpp:5068] Guessing device ID based on global rank. This can cause a hang if rank to GPU mapping is heterogeneous. You can specify device_id in init_process_group()
+[rank0]:[W1117 23:52:59.748155577 ProcessGroupNCCL.cpp:1524] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank1]:[W1117 23:53:00.134557659 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+[rank4]:[W1117 23:53:00.134860269 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+[rank2]:[W1117 23:53:00.134828169 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+[rank0]:[W1117 23:53:00.135443318 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+[rank6]:[W1117 23:53:00.186887135 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+[rank3]:[W1117 23:53:00.191064200 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+[rank5]:[W1117 23:53:00.347776097 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+[rank7]:[W1117 23:53:01.600258926 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())

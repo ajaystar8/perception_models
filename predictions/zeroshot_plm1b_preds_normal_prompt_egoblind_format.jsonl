@@ -1,0 +1,1271 @@
+{"question_id": "v_00923_1", "pred": "Use the remote control"}
+{"question_id": "v_00923_2", "pred": "To the right."}
+{"question_id": "v_00923_4", "pred": "Yes"}
+{"question_id": "v_00923_5", "pred": "Yes, there is an intercom to request assistance."}
+{"question_id": "v_00924_1", "pred": "Yes, there is."}
+{"question_id": "v_00924_2", "pred": "Behind the man"}
+{"question_id": "v_00924_3", "pred": "Yes"}
+{"question_id": "v_00925_2", "pred": "Train conductor"}
+{"question_id": "v_00925_3", "pred": "Front"}
+{"question_id": "v_00925_4", "pred": "Yes, there are seats on both sides of the aisle."}
+{"question_id": "v_00926_1", "pred": "Yes"}
+{"question_id": "v_00926_3", "pred": "Yes, there is someone here to assist you with the water dispenser."}
+{"question_id": "v_00926_5", "pred": "No, there is no obstruction in front of you."}
+{"question_id": "v_00927_1", "pred": "Inside the door"}
+{"question_id": "v_00927_3", "pred": "No, there is no obstruction."}
+{"question_id": "v_00928_1", "pred": "No, there is no guide to help you find the exit at the station."}
+{"question_id": "v_00928_2", "pred": "No, they have not found the correct exit and they are still inside the station."}
+{"question_id": "v_00929_1", "pred": "No"}
+{"question_id": "v_00930_1", "pred": "Yes"}
+{"question_id": "v_00930_2", "pred": "By the lake's edge"}
+{"question_id": "v_00931_1", "pred": "Yes"}
+{"question_id": "v_00931_3", "pred": "Yes"}
+{"question_id": "v_00931_4", "pred": "No, it is not safe to walk further in this direction."}
+{"question_id": "v_00931_5", "pred": "There are no obstacles or people nearby that I should be aware of."}
+{"question_id": "v_00931_6", "pred": "Backside"}
+{"question_id": "v_00932_2", "pred": "Yes, there is a risk."}
+{"question_id": "v_00932_4", "pred": "No, there is no pathway or direction towards an exit from this area."}
+{"question_id": "v_00932_5", "pred": "No, there are no obstacles close to the person on the ground."}
+{"question_id": "v_00933_1", "pred": "Right"}
+{"question_id": "v_00934_2", "pred": "Yes, there are two side doors near your position."}
+{"question_id": "v_00934_3", "pred": "Right"}
+{"question_id": "v_00934_6", "pred": "Yes, there is an accessible toilet nearby."}
+{"question_id": "v_00934_8", "pred": "One"}
+{"question_id": "v_00935_2", "pred": "Take right at entrance."}
+{"question_id": "v_00935_3", "pred": "Take right at entrance, Row 1 is closer than Row 15."}
+{"question_id": "v_00935_5", "pred": "This sign says \"Take right at entrance, Row 1 is closer than Row 15.\""}
+{"question_id": "v_00935_6", "pred": "Yes"}
+{"question_id": "v_00936_1", "pred": "Yes"}
+{"question_id": "v_00936_3", "pred": "Yes, there is a handrail nearby to hold on to."}
+{"question_id": "v_00937_2", "pred": "Walk slowly and carefully through the crowd."}
+{"question_id": "v_00938_2", "pred": "Behind the man"}
+{"question_id": "v_00938_4", "pred": "Yes, there are seats available inside the subway."}
+{"question_id": "v_00941_1", "pred": "No, there is no one around who can help you buy a subway ticket."}
+{"question_id": "v_00941_2", "pred": "No, there are no obstacles in front of you while walking down this corridor."}
+{"question_id": "v_00941_4", "pred": "In the next room"}
+{"question_id": "v_00941_6", "pred": "Yes, there is a lot of pedestrian traffic ahead."}
+{"question_id": "v_00942_1", "pred": "Yes"}
+{"question_id": "v_00942_2", "pred": "Not safe"}
+{"question_id": "v_00942_3", "pred": "Yes"}
+{"question_id": "v_00943_1", "pred": "Yes, there are stores nearby."}
+{"question_id": "v_00943_2", "pred": "Yes, there is an escalator nearby."}
+{"question_id": "v_00943_4", "pred": "Yes"}
+{"question_id": "v_00944_1", "pred": "No, there are no subway staff members around here."}
+{"question_id": "v_00944_2", "pred": "Bicycle"}
+{"question_id": "v_00944_4", "pred": "Yes, there are bicycles blocking the path to the subway entrance."}
+{"question_id": "v_00944_6", "pred": "Beneath the bridge"}
+{"question_id": "v_00944_7", "pred": "Yes"}
+{"question_id": "v_00945_2", "pred": "No, there aren't any barriers or blocking objects in the direction you're heading."}
+{"question_id": "v_00945_3", "pred": "Airport"}
+{"question_id": "v_00947_1", "pred": "Not safe"}
+{"question_id": "v_00947_2", "pred": "No, there is nothing blocking the entrance to the station."}
+{"question_id": "v_00948_1", "pred": "Yes, there are some people standing in the aisle."}
+{"question_id": "v_00949_1", "pred": "No, there are no obstacles or gaps that need to be aware of when stepping out of the train."}
+{"question_id": "v_00950_1", "pred": "No, there is no indication of when the next train will arrive."}
+{"question_id": "v_00950_3", "pred": "Beijing"}
+{"question_id": "v_00951_2", "pred": "No, there are no stairs or escalator nearby that I need to be aware of."}
+{"question_id": "v_00951_3", "pred": "Hold the card with the machine's instruction."}
+{"question_id": "v_00951_4", "pred": "Blue line."}
+{"question_id": "v_00952_2", "pred": "Yes, it is safe to move towards the door to exit the train."}
+{"question_id": "v_00952_3", "pred": "Yes"}
+{"question_id": "v_00953_1", "pred": "Yes"}
+{"question_id": "v_00953_4", "pred": "Behind the dog"}
+{"question_id": "v_00953_7", "pred": "Pull the door handle"}
+{"question_id": "v_00954_1", "pred": "Yes"}
+{"question_id": "v_00954_2", "pred": "No, there are no obstacles ahead."}
+{"question_id": "v_00954_4", "pred": "Door"}
+{"question_id": "v_00954_5", "pred": "Yes, the person is facing forward towards the main road."}
+{"question_id": "v_00954_6", "pred": "By feeling the cane in your hand."}
+{"question_id": "v_00955_1", "pred": "No, there is no clear path forward for you."}
+{"question_id": "v_00955_2", "pred": "Not safe"}
+{"question_id": "v_00956_2", "pred": "No, there is no traffic passing."}
+{"question_id": "v_00956_3", "pred": "Yes, there are moving cars in the parking lot."}
+{"question_id": "v_00956_4", "pred": "Door"}
+{"question_id": "v_00956_5", "pred": "Walk straight to the entrance"}
+{"question_id": "v_00957_10", "pred": "Yes, there are people and a motorcycle ahead."}
+{"question_id": "v_00957_11", "pred": "Yes, you are heading towards a crowd of people."}
+{"question_id": "v_00957_12", "pred": "Left"}
+{"question_id": "v_00957_13", "pred": "Yes, there is a slope surface difference on the ground ahead."}
+{"question_id": "v_00957_14", "pred": "Box"}
+{"question_id": "v_00957_15", "pred": "Yes, there are other pedestrians around."}
+{"question_id": "v_00957_4", "pred": "No"}
+{"question_id": "v_00957_7", "pred": "Dog"}
+{"question_id": "v_00957_8", "pred": "Yes"}
+{"question_id": "v_00957_9", "pred": "Yes, there are cars moving nearby that you should be aware of."}
+{"question_id": "v_00958_1", "pred": "Yes, there is a tree in front of you on the sidewalk."}
+{"question_id": "v_00959_2", "pred": "Not safe"}
+{"question_id": "v_00959_3", "pred": "Not safe"}
+{"question_id": "v_00959_6", "pred": "Yes"}
+{"question_id": "v_00960_1", "pred": "No, there are no obstacles on your way."}
+{"question_id": "v_00961_1", "pred": "Yes, there is a doorway ahead of us."}
+{"question_id": "v_00961_2", "pred": "No, the door is not fully open."}
+{"question_id": "v_00962_1", "pred": "No, it is not safe to enter the elevator now."}
+{"question_id": "v_00962_13", "pred": "Yes, there are obsticals on the exit."}
+{"question_id": "v_00962_14", "pred": "Yes"}
+{"question_id": "v_00962_16", "pred": "No"}
+{"question_id": "v_00962_19", "pred": "Dog"}
+{"question_id": "v_00962_21", "pred": "Door"}
+{"question_id": "v_00962_22", "pred": "Yes"}
+{"question_id": "v_00962_25", "pred": "No"}
+{"question_id": "v_00962_27", "pred": "No, there are no roadblocks in the path ahead."}
+{"question_id": "v_00962_29", "pred": "Stay attentive and watch your step."}
+{"question_id": "v_00962_4", "pred": "You can find the elevator door by looking for the sign or indicator that says 'elevator' or 'door' in the building."}
+{"question_id": "v_00962_5", "pred": "Check the floor indicator"}
+{"question_id": "v_00962_6", "pred": "There are buttons with Braille for the elevator."}
+{"question_id": "v_00962_8", "pred": " pressed the button with your right hand"}
+{"question_id": "v_00963_1", "pred": "No, there are no obstacles ahead."}
+{"question_id": "v_00964_3", "pred": "No, there is no safe path to proceed forward."}
+{"question_id": "v_00964_4", "pred": "No, continue with caution."}
+{"question_id": "v_00964_5", "pred": "Look down and use your phone as a mirror."}
+{"question_id": "v_00964_6", "pred": "No, I am facing the pathway in a curve."}
+{"question_id": "v_00964_7", "pred": "Tree"}
+{"question_id": "v_00967_1", "pred": "Walk."}
+{"question_id": "v_00967_2", "pred": "Yes"}
+{"question_id": "v_00968_1", "pred": "Yes, there is a waiting area nearby."}
+{"question_id": "v_00969_1", "pred": "No, it does not."}
+{"question_id": "v_00969_2", "pred": "Yes"}
+{"question_id": "v_00970_4", "pred": "Not safe"}
+{"question_id": "v_00970_6", "pred": "Not at the crosswalk"}
+{"question_id": "v_00971_1", "pred": "Yes"}
+{"question_id": "v_00971_2", "pred": "Yes, there is a pole on the sidewalk."}
+{"question_id": "v_00971_4", "pred": "Yes, there is a pedestrian crossing ahead."}
+{"question_id": "v_00972_2", "pred": "Bollards"}
+{"question_id": "v_00973_1", "pred": "Yes, another person"}
+{"question_id": "v_00973_2", "pred": "Forward"}
+{"question_id": "v_00974_1", "pred": "Walk."}
+{"question_id": "v_00977_1", "pred": "Downward"}
+{"question_id": "v_00977_2", "pred": "Downward"}
+{"question_id": "v_00979_1", "pred": "Bollard"}
+{"question_id": "v_00980_1", "pred": "No"}
+{"question_id": "v_00981_1", "pred": "Yes, there is a bench nearby."}
+{"question_id": "v_00982_1", "pred": "Yes"}
+{"question_id": "v_00982_3", "pred": "Yes"}
+{"question_id": "v_00983_1", "pred": "Next to the induction stove"}
+{"question_id": "v_00983_4", "pred": "Press the button on the mixer."}
+{"question_id": "v_00983_5", "pred": "By placing the ingredient on the scale's surface and reading the display."}
+{"question_id": "v_00983_6", "pred": "Check the screen."}
+{"question_id": "v_00985_4", "pred": "No, the cutting board is not on the counter in front of you. It is on the floor."}
+{"question_id": "v_00986_1", "pred": "Sitting"}
+{"question_id": "v_00986_5", "pred": "Yes"}
+{"question_id": "v_00987_1", "pred": "Yes"}
+{"question_id": "v_00987_4", "pred": "Making cookies"}
+{"question_id": "v_00988_2", "pred": "There are no hazards."}
+{"question_id": "v_00988_4", "pred": "You can clean the blender by wiping it with a cloth."}
+{"question_id": "v_00989_2", "pred": "Yes, there is a hot surface near you."}
+{"question_id": "v_00989_3", "pred": "There are no obstacles on the counter."}
+{"question_id": "v_00991_1", "pred": "Yes, there is a knife on the table that you should be careful of."}
+{"question_id": "v_00991_3", "pred": "Behind the counter"}
+{"question_id": "v_00992_1", "pred": "No, there are no sharp or hot objects."}
+{"question_id": "v_00992_3", "pred": "You can differentiate the items on the cutting board by their colors and textures. For example, the dough is smooth and white, while the bowl is rough and brown. This visual distinction can help you identify the different items at a glance."}
+{"question_id": "v_00992_4", "pred": "Put the dough into the container."}
+{"question_id": "v_00993_1", "pred": "No, there are no hot surfaces or sharp tools nearby."}
+{"question_id": "v_00993_3", "pred": "Near the kitchen table"}
+{"question_id": "v_00993_4", "pred": "By pressing it down firmly."}
+{"question_id": "v_00993_5", "pred": "For about 10 minutes at 180 degrees"}
+{"question_id": "v_00993_6", "pred": "heart"}
+{"question_id": "v_00994_1", "pred": "You need to place the cookies in the oven in a downward direction."}
+{"question_id": "v_00994_2", "pred": "Behind the table"}
+{"question_id": "v_00995_3", "pred": "Yes"}
+{"question_id": "v_00995_5", "pred": "Use the oven mitt to open the oven door."}
+{"question_id": "v_00995_6", "pred": "Carefully put the baking tray into the oven."}
+{"question_id": "v_00995_7", "pred": "Set the timer at the upper left corner of the oven."}
+{"question_id": "v_00998_1", "pred": "No, they are not indicating any specific preference for these items."}
+{"question_id": "v_00999_1", "pred": "Yes"}
+{"question_id": "v_00999_2", "pred": "Check out"}
+{"question_id": "v_01000_2", "pred": "Forward"}
+{"question_id": "v_01001_5", "pred": "No, there is no step or ramp ahead."}
+{"question_id": "v_01002_1", "pred": "No, there are no other people nearby who can assist you."}
+{"question_id": "v_01002_2", "pred": "No, it is not safe to walk straight ahead."}
+{"question_id": "v_01002_4", "pred": "this sign says 'open'"}
+{"question_id": "v_01004_1", "pred": "No, the person is facing the table."}
+{"question_id": "v_01005_1", "pred": "The nearest exit is to the left."}
+{"question_id": "v_01007_1", "pred": "No, I am not near any pedestrian crossings."}
+{"question_id": "v_01007_2", "pred": "You can get to the entrance of the building by walking on the sidewalk."}
+{"question_id": "v_01008_1", "pred": "On the left side of the road"}
+{"question_id": "v_01008_10", "pred": "convenience store"}
+{"question_id": "v_01008_3", "pred": "Yes, there is a sidewalk on your left."}
+{"question_id": "v_01008_6", "pred": "There are some shops on the right side of the street."}
+{"question_id": "v_01008_7", "pred": "Yes"}
+{"question_id": "v_01010_1", "pred": "Corner"}
+{"question_id": "v_01010_2", "pred": "Bench"}
+{"question_id": "v_01011_2", "pred": " foods"}
+{"question_id": "v_01012_1", "pred": "The building entrance is visible in the background."}
+{"question_id": "v_01012_2", "pred": "No, the car is not parked safely in a parking spot."}
+{"question_id": "v_01013_1", "pred": "Yes, there is other cars around you."}
+{"question_id": "v_01013_2", "pred": "No, you are not in a parked car right now."}
+{"question_id": "v_01014_3", "pred": "No, we are not near the entrance of the building."}
+{"question_id": "v_01014_4", "pred": "No, there are no landmarks or signs visible outside the car."}
+{"question_id": "v_01015_1", "pred": "The trash bins are located on the ground."}
+{"question_id": "v_01016_1", "pred": "To get to the nearest stairway, follow the direction of the stairs."}
+{"question_id": "v_01016_2", "pred": "Yes"}
+{"question_id": "v_01016_3", "pred": "No, no one is approaching the entrance from inside the building."}
+{"question_id": "v_01017_1", "pred": "Yes, a pedestrian is standing on the road, but they seem unsure about something."}
+{"question_id": "v_01017_2", "pred": "Sunny"}
+{"question_id": "v_01020_1", "pred": "Yes, the path ahead looks clear for walking."}
+{"question_id": "v_01021_1", "pred": "Yes"}
+{"question_id": "v_01021_2", "pred": "Yes, your guide dog is safely leading you onto the escalator."}
+{"question_id": "v_01021_3", "pred": "Be careful not to slip."}
+{"question_id": "v_01021_5", "pred": "Yes"}
+{"question_id": "v_01022_3", "pred": "No, the car door is not fully open."}
+{"question_id": "v_01023_3", "pred": "No, it is not safe to approach the counter ahead."}
+{"question_id": "v_01024_4", "pred": "Tea"}
+{"question_id": "v_01026_1", "pred": "No"}
+{"question_id": "v_01026_10", "pred": "In the video, you can see a person adjusting the seat of the car. They are using a lever to move the seat forward."}
+{"question_id": "v_01026_12", "pred": "Yes"}
+{"question_id": "v_01026_13", "pred": "Open the door and walk in"}
+{"question_id": "v_01026_16", "pred": "Comfort"}
+{"question_id": "v_01026_17", "pred": "Three"}
+{"question_id": "v_01026_4", "pred": " touch"}
+{"question_id": "v_01026_5", "pred": "No"}
+{"question_id": "v_01027_10", "pred": "Adjust the seat by using the lever."}
+{"question_id": "v_01027_11", "pred": "The car has good legroom but it is not spacious."}
+{"question_id": "v_01027_12", "pred": "No"}
+{"question_id": "v_01027_2", "pred": "Yes, your yuki is properly seated and safe in the car."}
+{"question_id": "v_01027_3", "pred": "Yes"}
+{"question_id": "v_01027_6", "pred": "No, there is nothing blocking your path."}
+{"question_id": "v_01027_7", "pred": "Adjust the seat by using the handle."}
+{"question_id": "v_01027_8", "pred": "Tighten it up and make sure it is securely fastened."}
+{"question_id": "v_01028_1", "pred": "No, the driver is not paying attention to the road."}
+{"question_id": "v_01031_1", "pred": "Outdoors"}
+{"question_id": "v_01032_2", "pred": "You should head to the right."}
+{"question_id": "v_01032_3", "pred": "No, I am facing in the opposite direction."}
+{"question_id": "v_01033_2", "pred": "Press the button on the dashboard."}
+{"question_id": "v_01033_4", "pred": "Yes"}
+{"question_id": "v_01033_5", "pred": "On the driver's seat"}
+{"question_id": "v_01034_3", "pred": "This Moro is in a hospital room."}
+{"question_id": "v_01034_6", "pred": "You need to use the key card to open the door."}
+{"question_id": "v_01035_2", "pred": "No, it is not safe to pass your documents to the person in front of you."}
+{"question_id": "v_01035_3", "pred": "You present your ID card by holding it up and showing it to the woman behind the counter."}
+{"question_id": "v_01035_4", "pred": "Yes"}
+{"question_id": "v_01035_5", "pred": "Yes, you are at the right counter for submitting your documents."}
+{"question_id": "v_01037_4", "pred": "You pressed the number 1234."}
+{"question_id": "v_01038_2", "pred": "To find the verification code, open your phone and look for the code displayed on the screen."}
+{"question_id": "v_01038_3", "pred": "Yes, you are at the customer service counter."}
+{"question_id": "v_01039_2", "pred": "The window five is located on the right side of the bank."}
+{"question_id": "v_01039_3", "pred": "To the left"}
+{"question_id": "v_01039_4", "pred": "Yes, this is the desk where you need to perform the transaction."}
+{"question_id": "v_01041_1", "pred": "No, nothing is blocking."}
+{"question_id": "v_01041_4", "pred": "Yes, this is the entrance to the bank."}
+{"question_id": "v_01042_1", "pred": "No, no one is walking towards us on this path."}
+{"question_id": "v_01042_10", "pred": "Yes, a woman wearing a grey jacket is walking in front of you."}
+{"question_id": "v_01042_3", "pred": "The trash bin is for disposing of trash, so you can use it to throw away your waste."}
+{"question_id": "v_01042_5", "pred": "Yes"}
+{"question_id": "v_01042_8", "pred": " shops"}
+{"question_id": "v_01042_9", "pred": "Yes, there is a store nearby where you can buy some snacks."}
+{"question_id": "v_01043_2", "pred": "Not safe"}
+{"question_id": "v_01043_3", "pred": " Behind the counter"}
+{"question_id": "v_01044_1", "pred": "back"}
+{"question_id": "v_01044_2", "pred": "Bowl"}
+{"question_id": "v_01045_3", "pred": "Be cautious of your surroundings, as the market area is crowded with people walking in all directions."}
+{"question_id": "v_01045_4", "pred": "Look for the sign or the door with the shop's name on it."}
+{"question_id": "v_01045_5", "pred": "No, I am facing towards the shop."}
+{"question_id": "v_01046_2", "pred": "No, it is not safe to enter this area due to the risk of COVID-19."}
+{"question_id": "v_01046_3", "pred": "beneath the lanterns"}
+{"question_id": "v_01046_4", "pred": "You can walk to the nearest restroom."}
+{"question_id": "v_01047_1", "pred": "No"}
+{"question_id": "v_01048_3", "pred": "Left"}
+{"question_id": "v_01048_4", "pred": "Walk straight ahead."}
+{"question_id": "v_01049_1", "pred": "Cross the river using the bridge."}
+{"question_id": "v_01050_2", "pred": "To the right"}
+{"question_id": "v_01052_2", "pred": "No, there are no obstacles in the way."}
+{"question_id": "v_01052_5", "pred": "No, there are no people or vehicles in sight."}
+{"question_id": "v_01053_2", "pred": "Safe"}
+{"question_id": "v_01053_3", "pred": "Right"}
+{"question_id": "v_01054_1", "pred": "Right"}
+{"question_id": "v_01054_2", "pred": "Food"}
+{"question_id": "v_01055_1", "pred": "No, there are no obstacles."}
+{"question_id": "v_01057_4", "pred": "Food"}
+{"question_id": "v_01057_5", "pred": "Food items"}
+{"question_id": "v_01058_2", "pred": "No, it is not safe to proceed straight ahead."}
+{"question_id": "v_01059_1", "pred": "No, there is nothing on the table that might spill or be a hazard."}
+{"question_id": "v_01059_3", "pred": "on the chair"}
+{"question_id": "v_01059_4", "pred": "Yes, you are facing the table in front of you."}
+{"question_id": "v_01060_1", "pred": "door is not visible in the video"}
+{"question_id": "v_01061_1", "pred": "No, there are no obstacles on the floor that you should be aware of while standing here."}
+{"question_id": "v_01062_1", "pred": "in the room"}
+{"question_id": "v_01062_4", "pred": "No, not everything is properly organized in your bag."}
+{"question_id": "v_01062_6", "pred": "No, it is not packed neatly."}
+{"question_id": "v_01063_1", "pred": "It seems like you have not packed all the items appropriately."}
+{"question_id": "v_01063_4", "pred": "Food"}
+{"question_id": "v_01064_3", "pred": "Black backpack"}
+{"question_id": "v_01064_4", "pred": "bag"}
+{"question_id": "v_01065_4", "pred": "No"}
+{"question_id": "v_01066_1", "pred": "No, there aren't any obstacles on the floor near you."}
+{"question_id": "v_01066_2", "pred": "Yes"}
+{"question_id": "v_01066_3", "pred": "Two"}
+{"question_id": "v_01067_1", "pred": "No, it was not my turn to eat."}
+{"question_id": "v_01067_2", "pred": "No, no one is helping you with handling the utensils."}
+{"question_id": "v_01067_6", "pred": "Dinner"}
+{"question_id": "v_01067_8", "pred": "Door"}
+{"question_id": "v_01068_1", "pred": "boat"}
+{"question_id": "v_01068_4", "pred": "Bag"}
+{"question_id": "v_01069_1", "pred": "No, there are no obstacles in the seating area that you need to be aware of."}
+{"question_id": "v_01069_2", "pred": "Dog"}
+{"question_id": "v_01069_3", "pred": "Yes, you are sitting in the correct orientation."}
+{"question_id": "v_01070_2", "pred": "No, there are no obstacles on the boat's floor that you should be aware of."}
+{"question_id": "v_01070_3", "pred": "Not yet"}
+{"question_id": "v_01071_1", "pred": "Not safe"}
+{"question_id": "v_01071_3", "pred": "Left"}
+{"question_id": "v_01071_7", "pred": "Yes"}
+{"question_id": "v_01071_8", "pred": "Yes"}
+{"question_id": "v_01072_1", "pred": "No, there isn't."}
+{"question_id": "v_01072_2", "pred": "Close"}
+{"question_id": "v_01072_4", "pred": "Dog bed"}
+{"question_id": "v_01072_5", "pred": "Yes"}
+{"question_id": "v_01072_6", "pred": "Yes, there is a person nearby."}
+{"question_id": "v_01073_1", "pred": "You put it here."}
+{"question_id": "v_01073_3", "pred": "Oven"}
+{"question_id": "v_01073_4", "pred": "Oven."}
+{"question_id": "v_01073_5", "pred": "Yes"}
+{"question_id": "v_01074_1", "pred": "No, there is no obstacle in front of the doorway that you need to be aware of."}
+{"question_id": "v_01074_2", "pred": "Left"}
+{"question_id": "v_01075_1", "pred": "No"}
+{"question_id": "v_01076_2", "pred": "No, the exit is not in the direction."}
+{"question_id": "v_01076_4", "pred": "Words"}
+{"question_id": "v_01077_1", "pred": "Yes"}
+{"question_id": "v_01077_2", "pred": "Bending"}
+{"question_id": "v_01078_3", "pred": "No, it is not safe to walk towards the door from here."}
+{"question_id": "v_01078_4", "pred": "Yes"}
+{"question_id": "v_01079_1", "pred": "Check the label"}
+{"question_id": "v_01079_2", "pred": "No, you did not pour the water exactly into the sink."}
+{"question_id": "v_01080_3", "pred": "Yes, you placed the eggs at the bottom."}
+{"question_id": "v_01080_4", "pred": "You did cover the pot."}
+{"question_id": "v_01080_6", "pred": "Yes, the power plug is securely connected to the wall socket."}
+{"question_id": "v_01081_3", "pred": "Yes"}
+{"question_id": "v_01081_4", "pred": "Yes"}
+{"question_id": "v_01082_1", "pred": "Yes, there is a vehicle on the left side of the path."}
+{"question_id": "v_01083_1", "pred": "Yes, there are vehicles passing by in front of you."}
+{"question_id": "v_01083_2", "pred": "Yes, there are vehicles and people blocking your way."}
+{"question_id": "v_01084_3", "pred": "Yes"}
+{"question_id": "v_01084_5", "pred": "Right"}
+{"question_id": "v_01085_1", "pred": "Yes, we are standing in front of the cashier."}
+{"question_id": "v_01086_1", "pred": " arranged"}
+{"question_id": "v_01086_3", "pred": "red chilies"}
+{"question_id": "v_01087_1", "pred": "Behind"}
+{"question_id": "v_01087_3", "pred": "yes"}
+{"question_id": "v_01087_4", "pred": "In the shopping basket"}
+{"question_id": "v_01087_5", "pred": "I can't directly assist with finding the way to the cash register as it may involve navigating through a complex store layout or specific areas. However, I can guide you on how to find the exit or provide general information about the store's layout if that's helpful."}
+{"question_id": "v_01087_7", "pred": "Yes"}
+{"question_id": "v_01088_1", "pred": "No, there is no one blocking your way."}
+{"question_id": "v_01088_2", "pred": "Yes"}
+{"question_id": "v_01088_3", "pred": "The person is showing the vegetables in the nearby area."}
+{"question_id": "v_01088_4", "pred": "Green vegetables"}
+{"question_id": "v_01089_2", "pred": "drinks"}
+{"question_id": "v_01090_2", "pred": "Yes"}
+{"question_id": "v_01090_3", "pred": "Yes"}
+{"question_id": "v_01091_1", "pred": "Walk with your back straight and move forward."}
+{"question_id": "v_01091_2", "pred": "The shop has many vegetables and fruits, such as bananas, apples, oranges, etc."}
+{"question_id": "v_01092_1", "pred": "Yes"}
+{"question_id": "v_01092_2", "pred": "In an aisle"}
+{"question_id": "v_01092_3", "pred": "Cabbages"}
+{"question_id": "v_01092_4", "pred": "Beneath a pillar"}
+{"question_id": "v_01093_3", "pred": "To the right"}
+{"question_id": "v_01093_5", "pred": "Tomatoes"}
+{"question_id": "v_01093_7", "pred": "Additional"}
+{"question_id": "v_01093_8", "pred": "Many"}
+{"question_id": "v_01094_1", "pred": "Yes"}
+{"question_id": "v_01094_3", "pred": "Yes"}
+{"question_id": "v_01094_4", "pred": "Market"}
+{"question_id": "v_01095_3", "pred": "No, you should be careful not to collide with the vehicles or pedestrians."}
+{"question_id": "v_01095_5", "pred": "Yes, I can sit down on the stool."}
+{"question_id": "v_01095_7", "pred": "Another person"}
+{"question_id": "v_01095_8", "pred": "Cars"}
+{"question_id": "v_01096_2", "pred": "Take the stairs"}
+{"question_id": "v_01096_4", "pred": "Museum"}
+{"question_id": "v_01097_1", "pred": "No, there is a line."}
+{"question_id": "v_01097_2", "pred": "one way"}
+{"question_id": "v_01100_1", "pred": "No, there are no obstacles directly ahead on the walkway."}
+{"question_id": "v_01100_2", "pred": "Forward"}
+{"question_id": "v_01100_3", "pred": "Yes, there are prominent buildings and structures around you."}
+{"question_id": "v_01100_4", "pred": "Yes, there is a signboard and a street sign that indicate the location."}
+{"question_id": "v_01101_1", "pred": "Yes, there are people blocking the path ahead of you."}
+{"question_id": "v_01101_2", "pred": "Cross the road to the left."}
+{"question_id": "v_01102_1", "pred": "Adjust the seatbelt by pulling the release handle."}
+{"question_id": "v_01104_3", "pred": "Forward"}
+{"question_id": "v_01104_4", "pred": "Road"}
+{"question_id": "v_01106_10", "pred": "Brown"}
+{"question_id": "v_01106_12", "pred": "four"}
+{"question_id": "v_01106_2", "pred": "No, it is not safe to touch the object in front of you as it might be dirty or have sharp objects."}
+{"question_id": "v_01106_3", "pred": "Yes, there are some people in your path."}
+{"question_id": "v_01106_4", "pred": "Behind the man in black."}
+{"question_id": "v_01106_5", "pred": "Walk"}
+{"question_id": "v_01106_7", "pred": "Museum"}
+{"question_id": "v_01108_1", "pred": "Yes"}
+{"question_id": "v_01108_2", "pred": "Man"}
+{"question_id": "v_01108_3", "pred": "Yes"}
+{"question_id": "v_01110_1", "pred": "Downwards"}
+{"question_id": "v_01111_1", "pred": "Yes"}
+{"question_id": "v_01111_2", "pred": "Screen"}
+{"question_id": "v_01111_3", "pred": " futuristic"}
+{"question_id": "v_01113_1", "pred": "People"}
+{"question_id": "v_01113_11", "pred": "Yes, there are stones on the path."}
+{"question_id": "v_01113_12", "pred": "Yes, there are stones on the path ahead."}
+{"question_id": "v_01113_13", "pred": "Yes, there is a stone border on the path ahead."}
+{"question_id": "v_01113_14", "pred": "No, it is not safe to continue walking straight because there are many people."}
+{"question_id": "v_01113_15", "pred": "Forward"}
+{"question_id": "v_01113_16", "pred": "Yes, there is a bench nearby where you can rest."}
+{"question_id": "v_01113_17", "pred": "The trees are approximately 1 meter away from the person."}
+{"question_id": "v_01113_3", "pred": "The person is controlling the robot by holding the handle."}
+{"question_id": "v_01113_5", "pred": "The person is using the robotic guide with the help of a stick."}
+{"question_id": "v_01113_6", "pred": "If the robotic guide stops moving, you can try to make it move again by holding the control stick or remote control."}
+{"question_id": "v_01113_8", "pred": "Yes, there are stones on the path in front of you."}
+{"question_id": "v_01114_1", "pred": "Yes, there is a robot in front of you."}
+{"question_id": "v_01114_6", "pred": "Some people are walking, some are standing, and one person is moving a robot dog ahead. There are about 5 people in total."}
+{"question_id": "v_01115_1", "pred": "Robot"}
+{"question_id": "v_01116_1", "pred": "Robot"}
+{"question_id": "v_01117_2", "pred": "Not safe"}
+{"question_id": "v_01117_3", "pred": "Yes, the traffic light has turned green for pedestrians."}
+{"question_id": "v_01118_1", "pred": "Not safe"}
+{"question_id": "v_01118_3", "pred": "No, the traffic is heavy."}
+{"question_id": "v_01118_4", "pred": "White screen"}
+{"question_id": "v_01118_5", "pred": "Yes"}
+{"question_id": "v_01118_6", "pred": "Yes"}
+{"question_id": "v_01119_1", "pred": "No, there are no objects on the bed that you might knock over."}
+{"question_id": "v_01121_1", "pred": "Yes, there is a black box on the bed."}
+{"question_id": "v_01121_3", "pred": "By touching the screen of the phone."}
+{"question_id": "v_01122_2", "pred": "No, there are no sharp objects on the bed that might hurt you."}
+{"question_id": "v_01122_3", "pred": "Gold medal"}
+{"question_id": "v_01124_1", "pred": "No, there are no obstacles."}
+{"question_id": "v_01125_1", "pred": "Not safe"}
+{"question_id": "v_01126_1", "pred": "Yes"}
+{"question_id": "v_01126_2", "pred": "Yes, there are potential tripping hazards ahead."}
+{"question_id": "v_01127_2", "pred": "Yes"}
+{"question_id": "v_01127_3", "pred": " supermarket"}
+{"question_id": "v_01128_1", "pred": "Not safe"}
+{"question_id": "v_01128_2", "pred": "Yogurt"}
+{"question_id": "v_01129_1", "pred": "Yes, there are obstacles in front of you."}
+{"question_id": "v_01129_3", "pred": "By walking slowly and carefully."}
+{"question_id": "v_01130_1", "pred": "Buy, use and store it properly."}
+{"question_id": "v_01130_2", "pred": "Sixty-nine"}
+{"question_id": "v_01131_1", "pred": "No, there are no physical obstacles near your hand as you reach forward."}
+{"question_id": "v_01134_1", "pred": "Yes, there is a sofa in front of you."}
+{"question_id": "v_01134_2", "pred": "Yes"}
+{"question_id": "v_01134_3", "pred": "living room"}
+{"question_id": "v_01134_4", "pred": "Frame"}
+{"question_id": "v_01135_1", "pred": "Yes"}
+{"question_id": "v_01135_2", "pred": "179"}
+{"question_id": "v_01135_4", "pred": "Yes"}
+{"question_id": "v_01138_1", "pred": "Candles"}
+{"question_id": "v_01140_1", "pred": "50"}
+{"question_id": "v_01141_1", "pred": "Follow the instructions on the label."}
+{"question_id": "v_01141_2", "pred": "Basket"}
+{"question_id": "v_01143_1", "pred": "No, there are no sharp objects near the pillows."}
+{"question_id": "v_01143_4", "pred": "12."}
+{"question_id": "v_01143_5", "pred": "Yes"}
+{"question_id": "v_01143_6", "pred": "Sleeping"}
+{"question_id": "v_01144_1", "pred": "No, there are no obstacles in your walking path."}
+{"question_id": "v_01144_3", "pred": "Yes"}
+{"question_id": "v_01145_1", "pred": "Yes, there are some more people in your path who are standing and walking slowly."}
+{"question_id": "v_01146_2", "pred": " electronics"}
+{"question_id": "v_01149_1", "pred": "Yes, there are some objects on the floor that can cause collision."}
+{"question_id": "v_01150_1", "pred": "No, there is no obstruction ahead."}
+{"question_id": "v_01150_2", "pred": "12.99"}
+{"question_id": "v_01151_1", "pred": "Yes, there is a yellow rope on the left side, which may be an obstacle in the passage ahead."}
+{"question_id": "v_01151_2", "pred": " mall"}
+{"question_id": "v_01153_2", "pred": "No, there are no obstacles on the escalator."}
+{"question_id": "v_01155_1", "pred": "Left"}
+{"question_id": "v_01156_1", "pred": "Yes"}
+{"question_id": "v_01157_2", "pred": "Yes"}
+{"question_id": "v_01158_1", "pred": "Yes, there are people standing in the way."}
+{"question_id": "v_01159_2", "pred": "By using the screen as a mirror, grab the product, and scan the code displayed on the screen"}
+{"question_id": "v_01159_3", "pred": "Hong Man Bian"}
+{"question_id": "v_01159_4", "pred": "Incentive machine"}
+{"question_id": "v_01159_5", "pred": "Yes, there is a pole in your path."}
+{"question_id": "v_01159_6", "pred": "Yes, the store name is Bee Cheng Hing."}
+{"question_id": "v_01159_7", "pred": "information about the surrounding"}
+{"question_id": "v_01160_1", "pred": "No"}
+{"question_id": "v_01160_2", "pred": "Not safe"}
+{"question_id": "v_01161_2", "pred": "No, there are no physical hazards near the advertising board."}
+{"question_id": "v_01161_3", "pred": "Right"}
+{"question_id": "v_01161_4", "pred": "yes"}
+{"question_id": "v_01161_6", "pred": "No"}
+{"question_id": "v_01162_1", "pred": "Yes"}
+{"question_id": "v_01162_2", "pred": "Familiarize yourself with the station's layout, including the location of escalators, elevators, and stairs."}
+{"question_id": "v_01163_2", "pred": "Right path"}
+{"question_id": "v_01164_1", "pred": "Yes"}
+{"question_id": "v_01165_1", "pred": "Not safe"}
+{"question_id": "v_01165_3", "pred": "Yes, there are people standing in the way as you walk forward."}
+{"question_id": "v_01166_1", "pred": "Yes, there is a railing in front of the door."}
+{"question_id": "v_01166_2", "pred": "black"}
+{"question_id": "v_01167_2", "pred": "Left"}
+{"question_id": "v_01167_4", "pred": "Yes"}
+{"question_id": "v_01168_2", "pred": "Yes, there are some objects on the floor that might trip you."}
+{"question_id": "v_01168_3", "pred": "No, there is no obstacle ahead."}
+{"question_id": "v_01169_3", "pred": "Not safe"}
+{"question_id": "v_01170_1", "pred": "No, it is not safe to follow this line to safety."}
+{"question_id": "v_01172_1", "pred": "Yes, there are barriers in your way."}
+{"question_id": "v_01172_2", "pred": "Check in at the gate."}
+{"question_id": "v_01173_1", "pred": "Yes, there is a bag on the ground that might trip you."}
+{"question_id": "v_01173_2", "pred": "No, turn right"}
+{"question_id": "v_01174_1", "pred": "Man"}
+{"question_id": "v_01174_2", "pred": "No, you are not seated securely and there are some objects nearby."}
+{"question_id": "v_01176_2", "pred": "No, there are no obstructions ahead when you board the aircraft."}
+{"question_id": "v_01176_3", "pred": "No, there is nothing blocking the aisle."}
+{"question_id": "v_01176_5", "pred": "Yes, we have reached your seat."}
+{"question_id": "v_01176_6", "pred": "airplane pilot"}
+{"question_id": "v_01177_1", "pred": "Yes"}
+{"question_id": "v_01177_2", "pred": "No, there are no other obstacles ahead in this corridor."}
+{"question_id": "v_01177_3", "pred": "No entry"}
+{"question_id": "v_01178_1", "pred": "Yes, there is a white vehicle nearby."}
+{"question_id": "v_01179_1", "pred": "No, it's not safe to get off now."}
+{"question_id": "v_01180_1", "pred": "Yes, there are metal poles on both sides of the walkway, which can be a hazard if not used carefully."}
+{"question_id": "v_01180_3", "pred": "Bagage"}
+{"question_id": "v_01180_5", "pred": "Beware of security check"}
+{"question_id": "v_01181_1", "pred": "No, there are no obstacles or potential hazards on your way to the airport entrance."}
+{"question_id": "v_01182_3", "pred": "Forward"}
+{"question_id": "v_01183_2", "pred": "No, there is no one blocking your way to the ticket office."}
+{"question_id": "v_01184_1", "pred": "Yes"}
+{"question_id": "v_01185_1", "pred": "There are no objects that you should be aware of near the handrails."}
+{"question_id": "v_01185_2", "pred": "After passing the security checkpoint, you should go to the next gate."}
+{"question_id": "v_01185_5", "pred": "Formal"}
+{"question_id": "v_01186_2", "pred": "Yes, there is a water bottle on the floor, which is a hazard."}
+{"question_id": "v_01187_1", "pred": "No, there isn't."}
+{"question_id": "v_01190_2", "pred": "Accessible"}
+{"question_id": "v_01190_3", "pred": "Backward"}
+{"question_id": "v_01191_2", "pred": "Not safe"}
+{"question_id": "v_01191_3", "pred": "Hold the device with both hands, use the mouse with your right hand, and then use your left hand's thumb and index finger to interact with the screen."}
+{"question_id": "v_01192_1", "pred": "Yes"}
+{"question_id": "v_01192_2", "pred": "Other vehicles"}
+{"question_id": "v_01193_3", "pred": "Finding the entrance to the subway station can be found by looking for the sign or indicator that marks the subway station."}
+{"question_id": "v_01194_2", "pred": "Another"}
+{"question_id": "v_01195_2", "pred": "Not safe"}
+{"question_id": "v_01195_4", "pred": "Yes, you are approaching a crosswalk."}
+{"question_id": "v_01196_1", "pred": "No, there aren't any vehicles passing by."}
+{"question_id": "v_01197_1", "pred": "Yes, there is a pole which is obstructing the sidewalk in front of you."}
+{"question_id": "v_01198_1", "pred": "Boulders"}
+{"question_id": "v_01198_2", "pred": "No, it is not safe to continue walking in this direction."}
+{"question_id": "v_01199_2", "pred": "Yes, there are some objects on the floor which are obstructing the floor in front of you."}
+{"question_id": "v_01200_1", "pred": "No, there are no obstacles on the road ahead."}
+{"question_id": "v_01201_2", "pred": "Cars"}
+{"question_id": "v_01202_1", "pred": "Yes, there is oncoming traffic."}
+{"question_id": "v_01202_2", "pred": "Yes, there is a car in your way."}
+{"question_id": "v_01204_2", "pred": "The sidewalk is smooth."}
+{"question_id": "v_01205_5", "pred": "By using the cane to balance and steady yourself while walking."}
+{"question_id": "v_01205_6", "pred": "Bicycle, car, and motorcycle"}
+{"question_id": "v_01206_2", "pred": "No, there is no one blocking the seat."}
+{"question_id": "v_01208_1", "pred": "Caution should be exercised when crossing the road here due to the presence of vehicles."}
+{"question_id": "v_01208_4", "pred": "Yes, there are empty seats on the bus."}
+{"question_id": "v_01208_5", "pred": "No, the road ahead can not be traveled smoothly."}
+{"question_id": "v_01209_1", "pred": "Outdoors"}
+{"question_id": "v_01209_3", "pred": "Open the door."}
+{"question_id": "v_01209_7", "pred": "Yes"}
+{"question_id": "v_01210_3", "pred": "No, there is no obstruction near the door."}
+{"question_id": "v_01210_4", "pred": "No, there is no one nearby."}
+{"question_id": "v_01210_6", "pred": "Yes"}
+{"question_id": "v_01211_10", "pred": "Yes"}
+{"question_id": "v_01211_12", "pred": "No, you are sitting in the front seat of a car."}
+{"question_id": "v_01211_13", "pred": "Open the door and then pull the door handle to open it."}
+{"question_id": "v_01211_14", "pred": "Yes, the front seat is occupied."}
+{"question_id": "v_01211_2", "pred": "Yes"}
+{"question_id": "v_01211_3", "pred": "Yes"}
+{"question_id": "v_01211_4", "pred": "Yes"}
+{"question_id": "v_01211_5", "pred": "No"}
+{"question_id": "v_01211_6", "pred": "Baby"}
+{"question_id": "v_01211_8", "pred": "Yes"}
+{"question_id": "v_01211_9", "pred": "No, I am in a different vehicle."}
+{"question_id": "v_01212_2", "pred": "Yes, there is a fire hydrant on the sidewalk"}
+{"question_id": "v_01212_4", "pred": "Cross the road, turn left, and walk straight to the supermarket entrance."}
+{"question_id": "v_01212_5", "pred": "Yes, there are steps in front of you."}
+{"question_id": "v_01212_6", "pred": "Yes"}
+{"question_id": "v_01213_1", "pred": "Cross the road to get to the crosswalk."}
+{"question_id": "v_01214_1", "pred": "No, it is not safe to cross the road now."}
+{"question_id": "v_01214_2", "pred": "Open the door and get in"}
+{"question_id": "v_01214_3", "pred": "Yes"}
+{"question_id": "v_01214_5", "pred": "No, it's not safe to stay in this car now."}
+{"question_id": "v_01215_2", "pred": "Cross the street in the same direction as the car."}
+{"question_id": "v_01216_1", "pred": "No, there are no obstacles on the road ahead."}
+{"question_id": "v_01216_3", "pred": "No, there are many bikes on the path."}
+{"question_id": "v_01217_1", "pred": "Yes, there is a white car parked on the left side of the street."}
+{"question_id": "v_01217_2", "pred": "No, you should stop and look both ways."}
+{"question_id": "v_01217_3", "pred": "Right"}
+{"question_id": "v_01218_2", "pred": "No, it is not the entrance to the building on your right."}
+{"question_id": "v_01220_2", "pred": "Yes, there is a pole in front of you."}
+{"question_id": "v_01220_3", "pred": "Yes"}
+{"question_id": "v_01220_4", "pred": "Yes, there is a steel plate on the sidewalk that may be an obstacle"}
+{"question_id": "v_01220_5", "pred": "Climb up"}
+{"question_id": "v_01220_6", "pred": "Be careful not to fall, and use the stairs or the edge of the sidewalk to cross."}
+{"question_id": "v_01221_3", "pred": "Yes"}
+{"question_id": "v_01222_1", "pred": "No, there is nothing obstructing ahead of you on this sidewalk."}
+{"question_id": "v_01224_2", "pred": "Not safe"}
+{"question_id": "v_01224_3", "pred": "No, there are no obstacles on your way forward."}
+{"question_id": "v_01225_3", "pred": "Yes"}
+{"question_id": "v_01226_1", "pred": "Yes"}
+{"question_id": "v_01226_2", "pred": "Yes, you are facing the entrance of the building."}
+{"question_id": "v_01227_1", "pred": "Up arrow"}
+{"question_id": "v_01227_2", "pred": "Yes"}
+{"question_id": "v_01227_5", "pred": "Yes"}
+{"question_id": "v_01227_8", "pred": "Yes"}
+{"question_id": "v_01228_2", "pred": "Forward."}
+{"question_id": "v_01228_3", "pred": "Walk towards the entrance."}
+{"question_id": "v_01229_1", "pred": "No, it is not safe to move your hand here again."}
+{"question_id": "v_01229_2", "pred": "No, there isn't."}
+{"question_id": "v_01230_1", "pred": "Yes"}
+{"question_id": "v_01230_6", "pred": "Yes, there is a man standing in the lobby near you."}
+{"question_id": "v_01231_3", "pred": "To use the multifunctional facilities in this bathroom, turn the handle in a clockwise direction with your right hand."}
+{"question_id": "v_01231_6", "pred": "Yes, Braille signs indicate accessible restrooms."}
+{"question_id": "v_01232_2", "pred": "No, there are no obstacles in your path."}
+{"question_id": "v_01232_3", "pred": "Yes, I need to be aware of the person in the wheelchair and also the accessibility features of the hotel."}
+{"question_id": "v_01233_1", "pred": "No, your companion has not entered the elevator."}
+{"question_id": "v_01233_2", "pred": "Climb escalator"}
+{"question_id": "v_01233_4", "pred": "Next to the person in a wheelchair"}
+{"question_id": "v_01233_5", "pred": "The nearest elevator is located just a few steps away."}
+{"question_id": "v_01233_6", "pred": "Yes, this is the right direction to go to the customer service desk."}
+{"question_id": "v_01234_3", "pred": "Yes, the man with the camera."}
+{"question_id": "v_01234_5", "pred": "Man"}
+{"question_id": "v_01235_1", "pred": "Man"}
+{"question_id": "v_01235_11", "pred": "Yes, one person is standing in front of the horse."}
+{"question_id": "v_01235_12", "pred": "Yes, there is a horse ahead of you."}
+{"question_id": "v_01235_13", "pred": "Camera"}
+{"question_id": "v_01235_15", "pred": "Horse"}
+{"question_id": "v_01235_17", "pred": "Lush and green, with a clear blue sky"}
+{"question_id": "v_01235_3", "pred": "The person is holding the reins with the help of left hand using all the fingers and thumb when riding this horse."}
+{"question_id": "v_01235_4", "pred": "Climb up"}
+{"question_id": "v_01235_5", "pred": "Horse riding"}
+{"question_id": "v_01235_9", "pred": "Horse"}
+{"question_id": "v_01236_3", "pred": "Outdoors"}
+{"question_id": "v_01237_1", "pred": "Yes, there is a horse, a cart, a wooden table, a wooden bench, a white fence, a white wall, a house, a pole, a tower, and a blue sky in front of you."}
+{"question_id": "v_01239_1", "pred": "Boulders"}
+{"question_id": "v_01239_2", "pred": "No, there are no dangerous or suspicious people nearby."}
+{"question_id": "v_01239_3", "pred": "Lambs"}
+{"question_id": "v_01240_1", "pred": "There are no nearby obstacles that you should be aware of."}
+{"question_id": "v_01241_1", "pred": "Yes"}
+{"question_id": "v_01241_2", "pred": "No"}
+{"question_id": "v_01241_4", "pred": "Alpacas are large, South American animals, often kept as pets. They are known for their gentle nature and can make great companions."}
+{"question_id": "v_01242_1", "pred": "Yes, you can approach the animals safely."}
+{"question_id": "v_01242_4", "pred": "Alpaca"}
+{"question_id": "v_01244_1", "pred": "Yes, your companion assisted you in feeding the alpacas."}
+{"question_id": "v_01245_1", "pred": "Yes, both alpacas are eating out of your hand."}
+{"question_id": "v_01245_3", "pred": "No, it is not safe to continue feeding animals here because there are many animals."}
+{"question_id": "v_01245_4", "pred": "Yes"}
+{"question_id": "v_01245_7", "pred": "Yes, one of the animals ate food from your hand."}
+{"question_id": "v_01246_2", "pred": "No, there is no danger."}
+{"question_id": "v_01246_4", "pred": "Yes, there are others around who need your attention."}
+{"question_id": "v_01246_5", "pred": "Yes, there is a man standing at the back."}
+{"question_id": "v_01247_2", "pred": "Yes"}
+{"question_id": "v_01248_3", "pred": "Brown paper bag"}
+{"question_id": "v_01248_4", "pred": "Food"}
+{"question_id": "v_01249_2", "pred": "No, there is no obstruction at the door."}
+{"question_id": "v_01249_3", "pred": "Yes"}
+{"question_id": "v_01250_2", "pred": "Yes, there is one person in the elevator."}
+{"question_id": "v_01251_1", "pred": "No, I am not getting too close to a trash can."}
+{"question_id": "v_01251_2", "pred": "Yes, there are shops nearby where you can buy things."}
+{"question_id": "v_01251_3", "pred": "Yes"}
+{"question_id": "v_01251_4", "pred": "Yes, the man in the black jacket is using a phone."}
+{"question_id": "v_01251_5", "pred": " posters"}
+{"question_id": "v_01252_1", "pred": "No, there is nothing blocking your way."}
+{"question_id": "v_01252_3", "pred": "Yes, I can read the sign on the door."}
+{"question_id": "v_01252_4", "pred": "Not safe"}
+{"question_id": "v_01252_5", "pred": "No, there are no obstructions in front of the store entrance."}
+{"question_id": "v_01252_6", "pred": "White earphone"}
+{"question_id": "v_01253_2", "pred": "No"}
+{"question_id": "v_01253_3", "pred": "Your little box can be found on the table."}
+{"question_id": "v_01255_1", "pred": "Yes, there is a fence nearby."}
+{"question_id": "v_01256_1", "pred": "No, there are no immediate dangers."}
+{"question_id": "v_01256_3", "pred": "Black horse"}
+{"question_id": "v_01256_4", "pred": "Yes"}
+{"question_id": "v_01256_5", "pred": "Donkey"}
+{"question_id": "v_01257_2", "pred": "Farm"}
+{"question_id": "v_01257_3", "pred": "Four"}
+{"question_id": "v_01257_4", "pred": "Yes"}
+{"question_id": "v_01258_1", "pred": "No, it is not safe."}
+{"question_id": "v_01259_1", "pred": "Short"}
+{"question_id": "v_01259_2", "pred": "Yes"}
+{"question_id": "v_01260_4", "pred": "Yes"}
+{"question_id": "v_01261_1", "pred": "No, there are no obstacles or uneven ground ahead."}
+{"question_id": "v_01261_3", "pred": "On a plate"}
+{"question_id": "v_01262_2", "pred": "Yes, there is a food around you that might suddenly attract animals."}
+{"question_id": "v_01262_4", "pred": "No"}
+{"question_id": "v_01263_2", "pred": "Yes"}
+{"question_id": "v_01263_3", "pred": "Grains"}
+{"question_id": "v_01263_4", "pred": "Yes"}
+{"question_id": "v_01264_5", "pred": "Eating"}
+{"question_id": "v_01264_7", "pred": "Fruits"}
+{"question_id": "v_01265_2", "pred": "Horses"}
+{"question_id": "v_01265_3", "pred": "Dogs"}
+{"question_id": "v_01266_3", "pred": "Goat"}
+{"question_id": "v_01267_2", "pred": "Yes"}
+{"question_id": "v_01268_2", "pred": "No, there are no people around you who might be a safety risk to you."}
+{"question_id": "v_01269_2", "pred": "The claw machine is filled with pink and white toys."}
+{"question_id": "v_01270_1", "pred": "No, there are no obstructions."}
+{"question_id": "v_01270_4", "pred": "Purple toy"}
+{"question_id": "v_01270_5", "pred": "There are approximately 30-40 purple teddy bears in the claw machine."}
+{"question_id": "v_01270_6", "pred": "You won a purple stuffed animal."}
+{"question_id": "v_01272_4", "pred": "Green brown cat"}
+{"question_id": "v_01273_1", "pred": "No, there are no obstacles or sharp objects around the claw machine that you might bump into."}
+{"question_id": "v_01274_3", "pred": "You got a doll and a soft toy."}
+{"question_id": "v_01275_1", "pred": "Not safe, use a basket"}
+{"question_id": "v_01275_2", "pred": "No, there are no sharp objects inside the claw machine."}
+{"question_id": "v_01276_1", "pred": "No, there are no physical hazards nearby that you should be aware of."}
+{"question_id": "v_01276_2", "pred": "Not safe"}
+{"question_id": "v_01276_3", "pred": "By using the control panel"}
+{"question_id": "v_01276_5", "pred": "No, it is not safe to reach into a claw machine to take toys as it can cause injury."}
+{"question_id": "v_01276_7", "pred": "Ducks"}
+{"question_id": "v_01277_1", "pred": "No, no one else is using the machine nearby."}
+{"question_id": "v_01278_1", "pred": "Other shoppers"}
+{"question_id": "v_01278_2", "pred": "No, there is nothing blocking your way."}
+{"question_id": "v_01278_6", "pred": "I am holding a green plush toy and a purple plush toy."}
+{"question_id": "v_01279_1", "pred": "There is a risk of getting stuck."}
+{"question_id": "v_01279_2", "pred": "No, there are no visible sharp edges inside the claw machine that you need to avoid."}
+{"question_id": "v_01279_4", "pred": "Balls"}
+{"question_id": "v_01279_5", "pred": "Colorful"}
+{"question_id": "v_01280_2", "pred": "Stuffed animals"}
+{"question_id": "v_01281_2", "pred": "This place appears to be a cafe or restaurant, with people sitting on chairs and tables, and a view of the outside through the glass window."}
+{"question_id": "v_01282_6", "pred": "Bottle"}
+{"question_id": "v_01282_7", "pred": "Ceramic items"}
+{"question_id": "v_01283_3", "pred": "Cups"}
+{"question_id": "v_01283_5", "pred": "Yes"}
+{"question_id": "v_01284_1", "pred": "Forward."}
+{"question_id": "v_01284_3", "pred": "Coffee"}
+{"question_id": "v_01285_10", "pred": "Yes"}
+{"question_id": "v_01285_11", "pred": "Walk."}
+{"question_id": "v_01285_12", "pred": "Statue"}
+{"question_id": "v_01285_14", "pred": "This statue is a representation of a man. It is made of metal and has a green patina. The man is wearing a suit, a cap, and holding a bag in his left hand. His right hand is raised in the air. The statue is quite detailed, with visible muscles and a textured surface. It is a popular spot for tourists to take photos, as it is a well-known landmark in the city."}
+{"question_id": "v_01285_4", "pred": "Cross the road in front of the statue and walk straight to the crosswalk."}
+{"question_id": "v_01285_5", "pred": "Yes"}
+{"question_id": "v_01285_7", "pred": "Metal"}
+{"question_id": "v_01285_8", "pred": "Central building"}
+{"question_id": "v_01285_9", "pred": "Man"}
+{"question_id": "v_01286_1", "pred": "Yes, there is a statue in front of you."}
+{"question_id": "v_01286_10", "pred": "Yes"}
+{"question_id": "v_01286_14", "pred": "Art statue"}
+{"question_id": "v_01286_17", "pred": "Dog"}
+{"question_id": "v_01286_2", "pred": "No, I am not facing the entrance to this area now."}
+{"question_id": "v_01286_3", "pred": "Bull statue"}
+{"question_id": "v_01286_4", "pred": "Statue"}
+{"question_id": "v_01286_5", "pred": "Yes"}
+{"question_id": "v_01286_6", "pred": "Yes"}
+{"question_id": "v_01286_7", "pred": "Yes"}
+{"question_id": "v_01286_9", "pred": "Yes, there are public art or statues nearby."}
+{"question_id": "v_01287_2", "pred": "Statue"}
+{"question_id": "v_01287_4", "pred": "Man"}
+{"question_id": "v_01290_12", "pred": "Well-lit"}
+{"question_id": "v_01290_13", "pred": "Louis Vuitton"}
+{"question_id": "v_01290_2", "pred": "You can find a mirror at the counter."}
+{"question_id": "v_01290_3", "pred": "Right"}
+{"question_id": "v_01290_5", "pred": "No, I am inside the store."}
+{"question_id": "v_01290_6", "pred": "After taking out the stuff, put the handbag back to the shelves."}
+{"question_id": "v_01290_7", "pred": "Louis Vuitton"}
+{"question_id": "v_01290_9", "pred": "Lion's head"}
+{"question_id": "v_01291_1", "pred": "Follow the signs to the exit."}
+{"question_id": "v_01291_10", "pred": "Bottles"}
+{"question_id": "v_01291_11", "pred": "This object is a perfume bottle, and you should sprinkle some on your neck."}
+{"question_id": "v_01291_3", "pred": "Dresses"}
+{"question_id": "v_01291_6", "pred": "Yes"}
+{"question_id": "v_01291_8", "pred": "Yes"}
+{"question_id": "v_01291_9", "pred": "Use key"}
+{"question_id": "v_01293_1", "pred": "No, there is no customer service desk nearby."}
+{"question_id": "v_01293_2", "pred": "Clear"}
+{"question_id": "v_01293_3", "pred": "Not safe"}
+{"question_id": "v_01293_4", "pred": "You can find the checkout counter in the right side of the image."}
+{"question_id": "v_01294_1", "pred": "No, there isn't."}
+{"question_id": "v_01294_11", "pred": "Yes"}
+{"question_id": "v_01294_12", "pred": "Baby products"}
+{"question_id": "v_01294_2", "pred": "Yes, there is a woman in a red jacket standing nearby."}
+{"question_id": "v_01294_8", "pred": "Behind the counter"}
+{"question_id": "v_01294_9", "pred": "Behind the counter, towards the back"}
+{"question_id": "v_01295_2", "pred": "No, there are no one standing nearby that I might bump into."}
+{"question_id": "v_01295_8", "pred": "Napkin"}
+{"question_id": "v_01296_3", "pred": "Personal care"}
+{"question_id": "v_01296_5", "pred": "Baby products"}
+{"question_id": "v_01296_6", "pred": "No, the napkin I hold in my hand does not have a price tag on it on the shelf."}
+{"question_id": "v_01296_8", "pred": "Diaper"}
+{"question_id": "v_01297_1", "pred": "Clear"}
+{"question_id": "v_01297_4", "pred": "Little"}
+{"question_id": "v_01297_6", "pred": "KP89"}
+{"question_id": "v_01298_1", "pred": "Yes, there is a clear path to the cash register."}
+{"question_id": "v_01298_5", "pred": "Box"}
+{"question_id": "v_01299_1", "pred": "Yes, there are some more objects in your way."}
+{"question_id": "v_01299_3", "pred": "Clear"}
+{"question_id": "v_01299_4", "pred": "Forward"}
+{"question_id": "v_01300_3", "pred": "Yes"}
+{"question_id": "v_01300_4", "pred": "180"}
+{"question_id": "v_01300_5", "pred": "Middle: 19.80, Right: 19.90"}
+{"question_id": "v_01300_6", "pred": "Dessert"}
+{"question_id": "v_01301_3", "pred": "I'm not able to provide directions on how to find the cashier counter in the supermarket as it may be a specific counter with a unique location or a counter with a different name. However, I can suggest searching for it online or checking the supermarket's website for the most accurate and up-to-date information."}
+{"question_id": "v_01301_5", "pred": "Cakes"}
+{"question_id": "v_01301_6", "pred": "Dairy products"}
+{"question_id": "v_01302_1", "pred": "No, there are no obstacles in front of you that might cause you to trip."}
+{"question_id": "v_01302_2", "pred": "Yes, there are people nearby that you should be aware of."}
+{"question_id": "v_01303_3", "pred": "Yes"}
+{"question_id": "v_01303_6", "pred": "Down"}
+{"question_id": "v_01304_2", "pred": "No, there is no clear path for you to navigate through the area."}
+{"question_id": "v_01304_4", "pred": "Yes"}
+{"question_id": "v_01305_5", "pred": "Yes, you are facing the store entrance."}
+{"question_id": "v_01307_2", "pred": "Yes, there are some objects on the floor that you could trip over."}
+{"question_id": "v_01308_1", "pred": "No, there is no one in your way."}
+{"question_id": "v_01308_3", "pred": "Baby doll"}
+{"question_id": "v_01309_1", "pred": "Yes, there are people in your way."}
+{"question_id": "v_01309_3", "pred": "To the right"}
+{"question_id": "v_01309_4", "pred": "Look for the staff member at the front of the store."}
+{"question_id": "v_01310_3", "pred": "Yes, there is a crosswalk nearby."}
+{"question_id": "v_01310_4", "pred": "Blue screen"}
+{"question_id": "v_01310_5", "pred": "Samsung"}
+{"question_id": "v_01310_6", "pred": "Words"}
+{"question_id": "v_01311_1", "pred": "Caution"}
+{"question_id": "v_01311_12", "pred": "Yes, if you continue along the road, you need to be careful of oncoming traffic."}
+{"question_id": "v_01311_14", "pred": "No, I am not taking the right route to the bus stop."}
+{"question_id": "v_01311_2", "pred": "People"}
+{"question_id": "v_01311_3", "pred": "Yes"}
+{"question_id": "v_01311_6", "pred": "No, it is not safe to cross the road now."}
+{"question_id": "v_01311_9", "pred": "No, I am facing the wrong direction."}
+{"question_id": "v_01312_5", "pred": "Your reflection"}
+{"question_id": "v_01313_1", "pred": "Painting"}
+{"question_id": "v_01314_1", "pred": "Yes, I can take you to the escalator."}
+{"question_id": "v_01315_1", "pred": "Hold the cane vertically and move it horizontally to check the road ahead."}
+{"question_id": "v_01316_1", "pred": "The view is of a road with trees on both sides. There is a bike lane on the right side of the road. There are also people riding bikes and a few cars on the road."}
+{"question_id": "v_01318_1", "pred": "Beige jacket"}
+{"question_id": "v_01319_1", "pred": "Yes"}
+{"question_id": "v_01319_3", "pred": "Xinie Kou"}
+{"question_id": "v_01319_4", "pred": "No, all the seats are taken."}
+{"question_id": "v_01320_1", "pred": "To the right"}
+{"question_id": "v_01322_1", "pred": "No, I cannot read the sign next to you because it is in a different language."}
+{"question_id": "v_01324_1", "pred": "No, this path is not safe to walk on."}
+{"question_id": "v_01324_2", "pred": "Across the road"}
+{"question_id": "v_01324_4", "pred": "Cross the road to get through the entrance."}
+{"question_id": "v_01325_1", "pred": "Outdoors"}
+{"question_id": "v_01325_2", "pred": "Not so close"}
+{"question_id": "v_01326_1", "pred": "Yes"}
+{"question_id": "v_01326_2", "pred": "Yes, there are buses, cars, and a person visible in front of the bus, which may be an obstruction."}
+{"question_id": "v_01329_1", "pred": "Yes, there is a barrier in front of you."}
+{"question_id": "v_01329_2", "pred": "Yes"}
+{"question_id": "v_01330_2", "pred": "Yes, there is a policeman walking towards you."}
+{"question_id": "v_01331_1", "pred": "Yes"}
+{"question_id": "v_01331_4", "pred": "Not safe"}
+{"question_id": "v_01331_5", "pred": "Yes"}
+{"question_id": "v_01332_1", "pred": "No, there is nothing on the floor around the table that might trip you."}
+{"question_id": "v_01332_3", "pred": "Yes, it is possible that you might bump into any shelves while browsing."}
+{"question_id": "v_01333_1", "pred": "No, there are no obstacles or sharp objects around that could injure you while handling these documents."}
+{"question_id": "v_01334_2", "pred": "No, there is no one near you that you should be aware of."}
+{"question_id": "v_01334_3", "pred": "No, it is not safe to move your hand to the left."}
+{"question_id": "v_01335_4", "pred": "No, there is no one around you who can help you cross the street."}
+{"question_id": "v_01336_1", "pred": "Yes, I can cross the road."}
+{"question_id": "v_01336_3", "pred": "Yes"}
+{"question_id": "v_01336_4", "pred": "Yes"}
+{"question_id": "v_01337_1", "pred": "Car"}
+{"question_id": "v_01338_1", "pred": "Not waiting"}
+{"question_id": "v_01338_3", "pred": "No"}
+{"question_id": "v_01339_2", "pred": "No, it does not fit."}
+{"question_id": "v_01339_3", "pred": "Front."}
+{"question_id": "v_01340_2", "pred": "No, there are no signs or information about your current location in the video."}
+{"question_id": "v_01341_10", "pred": "Bottle"}
+{"question_id": "v_01341_12", "pred": "Black uniform"}
+{"question_id": "v_01341_2", "pred": "Yes"}
+{"question_id": "v_01341_4", "pred": "To the right"}
+{"question_id": "v_01341_5", "pred": "Left"}
+{"question_id": "v_01341_6", "pred": "You can find the nearest information office at the address: 1st floor, left side of the pillar."}
+{"question_id": "v_01341_9", "pred": "No, I am walking in the opposite direction."}
+{"question_id": "v_01342_1", "pred": "I am on a grey surface."}
+{"question_id": "v_01342_2", "pred": "Book"}
+{"question_id": "v_01342_3", "pred": "Bus routes 2 and 3"}
+{"question_id": "v_01344_4", "pred": "510"}
+{"question_id": "v_01344_6", "pred": "Yes, your site is coming soon."}
+{"question_id": "v_01344_7", "pred": "Bus"}
+{"question_id": "v_01344_9", "pred": "Yes"}
+{"question_id": "v_01345_2", "pred": "No"}
+{"question_id": "v_01346_1", "pred": "Not safe"}
+{"question_id": "v_01347_2", "pred": "Cross the road to the other side of the road and walk forward."}
+{"question_id": "v_01347_3", "pred": "No, I am not facing the hotel entrance."}
+{"question_id": "v_01347_5", "pred": "Yes, there is a man in black clothes and a white cap walking on the opposite side of the road who can help you."}
+{"question_id": "v_01348_1", "pred": "Yes"}
+{"question_id": "v_01349_2", "pred": "Cross the street in front of the car."}
+{"question_id": "v_01349_5", "pred": "Cross the road to the left and continue straight."}
+{"question_id": "v_01349_7", "pred": "Yes, I can let you get in the taxi now."}
+{"question_id": "v_01350_10", "pred": "No"}
+{"question_id": "v_01350_11", "pred": "Yes"}
+{"question_id": "v_01350_12", "pred": "Buildings"}
+{"question_id": "v_01350_13", "pred": "No"}
+{"question_id": "v_01350_3", "pred": "You can find a nearby crosswalk on the map displayed on your phone."}
+{"question_id": "v_01350_6", "pred": "Not safe"}
+{"question_id": "v_01350_7", "pred": "Cross the road, turn left, and walk forward."}
+{"question_id": "v_01351_1", "pred": "Next to the kitchen"}
+{"question_id": "v_01351_13", "pred": "No, there are no signs or instructions near this door."}
+{"question_id": "v_01351_2", "pred": "Inside"}
+{"question_id": "v_01351_5", "pred": "Not so close"}
+{"question_id": "v_01351_6", "pred": "Yes"}
+{"question_id": "v_01351_8", "pred": "Use the handrail"}
+{"question_id": "v_01351_9", "pred": "This area has a narrow street with tall buildings on either side, a car parked on the side of the road, and a few people walking on the sidewalk."}
+{"question_id": "v_01352_2", "pred": "03-31 02:33"}
+{"question_id": "v_01353_1", "pred": "Yes, someone opened the pharmacy door for you."}
+{"question_id": "v_01353_2", "pred": "Right"}
+{"question_id": "v_01353_3", "pred": "Behind the man in white clothes"}
+{"question_id": "v_01353_6", "pred": "Yes"}
+{"question_id": "v_01354_2", "pred": "Yes"}
+{"question_id": "v_01354_3", "pred": "Open the door"}
+{"question_id": "v_01354_5", "pred": "Yes"}
+{"question_id": "v_01354_6", "pred": "Cars"}
+{"question_id": "v_01354_8", "pred": "Buildings"}
+{"question_id": "v_01355_10", "pred": "On the grey road"}
+{"question_id": "v_01355_12", "pred": "The shops on the left side of the road are called 'King's Road' and 'King's Road 2'."}
+{"question_id": "v_01355_2", "pred": "Left"}
+{"question_id": "v_01355_3", "pred": "Left"}
+{"question_id": "v_01355_4", "pred": "Next to the building with posters"}
+{"question_id": "v_01355_7", "pred": "Cross the road"}
+{"question_id": "v_01355_8", "pred": "Yes"}
+{"question_id": "v_01355_9", "pred": "No, I am facing the house."}
+{"question_id": "v_01356_1", "pred": "Yes"}
+{"question_id": "v_01356_3", "pred": "Open the door"}
+{"question_id": "v_01356_4", "pred": "Cars and a truck are parked outside the door."}
+{"question_id": "v_01357_2", "pred": " shops"}
+{"question_id": "v_01357_3", "pred": "Open the door."}
+{"question_id": "v_01358_2", "pred": "Glass"}
+{"question_id": "v_01361_2", "pred": "No, there are no obstacles in your path."}
+{"question_id": "v_01362_1", "pred": "Forward"}
+{"question_id": "v_01364_1", "pred": "No, you should not cross the road now."}
+{"question_id": "v_01365_2", "pred": "Hold the cane with both hands and move it forward to find the curb."}
+{"question_id": "v_01367_1", "pred": "No, still on the same side of the street."}
+{"question_id": "v_01367_2", "pred": "No, there are no vehicles approaching."}
+{"question_id": "v_01369_2", "pred": "Walk"}
+{"question_id": "v_01369_3", "pred": "Ceramic products"}
+{"question_id": "v_01369_4", "pred": "No, I am not close to the seating area. I am standing in front of the counter."}
+{"question_id": "v_01370_1", "pred": "Yes, there is a cup on the table in front of you."}
+{"question_id": "v_01371_1", "pred": "Through the door on the right"}
+{"question_id": "v_01371_2", "pred": "I'm not able to provide directions to the laundry area as it may be considered a sensitive or private topic."}
+{"question_id": "v_01371_4", "pred": "Ceramic"}
+{"question_id": "v_01371_6", "pred": "Ceramic"}
+{"question_id": "v_01372_1", "pred": "The object you are holding is a toy mouse."}
+{"question_id": "v_01372_2", "pred": "Cute face"}
+{"question_id": "v_01373_2", "pred": "Ceramics"}
+{"question_id": "v_01374_1", "pred": "There is no soap by the sink."}
+{"question_id": "v_01375_10", "pred": "Walk"}
+{"question_id": "v_01375_11", "pred": "Yes, I can guide you to the item on the shelf."}
+{"question_id": "v_01375_12", "pred": "No, I am not near the cashier."}
+{"question_id": "v_01375_13", "pred": "Yes"}
+{"question_id": "v_01375_14", "pred": "Ceramics"}
+{"question_id": "v_01375_15", "pred": "No, it is not a statue on the shelf to the right."}
+{"question_id": "v_01375_16", "pred": "Yes, I am near the table."}
+{"question_id": "v_01375_17", "pred": "The object you are holding is a toy."}
+{"question_id": "v_01375_19", "pred": "Bottles"}
+{"question_id": "v_01375_2", "pred": "There is no inscription or mark on the figurine."}
+{"question_id": "v_01375_22", "pred": "Behind the table"}
+{"question_id": "v_01375_23", "pred": "Yes, there are some unique items on the shelf."}
+{"question_id": "v_01375_4", "pred": "Forward"}
+{"question_id": "v_01375_6", "pred": "Left"}
+{"question_id": "v_01375_7", "pred": "Door"}
+{"question_id": "v_01375_8", "pred": "In front of the person"}
+{"question_id": "v_01375_9", "pred": "No, there is no restroom nearby."}
+{"question_id": "v_01376_1", "pred": "The nearest seat is next to the table."}
+{"question_id": "v_01377_1", "pred": "Left"}
+{"question_id": "v_01377_10", "pred": "Cups"}
+{"question_id": "v_01377_2", "pred": "In front of the camera wearer"}
+{"question_id": "v_01377_4", "pred": "Here is the nearest exit from here."}
+{"question_id": "v_01377_5", "pred": "Yes"}
+{"question_id": "v_01378_1", "pred": "Bathroom"}
+{"question_id": "v_01378_3", "pred": " clay pot"}
+{"question_id": "v_01379_13", "pred": "On the table"}
+{"question_id": "v_01379_14", "pred": "The paintbrush is on the table, about 0cm away."}
+{"question_id": "v_01379_15", "pred": "On the table"}
+{"question_id": "v_01379_16", "pred": "I did find the paintbrush on the table."}
+{"question_id": "v_01379_17", "pred": "Ceramic"}
+{"question_id": "v_01379_18", "pred": "You are holding a white ceramic cup and drawing on it with a pencil."}
+{"question_id": "v_01379_22", "pred": "Yes"}
+{"question_id": "v_01379_24", "pred": "Bottle"}
+{"question_id": "v_01379_25", "pred": "White"}
+{"question_id": "v_01379_26", "pred": "Yes, everything you need is on the table and within reach."}
+{"question_id": "v_01379_27", "pred": "No"}
+{"question_id": "v_01379_28", "pred": "The shelf has many items, such as bowls, cups, and decorative objects."}
+{"question_id": "v_01379_29", "pred": "White"}
+{"question_id": "v_01379_30", "pred": "Yes"}
+{"question_id": "v_01379_4", "pred": "Notebook"}
+{"question_id": "v_01379_5", "pred": "Follow the signs in the direction of the exit."}
+{"question_id": "v_01379_6", "pred": "No, I am facing the table."}
+{"question_id": "v_01379_8", "pred": "Ceramic items"}
+{"question_id": "v_01379_9", "pred": "Yes, you have a cup or mug in front of you."}
+{"question_id": "v_01380_2", "pred": "To the right"}
+{"question_id": "v_01380_3", "pred": "Beneath the table"}
+{"question_id": "v_01380_5", "pred": "White"}
+{"question_id": "v_01380_6", "pred": "Yes, there is a cup placed near the left hand."}
+{"question_id": "v_01380_7", "pred": "Next to the table."}
+{"question_id": "v_01381_3", "pred": "Bowl"}
+{"question_id": "v_01381_4", "pred": "It is smooth."}
+{"question_id": "v_01381_6", "pred": "Left"}
+{"question_id": "v_01382_2", "pred": "Bottles"}
+{"question_id": "v_01382_4", "pred": "Door"}
+{"question_id": "v_01382_6", "pred": "On the table."}
+{"question_id": "v_01383_1", "pred": "At the end of the video, the nearest intersection is reached."}
+{"question_id": "v_01385_1", "pred": "Forward"}
+{"question_id": "v_01385_3", "pred": "Use the handle"}
+{"question_id": "v_01385_5", "pred": "Open the door."}
+{"question_id": "v_01386_3", "pred": "Yes"}
+{"question_id": "v_01387_2", "pred": "Cross the road, turn left, walk 3 steps, then turn right, walk 2 steps."}
+{"question_id": "v_01387_3", "pred": "Yes"}
+{"question_id": "v_01388_4", "pred": "Walk straight forward."}
+{"question_id": "v_01388_7", "pred": " chinese clothes"}
+{"question_id": "v_01390_2", "pred": "Yes"}
+{"question_id": "v_01391_2", "pred": "Turn right"}
+{"question_id": "v_01391_3", "pred": "Walk."}
+{"question_id": "v_01392_2", "pred": "Up"}
+{"question_id": "v_01392_4", "pred": "No, there is no one near the elevator who can assist you."}
+{"question_id": "v_01393_1", "pred": "Another person"}
+{"question_id": "v_01394_1", "pred": "People"}
+{"question_id": "v_01394_2", "pred": "Yes"}
+{"question_id": "v_01395_2", "pred": "Left"}
+{"question_id": "v_01395_3", "pred": "Yes"}
+{"question_id": "v_01396_1", "pred": "Bike"}
+{"question_id": "v_01397_1", "pred": "Yes"}
+{"question_id": "v_01398_1", "pred": "Yes, your cane detects the blind path correctly."}
+{"question_id": "v_01398_5", "pred": "Forward"}
+{"question_id": "v_01399_1", "pred": "Gray surface"}
+{"question_id": "v_01399_2", "pred": "No"}
+{"question_id": "v_01400_1", "pred": "No, there is nothing ahead."}
+{"question_id": "v_01400_2", "pred": "Yes"}
+{"question_id": "v_01400_6", "pred": "No, the area is restricted"}
+{"question_id": "v_01400_7", "pred": "No, there is no way to get past the barrier ahead."}
+{"question_id": "v_01400_8", "pred": "Field"}
+{"question_id": "v_01402_1", "pred": "Carefully"}
+{"question_id": "v_01402_2", "pred": " railing"}
+{"question_id": "v_01404_1", "pred": "The living room area has a sofa with pillows, a table with a monitor, keyboard, mouse, and other objects, a chair, a plant, a window with curtains, a door, and a wall."}
+{"question_id": "v_01405_1", "pred": "Hold the handrail with your left hand, placing your thumb on top and your other fingers wrapped around it."}
+{"question_id": "v_01405_3", "pred": "Brown surface"}
+{"question_id": "v_01406_1", "pred": "The person is finding and using the bathroom equipment with the help of a stick."}
+{"question_id": "v_01407_1", "pred": "No, he is not"}
+{"question_id": "v_01407_2", "pred": "The room is filled with furniture, including a sofa with cushions, a chair, a table, a lamp, a plant, a door, and a wall."}
+{"question_id": "v_01407_3", "pred": "Yes"}
+{"question_id": "v_01408_1", "pred": "Walk."}
+{"question_id": "v_01408_2", "pred": "To use this light, first switch it on, then point it in the direction of the area you want to light, and finally switch it off."}
+{"question_id": "v_01408_4", "pred": "Yes"}
+{"question_id": "v_01409_1", "pred": "Chairs"}
+{"question_id": "v_01410_2", "pred": "No, the oil is not poured into the pan."}
+{"question_id": "v_01410_4", "pred": "Yes"}
+{"question_id": "v_01410_5", "pred": "Yes"}
+{"question_id": "v_01411_1", "pred": "To use this induction cooker to cook, heat the pan on the cooker, then add the food."}
+{"question_id": "v_01412_1", "pred": "Press the button on the cooker."}
+{"question_id": "v_01412_2", "pred": "There is a pan, a spatula, and a bottle on the counter."}
+{"question_id": "v_01414_2", "pred": "Yes, there is a tree in front of you."}
+{"question_id": "v_01414_3", "pred": "Yes, there are obstacles ahead."}
+{"question_id": "v_01414_5", "pred": "No, there is no turn or intersection ahead on this road."}
+{"question_id": "v_01414_6", "pred": "About 100 meters."}
+{"question_id": "v_01414_7", "pred": "Yes"}
+{"question_id": "v_01414_9", "pred": "Yes"}
+{"question_id": "v_01417_2", "pred": "Door"}
+{"question_id": "v_01418_4", "pred": "Pass, if possible, or find an alternative route."}
+{"question_id": "v_01420_1", "pred": "Market"}
+{"question_id": "v_01421_1", "pred": "Food"}
+{"question_id": "v_01422_1", "pred": "Park"}
+{"question_id": "v_01422_2", "pred": "Fountain"}
+{"question_id": "v_01424_1", "pred": "Muddy"}
+{"question_id": "v_01424_2", "pred": "Bag"}
+{"question_id": "v_01427_1", "pred": "Yes"}
+{"question_id": "v_01430_1", "pred": "Yes"}
+{"question_id": "v_01431_1", "pred": "Down"}
+{"question_id": "v_01431_2", "pred": "Walk, then board the train."}
+{"question_id": "v_01433_3", "pred": "Yes"}
+{"question_id": "v_01434_10", "pred": "Ten"}
+{"question_id": "v_01434_2", "pred": "Down the stairs"}
+{"question_id": "v_01434_3", "pred": "The blind path is on the floor."}
+{"question_id": "v_01434_5", "pred": "The security checkpoint is located at the end of the hallway."}
+{"question_id": "v_01434_6", "pred": "Broom"}
+{"question_id": "v_01434_7", "pred": "No, your bag is not on the conveyor belt."}
+{"question_id": "v_01434_8", "pred": "Yes, you went through the turnstile."}
+{"question_id": "v_01435_1", "pred": "To the elevator."}
+{"question_id": "v_01435_3", "pred": "A few minutes"}
+{"question_id": "v_01437_1", "pred": "On the right side of the road"}
+{"question_id": "v_01438_2", "pred": "City bus"}
+{"question_id": "v_01438_3", "pred": "On the touch screen"}
+{"question_id": "v_01440_1", "pred": "Bicycles"}
+{"question_id": "v_01441_1", "pred": "Across the road"}
+{"question_id": "v_01442_2", "pred": "Bicycle"}
+{"question_id": "v_01442_4", "pred": "Across the road"}
+{"question_id": "v_01444_2", "pred": "Your cane can be found on the table."}
+{"question_id": "v_01445_1", "pred": "Outdoors"}
+{"question_id": "v_01445_2", "pred": "In the person's hand"}
+{"question_id": "v_01446_4", "pred": "Yes"}
+{"question_id": "v_01446_5", "pred": "Cucumber"}
+{"question_id": "v_01446_7", "pred": "Yes"}
+{"question_id": "v_01447_2", "pred": "No"}
+{"question_id": "v_01447_3", "pred": "Car"}
+{"question_id": "v_01447_4", "pred": "Car"}
+{"question_id": "v_01448_1", "pred": "No, you should not cross the road here as it is dark and you may be involved in an accident."}
+{"question_id": "v_01448_3", "pred": "Cars"}
+{"question_id": "v_01448_5", "pred": "No, I'm not allowed to go ahead."}
+{"question_id": "v_01448_7", "pred": "Downtown area"}
+{"question_id": "v_01448_9", "pred": "Upward"}
+{"question_id": "v_01449_2", "pred": "No"}
+{"question_id": "v_01449_3", "pred": "City street"}
+{"question_id": "v_01450_1", "pred": "Behind the counter"}
+{"question_id": "v_01450_2", "pred": "10"}
+{"question_id": "v_01451_2", "pred": "Blue light on"}
+{"question_id": "v_01451_5", "pred": "Yes"}
+{"question_id": "v_01452_2", "pred": "Mall"}
+{"question_id": "v_01452_4", "pred": "Store"}
+{"question_id": "v_01452_5", "pred": "No"}
+{"question_id": "v_01453_1", "pred": "Mall"}
+{"question_id": "v_01454_2", "pred": "Car"}
+{"question_id": "v_01455_1", "pred": "Yes, there is a bike"}
+{"question_id": "v_01459_1", "pred": "Yes, a motorcycle"}
+{"question_id": "v_01461_2", "pred": "No, the movie has not started yet."}
+{"question_id": "v_01463_1", "pred": "No, there are no obstacles ahead."}
+{"question_id": "v_01464_1", "pred": "Yes"}
+{"question_id": "v_01464_2", "pred": "Yes, there is a white car ahead."}
+{"question_id": "v_01465_1", "pred": "Blue scooter"}
+{"question_id": "v_01465_2", "pred": "Yes, there is a bicycle ahead."}
+{"question_id": "v_01466_1", "pred": "The blind path is visible in the background."}
+{"question_id": "v_01466_2", "pred": "The zebra crossing is visible in the background."}
+{"question_id": "v_01467_1", "pred": "Blue-white phone"}
+{"question_id": "v_01467_2", "pred": "No, turning right."}
+{"question_id": "v_01467_3", "pred": "Yes, there is a blue auto rickshaw parked on the road, which is an obstacle ahead."}
+{"question_id": "v_01467_4", "pred": "On the right side of the road"}
+{"question_id": "v_01468_1", "pred": "The sidewalk is visible in the video, with the camera wearer standing on it."}
+{"question_id": "v_01470_2", "pred": "No"}
+{"question_id": "v_01471_2", "pred": "Selfie stick"}
+{"question_id": "v_01472_2", "pred": "No, I am not facing the exit now."}
+{"question_id": "v_01473_2", "pred": "Yes, you are facing the entrance."}
+{"question_id": "v_01475_2", "pred": "Yes, I am facing the shelf with the ceramic mugs."}
+{"question_id": "v_01476_1", "pred": "Visual inspection: By looking at the different shapes, sizes, materials, and designs on the cups."}
+{"question_id": "v_01477_1", "pred": "Ceramic bowl"}
+{"question_id": "v_01478_1", "pred": "Yes"}
+{"question_id": "v_01479_1", "pred": "First row"}
+{"question_id": "v_01479_2", "pred": "Look for the staff at the counter."}
+{"question_id": "v_01481_1", "pred": "Museum"}
+{"question_id": "v_01483_2", "pred": "Bottle"}
+{"question_id": "v_01486_1", "pred": "Nature"}
+{"question_id": "v_01486_2", "pred": "Information"}
+{"question_id": "v_01487_1", "pred": "Museum"}
+{"question_id": "v_01491_2", "pred": "You are holding some cards in your hand."}
+{"question_id": "v_01492_1", "pred": "Passport"}
+{"question_id": "v_01493_2", "pred": "Yes"}
+{"question_id": "v_01494_1", "pred": "Yes"}
+{"question_id": "v_01495_3", "pred": "Yes"}
+{"question_id": "v_01496_1", "pred": "Man"}
+{"question_id": "v_01496_2", "pred": "Driving"}
+{"question_id": "v_01497_2", "pred": "Green apples"}
+{"question_id": "v_01500_1", "pred": "7"}
+{"question_id": "v_01501_1", "pred": "Yes"}
+{"question_id": "v_01502_2", "pred": "Bed"}
+{"question_id": "v_01503_1", "pred": "Cat food"}
+{"question_id": "v_01504_2", "pred": "Cat"}
+{"question_id": "v_01507_1", "pred": "Black-white floor"}
+{"question_id": "v_01508_1", "pred": "Ferns"}
+{"question_id": "v_01509_2", "pred": "Forward"}
+{"question_id": "v_01510_2", "pred": "Yes"}
+{"question_id": "v_01510_3", "pred": "Black-white shops"}
+{"question_id": "v_01511_1", "pred": "Abraham"}
+{"question_id": "v_01513_1", "pred": "Yes"}
+{"question_id": "v_01515_1", "pred": "Coming"}
+{"question_id": "v_01518_1", "pred": "No"}
+{"question_id": "v_01519_1", "pred": "Your surroundings include a grey surface, parked vehicles, trees, buildings, and the sky."}
+{"question_id": "v_01520_1", "pred": "By scanning the QR code on the ticket"}
+{"question_id": "v_01522_1", "pred": "Behind the man"}
+{"question_id": "v_01522_3", "pred": "No, there is no one nearby who can show you to your seat."}
+{"question_id": "v_01522_4", "pred": "Mall"}
+{"question_id": "v_01523_1", "pred": "No, the cashier did not put your purchases in the bag for you."}
+{"question_id": "v_01523_2", "pred": "Food"}
+{"question_id": "v_01526_1", "pred": "Your surrounding is a mall with a white tile floor, glass walls, plants in pots, a display screen, and a roof with ceiling lights."}
+{"question_id": "v_01527_1", "pred": "No, the staff will not help you find a luggage cart."}
+{"question_id": "v_01527_2", "pred": "Yes, there are luggage trolleys available."}
+{"question_id": "v_01528_1", "pred": "Yes, your companion will help you find the taxi pick-up area."}
+{"question_id": "v_01529_1", "pred": "Box"}
+{"question_id": "v_01531_1", "pred": "No, she did not guide you correctly to your seats."}
+{"question_id": "v_01531_2", "pred": "Yes, there is a gate nearby."}
+{"question_id": "v_01531_4", "pred": "No, there are no signage directing you to baggage claim."}
+{"question_id": "v_01531_5", "pred": "Yes"}
+{"question_id": "v_01532_2", "pred": "No, there is no one nearby who can help you board the plane."}
+{"question_id": "v_01533_1", "pred": "After taking off the safety procedure, the first person wearing a red cloth is moving forward and giving the ticket to the second person then the second person is moving forward and giving the ticket to the first person."}
+{"question_id": "v_01534_1", "pred": "Yes, there are signs"}
+{"question_id": "v_01534_2", "pred": "Yes, there is a luggage cart visible in the video."}
+{"question_id": "v_01535_2", "pred": "No, the person is not approaching someone sitting to the left."}
+{"question_id": "v_01539_2", "pred": "No"}
+{"question_id": "v_01540_1", "pred": "Press the button"}
+{"question_id": "v_01540_2", "pred": "Yes"}
+{"question_id": "v_01540_3", "pred": "Yes, there is a gap in the direction you're heading."}
+{"question_id": "v_01540_4", "pred": "Empty"}
+{"question_id": "v_01544_1", "pred": "Door"}
+{"question_id": "v_01544_2", "pred": "Cones"}
+{"question_id": "v_01545_1", "pred": "Not very"}
+{"question_id": "v_01546_1", "pred": "No, there is no one nearby who can help you cross the street."}
+{"question_id": "v_01547_1", "pred": "Am I still walking in a straight line?"}
+{"question_id": "v_01547_2", "pred": "Safe"}
+{"question_id": "v_01547_4", "pred": "Yes, there are vehicles in your path that you need to be aware of."}
+{"question_id": "v_01548_1", "pred": "Yes"}
+{"question_id": "v_01550_10", "pred": "No, I am not allowed in."}
+{"question_id": "v_01550_2", "pred": "No, there are no obstacles ahead."}
+{"question_id": "v_01550_4", "pred": "Under the bridge"}
+{"question_id": "v_01550_9", "pred": "Across the street"}
+{"question_id": "v_01551_1", "pred": "Camera"}
+{"question_id": "v_01551_10", "pred": "On the street"}
+{"question_id": "v_01551_2", "pred": "On the right side of the sidewalk"}
+{"question_id": "v_01551_3", "pred": "Mcdonalds"}
+{"question_id": "v_01551_5", "pred": "Mcdonald's"}
+{"question_id": "v_01551_6", "pred": "No, there is no one nearby who can provide inquiries."}
+{"question_id": "v_01551_7", "pred": "Across the road"}
+{"question_id": "v_01552_1", "pred": "Mall food court"}
+{"question_id": "v_01552_11", "pred": "Books"}
+{"question_id": "v_01552_13", "pred": "Bags"}
+{"question_id": "v_01552_14", "pred": "No, there is no shopping guide nearby."}
+{"question_id": "v_01552_15", "pred": "Black"}
+{"question_id": "v_01552_17", "pred": "Using the stairs."}
+{"question_id": "v_01552_18", "pred": "Back"}
+{"question_id": "v_01552_3", "pred": "Yes"}
+{"question_id": "v_01552_4", "pred": "Using the glass door"}
+{"question_id": "v_01552_6", "pred": "You encountered a group of people."}
+{"question_id": "v_01552_7", "pred": "Yes"}
+{"question_id": "v_01552_9", "pred": "Yes"}
+{"question_id": "v_01554_3", "pred": "Yes"}
+{"question_id": "v_01555_1", "pred": "No"}
+{"question_id": "v_01555_10", "pred": "On a metal pole"}
+{"question_id": "v_01555_2", "pred": "Yes, you should come up to the overpass."}
+{"question_id": "v_01555_5", "pred": "Scenery"}
+{"question_id": "v_01555_6", "pred": "100 meters"}
+{"question_id": "v_01555_7", "pred": "Downside"}
+{"question_id": "v_01555_8", "pred": "Stairs"}
+{"question_id": "v_01555_9", "pred": "Stairs"}
+{"question_id": "v_01556_1", "pred": "Behind the glass"}
+{"question_id": "v_01556_10", "pred": "Mall"}
+{"question_id": "v_01556_12", "pred": "Yes"}
+{"question_id": "v_01556_13", "pred": "Supermarket"}
+{"question_id": "v_01556_14", "pred": "12.80"}
+{"question_id": "v_01556_4", "pred": "Behind the glass door"}
+{"question_id": "v_01556_5", "pred": "Food"}
+{"question_id": "v_01556_6", "pred": " mall"}
+{"question_id": "v_01556_9", "pred": " mall"}
+{"question_id": "v_01557_1", "pred": "Yes"}
+{"question_id": "v_01558_1", "pred": "Black machine"}
+{"question_id": "v_01559_1", "pred": "Yes"}
+{"question_id": "v_01559_2", "pred": "On the right side of the door"}
+{"question_id": "v_01559_3", "pred": "On the wall"}
+{"question_id": "v_01559_4", "pred": "Yes"}
+{"question_id": "v_01561_1", "pred": "Group of people"}
+{"question_id": "v_01561_3", "pred": "Car"}
+{"question_id": "v_01561_5", "pred": "No"}
+{"question_id": "v_01561_6", "pred": "Yes"}
+{"question_id": "v_01562_5", "pred": "Insect"}
+{"question_id": "v_01562_6", "pred": "To the left"}
+{"question_id": "v_01564_1", "pred": "City bus"}
+{"question_id": "v_01564_4", "pred": "Yes"}
+{"question_id": "v_01565_1", "pred": "Car"}
+{"question_id": "v_01565_4", "pred": "Building"}
+{"question_id": "v_01566_1", "pred": "Yes"}
+{"question_id": "v_01566_3", "pred": "By walking in"}
+{"question_id": "v_01566_5", "pred": "Yes"}
+{"question_id": "v_01566_6", "pred": "Yes"}
+{"question_id": "v_01567_1", "pred": "Mopping the floor"}
+{"question_id": "v_01567_2", "pred": "People are walking"}
+{"question_id": "v_01567_3", "pred": "Take the stairs"}
+{"question_id": "v_01568_1", "pred": "Yes, we can drive ahead."}
+{"question_id": "v_01568_2", "pred": "Yes"}
+{"question_id": "v_01568_4", "pred": "Left"}
+{"question_id": "v_01569_1", "pred": "Outdoors"}
+{"question_id": "v_01569_4", "pred": "No, the cafeteria door has not arrived yet."}
+{"question_id": "v_01570_2", "pred": "Yes, you have."}
+{"question_id": "v_01570_4", "pred": "Eggs, rice, vegetables, fruits, nuts, etc."}
+{"question_id": "v_01571_1", "pred": "On the right side of the road"}
+{"question_id": "v_01571_2", "pred": "Behind the bus stop"}
+{"question_id": "v_01571_5", "pred": "Yes"}
+{"question_id": "v_01571_6", "pred": "On the side of the road"}
+{"question_id": "v_01571_7", "pred": "Yes"}
+{"question_id": "v_01571_8", "pred": "Red bus"}
+{"question_id": "v_01571_9", "pred": "Yes"}
+{"question_id": "v_01572_1", "pred": "No, you should not cross the road now."}
+{"question_id": "v_01572_13", "pred": "Yes"}
+{"question_id": "v_01572_2", "pred": "Manicured area"}
+{"question_id": "v_01572_3", "pred": "City"}
+{"question_id": "v_01572_8", "pred": "City"}
+{"question_id": "v_01572_9", "pred": "Bike"}
+{"question_id": "v_01573_1", "pred": "Red"}
+{"question_id": "v_01573_3", "pred": "Yes, we can cross the road now."}
+{"question_id": "v_01574_1", "pred": "No"}
+{"question_id": "v_01574_4", "pred": "Yes"}
+{"question_id": "v_01575_2", "pred": "Group"}
+{"question_id": "v_01576_1", "pred": "Mall"}
+{"question_id": "v_01576_2", "pred": "Tea"}
+{"question_id": "v_01576_4", "pred": "Mall"}
+{"question_id": "v_01578_1", "pred": "Yes"}

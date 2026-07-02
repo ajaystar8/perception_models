@@ -1,0 +1,17 @@
+Predictions for EgoBlind Test Release set using Perception-LM
+-------------------------------------------------------
+
+Videos dir: /projects/vig/ajay/persistent_memory/datasets/egoblind/test/Videos
+GT Annotations path: /projects/vig/ajay/persistent_memory/datasets/egoblind/test/test_half_release.csv
+Number of videos: 532
+Using model checkpoint: facebook/Perception-LM-3B
+Max frames per video: 32
+Saving predictions to: /projects/vig/ajay/persistent_memory/perception_models/predictions/egoblind_test_release_predictions.json
+
+----------------Inference time statistics:-------------
+Total inference time: 1.97 hours
+Average inference time per video: 13.35 seconds
+Median inference time per video: 8.22 seconds
+-------------------------------------------------------
+Done generating predictions.
+Saving summary to: /projects/vig/ajay/persistent_memory/perception_models/logs/egoblind_test_release_inference_summary_3B.txt

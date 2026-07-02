@@ -1,0 +1,540 @@
+Fetching 20 files:   0%|          | 0/20 [00:00<?, ?it/s]Fetching 20 files: 100%|██████████| 20/20 [00:00<00:00, 1681.05it/s]
+INFO:apps.plm.tokenizer:Reloaded tiktoken model from /projects/vig/ajay/persistent_memory/cache/hub/models--facebook--Perception-LM-1B/snapshots/2b1a854663b80d6c8b9a10e4b229be97c7f6be1f/original/tokenizer.model
+INFO:apps.plm.tokenizer:#words: 128256 - BOS ID: 128000 - EOS ID: 128001
+INFO:apps.plm.transformer:Initializing PE_VisionTransformer with args: {'image_size': 448, 'patch_size': 14, 'width': 1024, 'layers': 23, 'heads': 16, 'use_cls_token': True, 'use_abs_posemb': True, 'ls_init_value': 0.1, 'drop_path': 0.1, 'mlp_ratio': 4.0, 'use_ln_post': False, 'pool_type': 'none'}
+Generating predictions:   0%|          | 0/535 [00:00<?, ?it/s]INFO:root:ImageTransform size: 448
+Generating predictions:   0%|          | 1/535 [00:08<1:13:09,  8.22s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   0%|          | 2/535 [00:14<1:00:32,  6.82s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   1%|          | 3/535 [00:20<57:30,  6.49s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:   1%|          | 4/535 [00:26<56:17,  6.36s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   1%|          | 5/535 [00:29<46:41,  5.29s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   1%|          | 6/535 [00:34<46:14,  5.25s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   1%|▏         | 7/535 [00:38<40:59,  4.66s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   1%|▏         | 8/535 [00:42<38:30,  4.38s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   2%|▏         | 9/535 [00:55<1:04:19,  7.34s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   2%|▏         | 10/535 [01:05<1:11:18,  8.15s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   2%|▏         | 11/535 [01:07<52:52,  6.05s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:   2%|▏         | 12/535 [01:10<44:53,  5.15s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   2%|▏         | 13/535 [01:12<37:28,  4.31s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   3%|▎         | 14/535 [01:18<41:34,  4.79s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   3%|▎         | 15/535 [01:21<35:27,  4.09s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   3%|▎         | 16/535 [01:28<43:22,  5.01s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   3%|▎         | 17/535 [01:46<1:17:08,  8.93s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   3%|▎         | 18/535 [01:56<1:21:09,  9.42s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   4%|▎         | 19/535 [02:07<1:25:18,  9.92s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   4%|▎         | 20/535 [02:27<1:49:28, 12.75s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   4%|▍         | 21/535 [02:32<1:29:12, 10.41s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   4%|▍         | 22/535 [02:37<1:14:53,  8.76s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   4%|▍         | 23/535 [02:40<1:01:04,  7.16s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   4%|▍         | 24/535 [02:44<52:00,  6.11s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:   5%|▍         | 25/535 [02:51<55:36,  6.54s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   5%|▍         | 26/535 [02:57<53:59,  6.36s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   5%|▌         | 27/535 [03:07<1:01:44,  7.29s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   5%|▌         | 28/535 [03:14<1:02:03,  7.34s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   5%|▌         | 29/535 [03:29<1:20:32,  9.55s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   6%|▌         | 30/535 [03:32<1:03:37,  7.56s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   6%|▌         | 31/535 [03:40<1:04:20,  7.66s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   6%|▌         | 32/535 [04:26<2:42:03, 19.33s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   6%|▌         | 33/535 [04:29<1:59:56, 14.34s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   6%|▋         | 34/535 [04:37<1:45:08, 12.59s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   7%|▋         | 35/535 [04:40<1:19:08,  9.50s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   7%|▋         | 36/535 [04:44<1:05:43,  7.90s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   7%|▋         | 37/535 [05:38<3:00:52, 21.79s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   7%|▋         | 38/535 [05:41<2:14:28, 16.23s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   7%|▋         | 39/535 [06:07<2:37:58, 19.11s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   7%|▋         | 40/535 [06:13<2:03:46, 15.00s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   8%|▊         | 41/535 [06:18<1:39:14, 12.05s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   8%|▊         | 42/535 [06:22<1:20:34,  9.81s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   8%|▊         | 43/535 [06:33<1:22:56, 10.12s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   8%|▊         | 44/535 [06:49<1:36:51, 11.84s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   8%|▊         | 45/535 [06:54<1:19:07,  9.69s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   9%|▊         | 46/535 [07:02<1:15:28,  9.26s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   9%|▉         | 47/535 [07:06<1:02:03,  7.63s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   9%|▉         | 48/535 [07:16<1:07:50,  8.36s/it]INFO:root:ImageTransform size: 448
+Generating predictions:   9%|▉         | 49/535 [07:19<55:31,  6.85s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:   9%|▉         | 50/535 [07:25<53:03,  6.56s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  10%|▉         | 51/535 [07:30<49:58,  6.20s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  10%|▉         | 52/535 [07:41<1:01:13,  7.61s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  10%|▉         | 53/535 [07:55<1:16:38,  9.54s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  10%|█         | 54/535 [07:58<1:00:07,  7.50s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  10%|█         | 55/535 [08:05<59:03,  7.38s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  10%|█         | 56/535 [08:15<1:04:04,  8.03s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  11%|█         | 57/535 [08:21<1:00:35,  7.61s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  11%|█         | 58/535 [08:26<54:08,  6.81s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  11%|█         | 59/535 [08:30<46:30,  5.86s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  11%|█         | 60/535 [08:39<53:26,  6.75s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  11%|█▏        | 61/535 [08:58<1:22:00, 10.38s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  12%|█▏        | 62/535 [09:03<1:10:17,  8.92s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  12%|█▏        | 63/535 [09:20<1:28:00, 11.19s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  12%|█▏        | 64/535 [09:23<1:09:05,  8.80s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  12%|█▏        | 65/535 [09:32<1:10:02,  8.94s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  12%|█▏        | 66/535 [09:37<1:01:00,  7.81s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  13%|█▎        | 67/535 [09:41<51:42,  6.63s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  13%|█▎        | 68/535 [09:48<52:27,  6.74s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  13%|█▎        | 69/535 [09:52<46:29,  5.99s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  13%|█▎        | 70/535 [09:55<39:44,  5.13s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  13%|█▎        | 71/535 [10:02<41:54,  5.42s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  13%|█▎        | 72/535 [10:26<1:26:46, 11.25s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  14%|█▎        | 73/535 [10:35<1:20:00, 10.39s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  14%|█▍        | 74/535 [10:39<1:06:36,  8.67s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  14%|█▍        | 75/535 [10:46<1:01:18,  8.00s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  14%|█▍        | 76/535 [10:51<55:31,  7.26s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  14%|█▍        | 77/535 [10:56<49:48,  6.52s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  15%|█▍        | 78/535 [10:59<42:11,  5.54s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  15%|█▍        | 79/535 [11:09<51:55,  6.83s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  15%|█▍        | 80/535 [11:17<52:38,  6.94s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  15%|█▌        | 81/535 [11:23<52:23,  6.92s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  15%|█▌        | 82/535 [11:32<55:46,  7.39s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  16%|█▌        | 83/535 [11:37<51:24,  6.82s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  16%|█▌        | 84/535 [11:40<41:43,  5.55s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  16%|█▌        | 85/535 [11:45<40:20,  5.38s/it]INFO:root:ImageTransform size: 448
+INFO:root:ImageTransform size: 448
+Generating predictions:  16%|█▋        | 87/535 [12:23<1:27:51, 11.77s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  16%|█▋        | 88/535 [13:02<2:16:43, 18.35s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  17%|█▋        | 89/535 [13:03<1:43:53, 13.98s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  17%|█▋        | 90/535 [13:07<1:22:34, 11.13s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  17%|█▋        | 91/535 [13:15<1:17:00, 10.41s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  17%|█▋        | 92/535 [13:30<1:24:48, 11.49s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  17%|█▋        | 93/535 [13:38<1:17:49, 10.56s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  18%|█▊        | 94/535 [13:54<1:30:12, 12.27s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  18%|█▊        | 95/535 [13:58<1:12:34,  9.90s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  18%|█▊        | 96/535 [14:08<1:11:58,  9.84s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  18%|█▊        | 97/535 [14:20<1:16:35, 10.49s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  18%|█▊        | 98/535 [14:25<1:04:30,  8.86s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  19%|█▊        | 99/535 [14:58<1:56:13, 15.99s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  19%|█▊        | 100/535 [15:08<1:42:42, 14.17s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  19%|█▉        | 101/535 [15:14<1:24:48, 11.73s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  19%|█▉        | 102/535 [15:24<1:22:01, 11.37s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  19%|█▉        | 103/535 [15:40<1:29:56, 12.49s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  19%|█▉        | 104/535 [15:45<1:14:11, 10.33s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  20%|█▉        | 105/535 [15:50<1:02:00,  8.65s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  20%|█▉        | 106/535 [15:54<53:49,  7.53s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  20%|██        | 107/535 [15:57<42:21,  5.94s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  20%|██        | 108/535 [15:58<31:33,  4.44s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  20%|██        | 109/535 [16:09<47:05,  6.63s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  21%|██        | 110/535 [16:19<53:25,  7.54s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  21%|██        | 111/535 [16:27<55:04,  7.79s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  21%|██        | 112/535 [16:31<45:53,  6.51s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  21%|██        | 113/535 [16:41<52:58,  7.53s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  21%|██▏       | 114/535 [16:47<49:05,  7.00s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  21%|██▏       | 115/535 [16:54<49:49,  7.12s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  22%|██▏       | 116/535 [16:56<38:55,  5.57s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  22%|██▏       | 117/535 [16:58<31:49,  4.57s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  22%|██▏       | 118/535 [17:06<39:13,  5.64s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  22%|██▏       | 119/535 [17:13<41:07,  5.93s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  22%|██▏       | 120/535 [17:19<41:14,  5.96s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  23%|██▎       | 121/535 [17:22<34:22,  4.98s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  23%|██▎       | 122/535 [17:32<44:56,  6.53s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  23%|██▎       | 123/535 [17:54<1:17:46, 11.33s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  23%|██▎       | 124/535 [18:05<1:15:27, 11.02s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  23%|██▎       | 125/535 [18:13<1:10:02, 10.25s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  24%|██▎       | 126/535 [18:23<1:09:50, 10.25s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  24%|██▎       | 127/535 [18:47<1:38:03, 14.42s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  24%|██▍       | 128/535 [19:08<1:50:38, 16.31s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  24%|██▍       | 129/535 [19:16<1:33:43, 13.85s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  24%|██▍       | 130/535 [19:24<1:20:41, 11.95s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  24%|██▍       | 131/535 [19:26<1:00:37,  9.00s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  25%|██▍       | 132/535 [19:30<50:09,  7.47s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  25%|██▍       | 133/535 [19:35<44:56,  6.71s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  25%|██▌       | 134/535 [19:39<40:12,  6.02s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  25%|██▌       | 135/535 [19:44<38:40,  5.80s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  25%|██▌       | 136/535 [19:52<41:36,  6.26s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  26%|██▌       | 137/535 [19:59<42:27,  6.40s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  26%|██▌       | 138/535 [20:03<38:31,  5.82s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  26%|██▌       | 139/535 [20:09<38:10,  5.78s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  26%|██▌       | 140/535 [20:16<40:06,  6.09s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  26%|██▋       | 141/535 [20:19<33:56,  5.17s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  27%|██▋       | 142/535 [20:24<34:40,  5.29s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  27%|██▋       | 143/535 [20:58<1:31:28, 14.00s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  27%|██▋       | 144/535 [21:07<1:21:26, 12.50s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  27%|██▋       | 145/535 [21:09<1:00:44,  9.35s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  27%|██▋       | 146/535 [21:18<58:21,  9.00s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  27%|██▋       | 147/535 [21:24<52:37,  8.14s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  28%|██▊       | 148/535 [21:33<55:16,  8.57s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  28%|██▊       | 149/535 [21:54<1:18:41, 12.23s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  28%|██▊       | 150/535 [22:03<1:12:28, 11.29s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  28%|██▊       | 151/535 [22:27<1:36:05, 15.01s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  28%|██▊       | 152/535 [22:31<1:15:51, 11.88s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  29%|██▊       | 153/535 [22:38<1:05:32, 10.30s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  29%|██▉       | 154/535 [22:53<1:13:46, 11.62s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  29%|██▉       | 155/535 [23:04<1:12:12, 11.40s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  29%|██▉       | 156/535 [23:10<1:02:07,  9.84s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  29%|██▉       | 157/535 [23:15<52:51,  8.39s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  30%|██▉       | 158/535 [23:50<1:42:31, 16.32s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  30%|██▉       | 159/535 [23:58<1:26:40, 13.83s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  30%|██▉       | 160/535 [24:00<1:04:34, 10.33s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  30%|███       | 161/535 [24:12<1:08:07, 10.93s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  30%|███       | 162/535 [27:41<7:17:13, 70.33s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  30%|███       | 163/535 [27:52<5:24:50, 52.39s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  31%|███       | 164/535 [27:55<3:52:58, 37.68s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  31%|███       | 165/535 [27:59<2:50:24, 27.63s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  31%|███       | 166/535 [28:07<2:13:10, 21.65s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  31%|███       | 167/535 [28:19<1:54:23, 18.65s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  31%|███▏      | 168/535 [28:22<1:26:43, 14.18s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  32%|███▏      | 169/535 [28:29<1:13:01, 11.97s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  32%|███▏      | 170/535 [28:39<1:09:20, 11.40s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  32%|███▏      | 171/535 [28:43<54:27,  8.98s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  32%|███▏      | 172/535 [28:45<43:14,  7.15s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  32%|███▏      | 173/535 [28:50<37:52,  6.28s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  33%|███▎      | 174/535 [28:55<36:24,  6.05s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  33%|███▎      | 175/535 [29:03<40:16,  6.71s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  33%|███▎      | 176/535 [29:08<36:42,  6.14s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  33%|███▎      | 177/535 [29:14<35:09,  5.89s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  33%|███▎      | 178/535 [29:15<27:31,  4.63s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  33%|███▎      | 179/535 [29:22<31:29,  5.31s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  34%|███▎      | 180/535 [29:30<36:06,  6.10s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  34%|███▍      | 181/535 [29:32<27:45,  4.71s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  34%|███▍      | 182/535 [29:34<23:42,  4.03s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  34%|███▍      | 183/535 [29:41<28:42,  4.89s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  34%|███▍      | 184/535 [30:02<57:03,  9.75s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  35%|███▍      | 185/535 [30:05<44:58,  7.71s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  35%|███▍      | 186/535 [30:07<35:22,  6.08s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  35%|███▍      | 187/535 [30:09<27:44,  4.78s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  35%|███▌      | 188/535 [30:15<29:07,  5.04s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  35%|███▌      | 189/535 [30:19<28:29,  4.94s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  36%|███▌      | 190/535 [30:24<28:25,  4.94s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  36%|███▌      | 191/535 [30:27<24:18,  4.24s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  36%|███▌      | 192/535 [30:30<21:49,  3.82s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  36%|███▌      | 193/535 [30:34<22:20,  3.92s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  36%|███▋      | 194/535 [30:38<22:13,  3.91s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  36%|███▋      | 195/535 [30:40<19:38,  3.47s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  37%|███▋      | 196/535 [31:07<59:09, 10.47s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  37%|███▋      | 197/535 [31:15<54:37,  9.70s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  37%|███▋      | 198/535 [31:34<1:09:37, 12.39s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  37%|███▋      | 199/535 [31:40<59:27, 10.62s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  37%|███▋      | 200/535 [31:43<45:54,  8.22s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  38%|███▊      | 201/535 [31:45<36:05,  6.48s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  38%|███▊      | 202/535 [31:51<34:29,  6.22s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  38%|███▊      | 203/535 [31:58<35:33,  6.43s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  38%|███▊      | 204/535 [32:04<34:40,  6.28s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  38%|███▊      | 205/535 [32:11<35:52,  6.52s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  39%|███▊      | 206/535 [32:17<35:09,  6.41s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  39%|███▊      | 207/535 [32:19<27:49,  5.09s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  39%|███▉      | 208/535 [32:27<32:09,  5.90s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  39%|███▉      | 209/535 [32:32<31:33,  5.81s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  39%|███▉      | 210/535 [32:38<31:22,  5.79s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  39%|███▉      | 211/535 [32:56<51:18,  9.50s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  40%|███▉      | 212/535 [33:08<54:38, 10.15s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  40%|███▉      | 213/535 [33:10<41:48,  7.79s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  40%|████      | 214/535 [33:13<33:19,  6.23s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  40%|████      | 215/535 [33:28<47:07,  8.83s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  40%|████      | 216/535 [33:30<36:08,  6.80s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  41%|████      | 217/535 [33:32<29:19,  5.53s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  41%|████      | 218/535 [33:36<25:57,  4.91s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  41%|████      | 219/535 [33:38<22:36,  4.29s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  41%|████      | 220/535 [33:56<43:08,  8.22s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  41%|████▏     | 221/535 [34:00<36:13,  6.92s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  41%|████▏     | 222/535 [34:02<28:11,  5.40s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  42%|████▏     | 223/535 [34:11<34:05,  6.56s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  42%|████▏     | 224/535 [34:18<35:12,  6.79s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  42%|████▏     | 225/535 [34:23<31:29,  6.10s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  42%|████▏     | 226/535 [34:25<26:04,  5.06s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  42%|████▏     | 227/535 [34:30<25:05,  4.89s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  43%|████▎     | 228/535 [34:36<27:06,  5.30s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  43%|████▎     | 229/535 [34:40<24:36,  4.83s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  43%|████▎     | 230/535 [34:43<22:36,  4.45s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  43%|████▎     | 231/535 [34:49<24:54,  4.92s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  43%|████▎     | 232/535 [34:53<23:02,  4.56s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  44%|████▎     | 233/535 [34:55<18:58,  3.77s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  44%|████▎     | 234/535 [34:57<16:05,  3.21s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  44%|████▍     | 235/535 [35:01<17:00,  3.40s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  44%|████▍     | 236/535 [35:06<19:57,  4.00s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  44%|████▍     | 237/535 [35:20<34:22,  6.92s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  44%|████▍     | 238/535 [35:23<28:20,  5.72s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  45%|████▍     | 239/535 [35:36<39:51,  8.08s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  45%|████▍     | 240/535 [35:43<37:42,  7.67s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  45%|████▌     | 241/535 [35:54<42:28,  8.67s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  45%|████▌     | 242/535 [38:03<3:38:58, 44.84s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  45%|████▌     | 243/535 [38:17<2:51:59, 35.34s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  46%|████▌     | 244/535 [38:19<2:03:07, 25.39s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  46%|████▌     | 245/535 [38:39<1:55:36, 23.92s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  46%|████▌     | 246/535 [38:43<1:26:17, 17.91s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  46%|████▌     | 247/535 [38:47<1:06:14, 13.80s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  46%|████▋     | 248/535 [38:55<57:28, 12.02s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  47%|████▋     | 249/535 [38:59<46:13,  9.70s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  47%|████▋     | 250/535 [39:28<1:13:09, 15.40s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  47%|████▋     | 251/535 [39:34<59:00, 12.47s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  47%|████▋     | 252/535 [39:36<44:40,  9.47s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  47%|████▋     | 253/535 [39:43<41:16,  8.78s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  47%|████▋     | 254/535 [39:49<36:03,  7.70s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  48%|████▊     | 255/535 [39:52<30:12,  6.47s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  48%|████▊     | 256/535 [40:07<42:10,  9.07s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  48%|████▊     | 257/535 [40:14<39:08,  8.45s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  48%|████▊     | 258/535 [40:23<39:22,  8.53s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  48%|████▊     | 259/535 [40:33<40:58,  8.91s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  49%|████▊     | 260/535 [40:42<41:51,  9.13s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  49%|████▉     | 261/535 [40:51<41:31,  9.09s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  49%|████▉     | 262/535 [41:17<1:03:17, 13.91s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  49%|████▉     | 263/535 [41:22<51:28, 11.35s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  49%|████▉     | 264/535 [42:50<2:34:38, 34.24s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  50%|████▉     | 265/535 [42:57<1:57:24, 26.09s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  50%|████▉     | 266/535 [43:01<1:27:14, 19.46s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  50%|████▉     | 267/535 [43:12<1:16:25, 17.11s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  50%|█████     | 268/535 [43:16<58:23, 13.12s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  50%|█████     | 269/535 [43:30<59:43, 13.47s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  50%|█████     | 270/535 [43:34<46:56, 10.63s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  51%|█████     | 271/535 [43:37<35:57,  8.17s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  51%|█████     | 272/535 [43:58<52:33, 11.99s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  51%|█████     | 273/535 [44:06<47:10, 10.80s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  51%|█████     | 274/535 [44:10<38:09,  8.77s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  51%|█████▏    | 275/535 [44:15<33:34,  7.75s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  52%|█████▏    | 276/535 [44:20<29:35,  6.86s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  52%|█████▏    | 277/535 [44:22<23:41,  5.51s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  52%|█████▏    | 278/535 [44:47<48:45, 11.38s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  52%|█████▏    | 279/535 [45:09<1:01:18, 14.37s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  52%|█████▏    | 280/535 [45:17<52:59, 12.47s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  53%|█████▎    | 281/535 [45:19<39:37,  9.36s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  53%|█████▎    | 282/535 [45:58<1:17:05, 18.28s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  53%|█████▎    | 283/535 [46:11<1:10:31, 16.79s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  53%|█████▎    | 284/535 [46:19<58:28, 13.98s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  53%|█████▎    | 285/535 [46:26<49:25, 11.86s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  53%|█████▎    | 286/535 [46:30<39:22,  9.49s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  54%|█████▎    | 287/535 [46:39<38:36,  9.34s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  54%|█████▍    | 288/535 [46:48<38:47,  9.42s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  54%|█████▍    | 289/535 [47:01<42:45, 10.43s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  54%|█████▍    | 290/535 [47:10<40:12,  9.85s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  54%|█████▍    | 291/535 [47:14<33:47,  8.31s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  55%|█████▍    | 292/535 [47:17<26:33,  6.56s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  55%|█████▍    | 293/535 [47:19<21:26,  5.32s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  55%|█████▍    | 294/535 [47:23<19:10,  4.77s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  55%|█████▌    | 295/535 [47:26<17:03,  4.26s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  55%|█████▌    | 296/535 [47:42<31:14,  7.84s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  56%|█████▌    | 297/535 [47:47<28:00,  7.06s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  56%|█████▌    | 298/535 [47:51<24:41,  6.25s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  56%|█████▌    | 299/535 [47:57<23:31,  5.98s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  56%|█████▌    | 300/535 [48:09<30:31,  7.79s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  56%|█████▋    | 301/535 [48:22<37:07,  9.52s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  56%|█████▋    | 302/535 [48:25<28:24,  7.32s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  57%|█████▋    | 303/535 [48:40<38:12,  9.88s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  57%|█████▋    | 304/535 [48:50<37:16,  9.68s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  57%|█████▋    | 305/535 [48:52<28:17,  7.38s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  57%|█████▋    | 306/535 [48:57<25:53,  6.78s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  57%|█████▋    | 307/535 [49:04<25:46,  6.78s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  58%|█████▊    | 308/535 [49:11<26:29,  7.00s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  58%|█████▊    | 309/535 [49:16<23:59,  6.37s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  58%|█████▊    | 310/535 [51:09<2:23:26, 38.25s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  58%|█████▊    | 311/535 [52:31<3:11:22, 51.26s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  58%|█████▊    | 312/535 [52:37<2:20:28, 37.79s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  59%|█████▊    | 313/535 [53:15<2:20:35, 38.00s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  59%|█████▊    | 314/535 [54:19<2:47:59, 45.61s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  59%|█████▉    | 315/535 [54:30<2:09:15, 35.25s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  59%|█████▉    | 316/535 [55:08<2:12:07, 36.20s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  59%|█████▉    | 317/535 [55:17<1:41:32, 27.95s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  59%|█████▉    | 318/535 [55:34<1:29:36, 24.78s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  60%|█████▉    | 319/535 [55:49<1:18:07, 21.70s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  60%|█████▉    | 320/535 [55:53<59:15, 16.54s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  60%|██████    | 321/535 [56:02<50:35, 14.18s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  60%|██████    | 322/535 [56:19<52:51, 14.89s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  60%|██████    | 323/535 [56:31<49:47, 14.09s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  61%|██████    | 324/535 [56:38<42:36, 12.12s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  61%|██████    | 325/535 [56:48<39:44, 11.36s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  61%|██████    | 326/535 [56:54<33:40,  9.67s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  61%|██████    | 327/535 [56:57<26:35,  7.67s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  61%|██████▏   | 328/535 [56:58<19:59,  5.79s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  61%|██████▏   | 329/535 [57:01<17:04,  4.98s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  62%|██████▏   | 330/535 [57:10<21:06,  6.18s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  62%|██████▏   | 331/535 [57:19<23:44,  6.98s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  62%|██████▏   | 332/535 [57:38<35:38, 10.54s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  62%|██████▏   | 333/535 [58:13<1:00:44, 18.04s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  62%|██████▏   | 334/535 [58:16<44:44, 13.35s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  63%|██████▎   | 335/535 [58:18<33:37, 10.09s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  63%|██████▎   | 336/535 [58:26<31:33,  9.51s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  63%|██████▎   | 337/535 [58:31<26:59,  8.18s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  63%|██████▎   | 338/535 [58:35<22:00,  6.70s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  63%|██████▎   | 339/535 [58:40<20:23,  6.24s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  64%|██████▎   | 340/535 [58:53<27:18,  8.40s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  64%|██████▎   | 341/535 [58:57<22:24,  6.93s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  64%|██████▍   | 342/535 [59:00<18:13,  5.67s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  64%|██████▍   | 343/535 [59:17<29:09,  9.11s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  64%|██████▍   | 344/535 [59:24<26:55,  8.46s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  64%|██████▍   | 345/535 [59:31<25:55,  8.18s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  65%|██████▍   | 346/535 [59:38<24:45,  7.86s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  65%|██████▍   | 347/535 [59:43<21:19,  6.80s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  65%|██████▌   | 348/535 [59:58<29:11,  9.37s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  65%|██████▌   | 349/535 [1:00:07<28:18,  9.13s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  65%|██████▌   | 350/535 [1:00:10<23:21,  7.58s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  66%|██████▌   | 351/535 [1:00:20<25:04,  8.18s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  66%|██████▌   | 352/535 [1:00:24<20:38,  6.77s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  66%|██████▌   | 353/535 [1:00:39<28:37,  9.44s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  66%|██████▌   | 354/535 [1:00:44<23:56,  7.94s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  66%|██████▋   | 355/535 [1:00:51<23:02,  7.68s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  67%|██████▋   | 356/535 [1:01:00<24:21,  8.16s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  67%|██████▋   | 357/535 [1:01:03<19:16,  6.50s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  67%|██████▋   | 358/535 [1:01:37<44:16, 15.01s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  67%|██████▋   | 359/535 [1:01:49<41:14, 14.06s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  67%|██████▋   | 360/535 [1:02:11<47:22, 16.24s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  67%|██████▋   | 361/535 [1:02:15<36:39, 12.64s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  68%|██████▊   | 362/535 [1:02:18<28:34,  9.91s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  68%|██████▊   | 363/535 [1:02:34<33:23, 11.65s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  68%|██████▊   | 364/535 [1:02:38<26:15,  9.21s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  68%|██████▊   | 365/535 [1:02:54<32:32, 11.48s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  68%|██████▊   | 366/535 [1:03:29<52:11, 18.53s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  69%|██████▊   | 367/535 [1:04:06<1:07:25, 24.08s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  69%|██████▉   | 368/535 [1:04:09<48:52, 17.56s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  69%|██████▉   | 369/535 [1:04:25<47:20, 17.11s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  69%|██████▉   | 370/535 [1:04:52<55:20, 20.12s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  69%|██████▉   | 371/535 [1:05:35<1:13:30, 26.89s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  70%|██████▉   | 372/535 [1:05:45<59:33, 21.93s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  70%|██████▉   | 373/535 [1:05:54<48:58, 18.14s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  70%|██████▉   | 374/535 [1:05:58<36:51, 13.74s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  70%|███████   | 375/535 [1:06:01<28:26, 10.66s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  70%|███████   | 376/535 [1:06:04<21:38,  8.17s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  70%|███████   | 377/535 [1:06:06<16:43,  6.35s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  71%|███████   | 378/535 [1:06:09<14:00,  5.35s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  71%|███████   | 379/535 [1:06:14<14:09,  5.45s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  71%|███████   | 380/535 [1:06:27<19:58,  7.73s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  71%|███████   | 381/535 [1:06:31<16:16,  6.34s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  71%|███████▏  | 382/535 [1:06:51<26:46, 10.50s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  72%|███████▏  | 383/535 [1:06:59<24:36,  9.71s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  72%|███████▏  | 384/535 [1:07:01<18:31,  7.36s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  72%|███████▏  | 385/535 [1:07:05<16:35,  6.63s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  72%|███████▏  | 386/535 [1:08:31<1:15:23, 30.36s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  72%|███████▏  | 387/535 [1:08:33<53:58, 21.88s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  73%|███████▎  | 388/535 [1:08:53<52:15, 21.33s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  73%|███████▎  | 389/535 [1:08:59<40:12, 16.53s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  73%|███████▎  | 390/535 [1:12:39<3:08:03, 77.82s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  73%|███████▎  | 391/535 [1:13:10<2:32:47, 63.66s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  73%|███████▎  | 392/535 [1:13:20<1:53:28, 47.61s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  73%|███████▎  | 393/535 [1:13:29<1:24:52, 35.86s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  74%|███████▎  | 394/535 [1:13:33<1:02:17, 26.51s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  74%|███████▍  | 395/535 [1:13:46<51:56, 22.26s/it]  INFO:root:ImageTransform size: 448
+Generating predictions:  74%|███████▍  | 396/535 [1:13:51<39:53, 17.22s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  74%|███████▍  | 397/535 [1:13:59<33:08, 14.41s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  74%|███████▍  | 398/535 [1:14:05<26:58, 11.82s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  75%|███████▍  | 399/535 [1:14:10<22:11,  9.79s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  75%|███████▍  | 400/535 [1:14:18<20:57,  9.31s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  75%|███████▍  | 401/535 [1:14:26<19:54,  8.91s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  75%|███████▌  | 402/535 [1:14:29<15:56,  7.19s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  75%|███████▌  | 403/535 [1:14:37<15:59,  7.27s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  76%|███████▌  | 404/535 [1:14:44<16:02,  7.35s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  76%|███████▌  | 405/535 [1:14:50<14:38,  6.76s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  76%|███████▌  | 406/535 [1:14:54<12:55,  6.02s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  76%|███████▌  | 407/535 [1:15:05<16:07,  7.56s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  76%|███████▋  | 408/535 [1:15:14<17:03,  8.06s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  76%|███████▋  | 409/535 [1:15:40<27:45, 13.22s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  77%|███████▋  | 410/535 [1:15:49<25:09, 12.07s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  77%|███████▋  | 411/535 [1:15:54<20:41, 10.01s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  77%|███████▋  | 412/535 [1:16:00<18:15,  8.91s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  77%|███████▋  | 413/535 [1:16:04<15:00,  7.38s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  77%|███████▋  | 414/535 [1:16:12<15:13,  7.55s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  78%|███████▊  | 415/535 [1:16:19<14:37,  7.31s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  78%|███████▊  | 416/535 [1:16:23<12:28,  6.29s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  78%|███████▊  | 417/535 [1:16:43<20:22, 10.36s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  78%|███████▊  | 418/535 [1:16:45<15:43,  8.06s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  78%|███████▊  | 419/535 [1:16:50<13:35,  7.03s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  79%|███████▊  | 420/535 [1:17:19<26:08, 13.64s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  79%|███████▊  | 421/535 [1:17:22<19:33, 10.30s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  79%|███████▉  | 422/535 [1:17:26<15:48,  8.40s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  79%|███████▉  | 423/535 [1:17:28<12:24,  6.64s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  79%|███████▉  | 424/535 [1:17:30<09:38,  5.21s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  79%|███████▉  | 425/535 [1:17:34<08:59,  4.91s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  80%|███████▉  | 426/535 [1:17:39<08:36,  4.74s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  80%|███████▉  | 427/535 [1:17:41<07:08,  3.96s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  80%|████████  | 428/535 [1:17:44<06:38,  3.72s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  80%|████████  | 429/535 [1:17:51<08:21,  4.73s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  80%|████████  | 430/535 [1:17:56<08:11,  4.68s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  81%|████████  | 431/535 [1:18:32<24:39, 14.22s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  81%|████████  | 432/535 [1:18:40<21:17, 12.40s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  81%|████████  | 433/535 [1:18:42<15:45,  9.27s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  81%|████████  | 434/535 [1:18:54<16:48,  9.99s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  81%|████████▏ | 435/535 [1:18:57<13:21,  8.02s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  81%|████████▏ | 436/535 [1:18:58<09:47,  5.94s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  82%|████████▏ | 437/535 [1:19:09<12:13,  7.49s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  82%|████████▏ | 438/535 [1:19:11<09:28,  5.86s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  82%|████████▏ | 439/535 [1:19:19<10:03,  6.28s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  82%|████████▏ | 440/535 [1:19:35<14:50,  9.37s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  82%|████████▏ | 441/535 [1:19:52<17:53, 11.42s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  83%|████████▎ | 442/535 [1:20:15<23:30, 15.16s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  83%|████████▎ | 443/535 [1:20:21<19:00, 12.40s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  83%|████████▎ | 444/535 [1:20:28<16:15, 10.72s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  83%|████████▎ | 445/535 [1:20:34<13:59,  9.32s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  83%|████████▎ | 446/535 [1:20:49<16:12, 10.93s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  84%|████████▎ | 447/535 [1:20:53<12:51,  8.76s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  84%|████████▎ | 448/535 [1:20:58<11:16,  7.78s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  84%|████████▍ | 449/535 [1:21:02<09:16,  6.47s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  84%|████████▍ | 450/535 [1:21:06<08:11,  5.78s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  84%|████████▍ | 451/535 [1:21:09<07:00,  5.00s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  84%|████████▍ | 452/535 [1:21:11<05:33,  4.02s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  85%|████████▍ | 453/535 [1:21:16<06:05,  4.46s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  85%|████████▍ | 454/535 [1:21:21<06:04,  4.50s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  85%|████████▌ | 455/535 [1:21:28<07:15,  5.44s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  85%|████████▌ | 456/535 [1:21:42<10:29,  7.96s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  85%|████████▌ | 457/535 [1:21:45<08:09,  6.27s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  86%|████████▌ | 458/535 [1:21:49<07:21,  5.73s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  86%|████████▌ | 459/535 [1:21:55<07:26,  5.87s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  86%|████████▌ | 460/535 [1:21:58<06:14,  5.00s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  86%|████████▌ | 461/535 [1:22:00<04:59,  4.05s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  86%|████████▋ | 462/535 [1:22:05<05:07,  4.21s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  87%|████████▋ | 463/535 [1:22:09<05:13,  4.35s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  87%|████████▋ | 464/535 [1:22:15<05:32,  4.68s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  87%|████████▋ | 465/535 [1:22:19<05:23,  4.63s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  87%|████████▋ | 466/535 [1:22:27<06:30,  5.66s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  87%|████████▋ | 467/535 [1:22:30<05:34,  4.91s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  87%|████████▋ | 468/535 [1:22:34<05:01,  4.50s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  88%|████████▊ | 469/535 [1:22:38<04:45,  4.32s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  88%|████████▊ | 470/535 [1:22:41<04:12,  3.89s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  88%|████████▊ | 471/535 [1:22:45<04:24,  4.13s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  88%|████████▊ | 472/535 [1:22:48<03:42,  3.53s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  88%|████████▊ | 473/535 [1:22:50<03:18,  3.20s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  89%|████████▊ | 474/535 [1:22:52<02:47,  2.75s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  89%|████████▉ | 475/535 [1:22:56<03:07,  3.13s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  89%|████████▉ | 476/535 [1:23:03<04:17,  4.37s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  89%|████████▉ | 477/535 [1:23:13<05:55,  6.14s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  89%|████████▉ | 478/535 [1:23:18<05:34,  5.86s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  90%|████████▉ | 479/535 [1:23:22<04:54,  5.26s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  90%|████████▉ | 480/535 [1:23:27<04:47,  5.23s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  90%|████████▉ | 481/535 [1:23:31<04:17,  4.77s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  90%|█████████ | 482/535 [1:23:35<03:59,  4.52s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  90%|█████████ | 483/535 [1:23:38<03:31,  4.08s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  90%|█████████ | 484/535 [1:23:42<03:18,  3.89s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  91%|█████████ | 485/535 [1:23:44<02:45,  3.30s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  91%|█████████ | 486/535 [1:23:49<03:11,  3.91s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  91%|█████████ | 487/535 [1:23:54<03:28,  4.34s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  91%|█████████ | 488/535 [1:23:57<02:56,  3.76s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  91%|█████████▏| 489/535 [1:24:01<03:00,  3.93s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  92%|█████████▏| 490/535 [1:24:04<02:40,  3.57s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  92%|█████████▏| 491/535 [1:24:09<02:57,  4.04s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  92%|█████████▏| 492/535 [1:24:12<02:43,  3.81s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  92%|█████████▏| 493/535 [1:24:24<04:22,  6.26s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  92%|█████████▏| 494/535 [1:24:32<04:32,  6.64s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  93%|█████████▎| 495/535 [1:24:35<03:48,  5.71s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  93%|█████████▎| 496/535 [1:24:40<03:29,  5.36s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  93%|█████████▎| 497/535 [1:24:42<02:45,  4.35s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  93%|█████████▎| 498/535 [1:24:44<02:17,  3.71s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  93%|█████████▎| 499/535 [1:25:01<04:41,  7.83s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  93%|█████████▎| 500/535 [1:25:06<03:59,  6.85s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  94%|█████████▎| 501/535 [1:25:12<03:49,  6.76s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  94%|█████████▍| 502/535 [1:25:17<03:19,  6.06s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  94%|█████████▍| 503/535 [1:25:19<02:37,  4.94s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  94%|█████████▍| 504/535 [1:25:22<02:08,  4.15s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  94%|█████████▍| 505/535 [1:25:37<03:48,  7.62s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  95%|█████████▍| 506/535 [1:25:48<04:10,  8.64s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  95%|█████████▍| 507/535 [1:25:53<03:27,  7.39s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  95%|█████████▍| 508/535 [1:25:58<03:04,  6.83s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  95%|█████████▌| 509/535 [1:26:15<04:17,  9.91s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  95%|█████████▌| 510/535 [1:26:19<03:21,  8.07s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  96%|█████████▌| 511/535 [1:26:40<04:48, 12.01s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  96%|█████████▌| 512/535 [1:27:17<07:28, 19.50s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  96%|█████████▌| 513/535 [1:28:20<11:56, 32.55s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  96%|█████████▌| 514/535 [1:28:26<08:35, 24.54s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  96%|█████████▋| 515/535 [1:29:05<09:38, 28.93s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  96%|█████████▋| 516/535 [1:29:53<10:56, 34.55s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  97%|█████████▋| 517/535 [1:29:55<07:23, 24.66s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  97%|█████████▋| 518/535 [1:30:00<05:21, 18.89s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  97%|█████████▋| 519/535 [1:30:18<04:59, 18.71s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  97%|█████████▋| 520/535 [1:30:40<04:56, 19.75s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  97%|█████████▋| 521/535 [1:30:52<04:03, 17.39s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  98%|█████████▊| 522/535 [1:31:04<03:22, 15.60s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  98%|█████████▊| 523/535 [1:31:16<02:53, 14.49s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  98%|█████████▊| 524/535 [1:31:50<03:45, 20.48s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  98%|█████████▊| 525/535 [1:32:05<03:07, 18.73s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  98%|█████████▊| 526/535 [1:32:20<02:38, 17.61s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  99%|█████████▊| 527/535 [1:32:36<02:18, 17.33s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  99%|█████████▊| 528/535 [1:32:47<01:46, 15.27s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  99%|█████████▉| 529/535 [1:33:23<02:09, 21.54s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  99%|█████████▉| 530/535 [1:34:34<03:02, 36.46s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  99%|█████████▉| 531/535 [1:34:43<01:52, 28.11s/it]INFO:root:ImageTransform size: 448
+Generating predictions:  99%|█████████▉| 532/535 [1:34:55<01:10, 23.39s/it]INFO:root:ImageTransform size: 448
+Generating predictions: 100%|█████████▉| 533/535 [1:35:02<00:36, 18.38s/it]INFO:root:ImageTransform size: 448
+Generating predictions: 100%|█████████▉| 534/535 [1:35:18<00:17, 17.68s/it]INFO:root:ImageTransform size: 448
+Generating predictions: 100%|██████████| 535/535 [1:35:20<00:00, 12.95s/it]Generating predictions: 100%|██████████| 535/535 [1:35:20<00:00, 10.69s/it]

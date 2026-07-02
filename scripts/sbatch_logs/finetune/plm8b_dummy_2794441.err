@@ -1,0 +1,147 @@
+W1116 13:54:52.248000 1704899 site-packages/torch/distributed/run.py:803] 
+W1116 13:54:52.248000 1704899 site-packages/torch/distributed/run.py:803] *****************************************
+W1116 13:54:52.248000 1704899 site-packages/torch/distributed/run.py:803] Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed. 
+W1116 13:54:52.248000 1704899 site-packages/torch/distributed/run.py:803] *****************************************
+Setting Data Parallel size to 8
+Tensor parallelism has not been tested for a while, use at your own risk
+2: WARNING 25-11-16 13:55:06.839024 - 0:00:00 - Signal handler installed.
+2: WARNING 25-11-16 13:55:06.839853 - 0:00:00 - WARNING: Setting MKL_SERVICE_FORCE_INTEL to GNU
+2: WARNING 25-11-16 13:55:06.839911 - 0:00:00 - WARNING: Setting MKL_NUM_THREADS to 1
+2: WARNING 25-11-16 13:55:06.839951 - 0:00:00 - WARNING: Setting ENABLE_INTRA_NODE_COMM to 0
+2: WARNING 25-11-16 13:55:06.839985 - 0:00:00 - WARNING: Setting TORCH_NCCL_AVOID_RECORD_STREAMS to 1
+2: WARNING 25-11-16 13:55:06.840019 - 0:00:00 - WARNING: Setting NCCL_IB_TIMEOUT to 22
+2: WARNING 25-11-16 13:55:06.840053 - 0:00:00 - WARNING: Setting NCCL_DEBUG to WARN
+2: WARNING 25-11-16 13:55:06.840085 - 0:00:00 - WARNING: Setting PYTORCH_CUDA_ALLOC_CONF to expandable_segments:True
+2: WARNING 25-11-16 13:55:06.840117 - 0:00:00 - WARNING: Setting TRITON_CACHE_DIR to /tmp/tmptrptl5ms
+Setting Data Parallel size to 8
+Tensor parallelism has not been tested for a while, use at your own risk
+6: WARNING 25-11-16 13:55:06.847917 - 0:00:00 - Signal handler installed.
+6: WARNING 25-11-16 13:55:06.848214 - 0:00:00 - WARNING: Setting MKL_SERVICE_FORCE_INTEL to GNU
+6: WARNING 25-11-16 13:55:06.848282 - 0:00:00 - WARNING: Setting MKL_NUM_THREADS to 1
+6: WARNING 25-11-16 13:55:06.848324 - 0:00:00 - WARNING: Setting ENABLE_INTRA_NODE_COMM to 0
+6: WARNING 25-11-16 13:55:06.848360 - 0:00:00 - WARNING: Setting TORCH_NCCL_AVOID_RECORD_STREAMS to 1
+6: WARNING 25-11-16 13:55:06.848393 - 0:00:00 - WARNING: Setting NCCL_IB_TIMEOUT to 22
+6: WARNING 25-11-16 13:55:06.848427 - 0:00:00 - WARNING: Setting NCCL_DEBUG to WARN
+6: WARNING 25-11-16 13:55:06.848462 - 0:00:00 - WARNING: Setting PYTORCH_CUDA_ALLOC_CONF to expandable_segments:True
+6: WARNING 25-11-16 13:55:06.848496 - 0:00:00 - WARNING: Setting TRITON_CACHE_DIR to /tmp/tmp5olz382v
+Setting Data Parallel size to 8
+Tensor parallelism has not been tested for a while, use at your own risk
+7: WARNING 25-11-16 13:55:06.848994 - 0:00:00 - Signal handler installed.
+7: WARNING 25-11-16 13:55:06.849209 - 0:00:00 - WARNING: Setting MKL_SERVICE_FORCE_INTEL to GNU
+7: WARNING 25-11-16 13:55:06.849280 - 0:00:00 - WARNING: Setting MKL_NUM_THREADS to 1
+7: WARNING 25-11-16 13:55:06.849325 - 0:00:00 - WARNING: Setting ENABLE_INTRA_NODE_COMM to 0
+7: WARNING 25-11-16 13:55:06.849361 - 0:00:00 - WARNING: Setting TORCH_NCCL_AVOID_RECORD_STREAMS to 1
+7: WARNING 25-11-16 13:55:06.849395 - 0:00:00 - WARNING: Setting NCCL_IB_TIMEOUT to 22
+7: WARNING 25-11-16 13:55:06.849429 - 0:00:00 - WARNING: Setting NCCL_DEBUG to WARN
+7: WARNING 25-11-16 13:55:06.849462 - 0:00:00 - WARNING: Setting PYTORCH_CUDA_ALLOC_CONF to expandable_segments:True
+7: WARNING 25-11-16 13:55:06.849493 - 0:00:00 - WARNING: Setting TRITON_CACHE_DIR to /tmp/tmpt0s5d4vi
+Setting Data Parallel size to 8
+Tensor parallelism has not been tested for a while, use at your own risk
+5: WARNING 25-11-16 13:55:06.850728 - 0:00:00 - Signal handler installed.
+5: WARNING 25-11-16 13:55:06.851210 - 0:00:00 - WARNING: Setting MKL_SERVICE_FORCE_INTEL to GNU
+5: WARNING 25-11-16 13:55:06.851281 - 0:00:00 - WARNING: Setting MKL_NUM_THREADS to 1
+5: WARNING 25-11-16 13:55:06.851325 - 0:00:00 - WARNING: Setting ENABLE_INTRA_NODE_COMM to 0
+5: WARNING 25-11-16 13:55:06.851361 - 0:00:00 - WARNING: Setting TORCH_NCCL_AVOID_RECORD_STREAMS to 1
+5: WARNING 25-11-16 13:55:06.851394 - 0:00:00 - WARNING: Setting NCCL_IB_TIMEOUT to 22
+5: WARNING 25-11-16 13:55:06.851427 - 0:00:00 - WARNING: Setting NCCL_DEBUG to WARN
+5: WARNING 25-11-16 13:55:06.851490 - 0:00:00 - WARNING: Setting PYTORCH_CUDA_ALLOC_CONF to expandable_segments:True
+5: WARNING 25-11-16 13:55:06.851525 - 0:00:00 - WARNING: Setting TRITON_CACHE_DIR to /tmp/tmpsiobelxc
+Setting Data Parallel size to 8
+Tensor parallelism has not been tested for a while, use at your own risk
+1: WARNING 25-11-16 13:55:06.853156 - 0:00:00 - Signal handler installed.
+1: WARNING 25-11-16 13:55:06.853496 - 0:00:00 - WARNING: Setting MKL_SERVICE_FORCE_INTEL to GNU
+1: WARNING 25-11-16 13:55:06.853554 - 0:00:00 - WARNING: Setting MKL_NUM_THREADS to 1
+1: WARNING 25-11-16 13:55:06.853596 - 0:00:00 - WARNING: Setting ENABLE_INTRA_NODE_COMM to 0
+1: WARNING 25-11-16 13:55:06.853631 - 0:00:00 - WARNING: Setting TORCH_NCCL_AVOID_RECORD_STREAMS to 1
+1: WARNING 25-11-16 13:55:06.853668 - 0:00:00 - WARNING: Setting NCCL_IB_TIMEOUT to 22
+1: WARNING 25-11-16 13:55:06.853703 - 0:00:00 - WARNING: Setting NCCL_DEBUG to WARN
+1: WARNING 25-11-16 13:55:06.853736 - 0:00:00 - WARNING: Setting PYTORCH_CUDA_ALLOC_CONF to expandable_segments:True
+1: WARNING 25-11-16 13:55:06.853786 - 0:00:00 - WARNING: Setting TRITON_CACHE_DIR to /tmp/tmpu4qo2xgj
+Setting Data Parallel size to 8
+Tensor parallelism has not been tested for a while, use at your own risk
+3: WARNING 25-11-16 13:55:06.855628 - 0:00:00 - Signal handler installed.
+3: WARNING 25-11-16 13:55:06.855890 - 0:00:00 - WARNING: Setting MKL_SERVICE_FORCE_INTEL to GNU
+3: WARNING 25-11-16 13:55:06.855946 - 0:00:00 - WARNING: Setting MKL_NUM_THREADS to 1
+3: WARNING 25-11-16 13:55:06.855984 - 0:00:00 - WARNING: Setting ENABLE_INTRA_NODE_COMM to 0
+3: WARNING 25-11-16 13:55:06.856019 - 0:00:00 - WARNING: Setting TORCH_NCCL_AVOID_RECORD_STREAMS to 1
+3: WARNING 25-11-16 13:55:06.856051 - 0:00:00 - WARNING: Setting NCCL_IB_TIMEOUT to 22
+3: WARNING 25-11-16 13:55:06.856083 - 0:00:00 - WARNING: Setting NCCL_DEBUG to WARN
+3: WARNING 25-11-16 13:55:06.856116 - 0:00:00 - WARNING: Setting PYTORCH_CUDA_ALLOC_CONF to expandable_segments:True
+3: WARNING 25-11-16 13:55:06.856148 - 0:00:00 - WARNING: Setting TRITON_CACHE_DIR to /tmp/tmpzi9988ue
+Setting Data Parallel size to 8
+Tensor parallelism has not been tested for a while, use at your own risk
+4: WARNING 25-11-16 13:55:06.866742 - 0:00:00 - Signal handler installed.
+4: WARNING 25-11-16 13:55:06.867320 - 0:00:00 - WARNING: Setting MKL_SERVICE_FORCE_INTEL to GNU
+4: WARNING 25-11-16 13:55:06.867381 - 0:00:00 - WARNING: Setting MKL_NUM_THREADS to 1
+4: WARNING 25-11-16 13:55:06.867422 - 0:00:00 - WARNING: Setting ENABLE_INTRA_NODE_COMM to 0
+4: WARNING 25-11-16 13:55:06.867458 - 0:00:00 - WARNING: Setting TORCH_NCCL_AVOID_RECORD_STREAMS to 1
+4: WARNING 25-11-16 13:55:06.867492 - 0:00:00 - WARNING: Setting NCCL_IB_TIMEOUT to 22
+4: WARNING 25-11-16 13:55:06.867527 - 0:00:00 - WARNING: Setting NCCL_DEBUG to WARN
+4: WARNING 25-11-16 13:55:06.867563 - 0:00:00 - WARNING: Setting PYTORCH_CUDA_ALLOC_CONF to expandable_segments:True
+4: WARNING 25-11-16 13:55:06.867596 - 0:00:00 - WARNING: Setting TRITON_CACHE_DIR to /tmp/tmpqjrtqewn
+Setting Data Parallel size to 8
+Tensor parallelism has not been tested for a while, use at your own risk
+0: WARNING 25-11-16 13:55:06.907861 - 0:00:00 - Signal handler installed.
+0: WARNING 25-11-16 13:55:06.908175 - 0:00:00 - WARNING: Setting MKL_SERVICE_FORCE_INTEL to GNU
+0: WARNING 25-11-16 13:55:06.908254 - 0:00:00 - WARNING: Setting MKL_NUM_THREADS to 1
+0: WARNING 25-11-16 13:55:06.908321 - 0:00:00 - WARNING: Setting ENABLE_INTRA_NODE_COMM to 0
+0: WARNING 25-11-16 13:55:06.908398 - 0:00:00 - WARNING: Setting TORCH_NCCL_AVOID_RECORD_STREAMS to 1
+0: WARNING 25-11-16 13:55:06.908483 - 0:00:00 - WARNING: Setting NCCL_IB_TIMEOUT to 22
+0: WARNING 25-11-16 13:55:06.908566 - 0:00:00 - WARNING: Setting NCCL_DEBUG to WARN
+0: WARNING 25-11-16 13:55:06.908628 - 0:00:00 - WARNING: Setting PYTORCH_CUDA_ALLOC_CONF to expandable_segments:True
+0: WARNING 25-11-16 13:55:06.908679 - 0:00:00 - WARNING: Setting TRITON_CACHE_DIR to /tmp/tmp7fe4m6e9
+[W1116 13:55:14.457013304 ProcessGroupNCCL.cpp:924] Warning: TORCH_NCCL_AVOID_RECORD_STREAMS is the default now, this environment variable is thus deprecated. (function operator())
+[W1116 13:55:15.573869597 ProcessGroupNCCL.cpp:924] Warning: TORCH_NCCL_AVOID_RECORD_STREAMS is the default now, this environment variable is thus deprecated. (function operator())
+[W1116 13:55:15.581514818 ProcessGroupNCCL.cpp:924] Warning: TORCH_NCCL_AVOID_RECORD_STREAMS is the default now, this environment variable is thus deprecated. (function operator())
+[W1116 13:55:15.008963000 ProcessGroupNCCL.cpp:924] Warning: TORCH_NCCL_AVOID_RECORD_STREAMS is the default now, this environment variable is thus deprecated. (function operator())
+[W1116 13:55:16.587178209 ProcessGroupNCCL.cpp:924] Warning: TORCH_NCCL_AVOID_RECORD_STREAMS is the default now, this environment variable is thus deprecated. (function operator())
+[W1116 13:55:16.611642847 ProcessGroupNCCL.cpp:924] Warning: TORCH_NCCL_AVOID_RECORD_STREAMS is the default now, this environment variable is thus deprecated. (function operator())
+[W1116 13:55:16.669378660 ProcessGroupNCCL.cpp:924] Warning: TORCH_NCCL_AVOID_RECORD_STREAMS is the default now, this environment variable is thus deprecated. (function operator())
+[W1116 13:55:16.674988845 ProcessGroupNCCL.cpp:924] Warning: TORCH_NCCL_AVOID_RECORD_STREAMS is the default now, this environment variable is thus deprecated. (function operator())
+/home/rajendrakumar.a/.conda/envs/perception_models/lib/python3.12/site-packages/torch/distributed/distributed_c10d.py:4876: UserWarning: barrier(): using the device under current context. You can specify `device_id` in `init_process_group` to mute this warning.
+  warnings.warn(  # warn only once
+[rank0]:[W1116 13:55:48.718877755 ProcessGroupNCCL.cpp:5068] Guessing device ID based on global rank. This can cause a hang if rank to GPU mapping is heterogeneous. You can specify device_id in init_process_group()
+5: WARNING 25-11-16 14:04:40.632957 - 0:09:34 - 1 CUDA memory allocation retries.
+6: WARNING 25-11-16 14:04:40.632982 - 0:09:34 - 1 CUDA memory allocation retries.
+3: WARNING 25-11-16 14:04:40.634065 - 0:09:34 - 1 CUDA memory allocation retries.
+7: WARNING 25-11-16 17:26:57.559303 - 3:31:51 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (14/16): None
+5: WARNING 25-11-16 17:26:57.559338 - 3:31:51 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (10/16): None
+6: WARNING 25-11-16 17:26:57.559628 - 3:31:51 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (12/16): None
+5: WARNING 25-11-16 17:27:50.139921 - 3:32:43 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (11/16): None
+7: WARNING 25-11-16 17:27:50.141159 - 3:32:43 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (15/16): None
+6: WARNING 25-11-16 17:27:50.141641 - 3:32:43 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (13/16): None
+2: WARNING 25-11-16 17:28:42.559777 - 3:33:36 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (4/16): None
+3: WARNING 25-11-16 17:28:42.559784 - 3:33:36 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (6/16): None
+0: WARNING 25-11-16 17:28:42.560484 - 3:33:36 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (0/16): None
+1: WARNING 25-11-16 17:28:42.560672 - 3:33:36 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (2/16): None
+4: WARNING 25-11-16 17:28:42.560776 - 3:33:36 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (8/16): None
+2: WARNING 25-11-16 17:29:35.179057 - 3:34:28 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (5/16): None
+3: WARNING 25-11-16 17:29:35.178997 - 3:34:28 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (7/16): None
+0: WARNING 25-11-16 17:29:35.179444 - 3:34:28 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (1/16): None
+4: WARNING 25-11-16 17:29:35.179890 - 3:34:28 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (9/16): None
+1: WARNING 25-11-16 17:29:35.179823 - 3:34:28 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (3/16): None
+5: WARNING 25-11-16 21:01:52.168030 - 7:06:45 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (10/16): None
+7: WARNING 25-11-16 21:01:52.168722 - 7:06:45 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (14/16): None
+6: WARNING 25-11-16 21:01:52.168872 - 7:06:45 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (12/16): None
+5: WARNING 25-11-16 21:02:44.443815 - 7:07:38 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (11/16): None
+7: WARNING 25-11-16 21:02:44.444250 - 7:07:38 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (15/16): None
+6: WARNING 25-11-16 21:02:44.444420 - 7:07:38 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (13/16): None
+2: WARNING 25-11-16 21:05:21.357291 - 7:10:15 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (4/16): None
+0: WARNING 25-11-16 21:05:21.358058 - 7:10:14 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (0/16): None
+3: WARNING 25-11-16 21:05:21.357197 - 7:10:15 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (6/16): None
+1: WARNING 25-11-16 21:05:21.358209 - 7:10:15 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (2/16): None
+4: WARNING 25-11-16 21:05:21.358201 - 7:10:14 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (8/16): None
+2: WARNING 25-11-16 21:06:14.714335 - 7:11:08 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (5/16): None
+0: WARNING 25-11-16 21:06:14.714385 - 7:11:08 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (1/16): None
+1: WARNING 25-11-16 21:06:14.715078 - 7:11:08 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (3/16): None
+4: WARNING 25-11-16 21:06:14.715090 - 7:11:08 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (9/16): None
+3: WARNING 25-11-16 21:06:14.714130 - 7:11:08 - Setting JSONL position on apps/plm/dummy_datasets/Radiology_mini/train.jsonl (7/16): None
+[rank0]:[W1116 21:14:10.854324125 ProcessGroupNCCL.cpp:1524] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank0]:[W1116 21:14:10.378795599 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+[rank6]:[W1116 21:14:10.406525375 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+[rank7]:[W1116 21:14:11.757119876 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+[rank1]:[W1116 21:14:11.764854717 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+[rank4]:[W1116 21:14:11.779186179 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+[rank3]:[W1116 21:14:11.788233017 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+[rank2]:[W1116 21:14:11.846733634 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())
+[rank5]:[W1116 21:14:11.848424752 AllocatorConfig.cpp:28] Warning: PYTORCH_CUDA_ALLOC_CONF is deprecated, use PYTORCH_ALLOC_CONF instead (function operator())

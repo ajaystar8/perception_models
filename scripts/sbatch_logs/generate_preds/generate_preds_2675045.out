@@ -1,0 +1,7 @@
+Downloading facebook/Perception-LM-3B from Hugging Face Hub...
+Downloaded to: /projects/vig/ajay/persistent_memory/cache/hub/models--facebook--Perception-LM-3B/snapshots/31e3665b544e2dbac215e80200923139fb398975/original
+Skipping corrupted video: /projects/vig/ajay/persistent_memory/datasets/egoblind/test/Videos/split_1/01025.mp4
+Skipping corrupted video: /projects/vig/ajay/persistent_memory/datasets/egoblind/test/Videos/split_1/01051.mp4
+Skipping corrupted video: /projects/vig/ajay/persistent_memory/datasets/egoblind/test/Videos/split_5/01306.mp4
+
+Done.

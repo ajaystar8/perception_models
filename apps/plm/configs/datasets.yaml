@@ -28,3 +28,11 @@ dummy_stc_RCap:
 dummy_stc_RTLoc:
     annotation: apps/plm/dummy_datasets/plm_stc/RTLoc.jsonl
     root_dir: apps/plm/dummy_datasets/plm_stc/videos
+
+radiology_finetune:
+    annotation: apps/plm/dummy_datasets/Radiology_mini/train.jsonl
+    root_dir: apps/plm/dummy_datasets/Radiology_mini/images
+
+egoblind_finetune:
+    annotation: /projects/torresani-lab/ajay/datasets/egoblind/train/finetune_plm.jsonl
+    root_dir: /projects/torresani-lab/ajay/datasets/egoblind/train/video_clip

@@ -1,0 +1,22 @@
+Predictions for EgoBlind Test Release set using Perception-LM
+-------------------------------------------------------
+
+Experiment Name: finetuned_plm8b_preds_blind_aware_prompt
+Videos dir: /projects/torresani-lab/ajay/datasets/egoblind/test/video
+System Prompt Type: blind_aware
+System Prompt: I will provide you with a video each time and one question; These questions are all questions raised by the blind person in the video from his own first-person perspective in the current scene. Your task is to answer the blind person's question which was posed in the last frame of the video. The answer needs to be based on the content of the picture and the objective characteristics that the blind person cannot see. If the question cannot be answered, you can say I don't know. Do not include Chinese characters in your response. The question is: 
+GT Annotations path: /projects/torresani-lab/ajay/datasets/egoblind/test/test_half_release.csv
+Number of videos: 535
+Using model checkpoint: /projects/torresani-lab/ajay/perception_models/checkpoints/finetune_egoblind/checkpoints/0000000500/
+Max frames per video: 32
+Saving predictions to: /projects/torresani-lab/ajay/perception_models/predictions/finetuned_plm8b_preds_blind_aware_prompt.json
+Converting predictions to EgoBlind format...
+Conversion completed.
+
+----------------Inference time statistics:-------------
+Total inference time: 2.49 hours
+Average inference time per video: 16.86 seconds
+Median inference time per video: 10.87 seconds
+-------------------------------------------------------
+Done generating predictions.
+Saving summary to: /projects/torresani-lab/ajay/perception_models/logs/finetuned_plm8b_preds_blind_aware_prompt_v1.txt

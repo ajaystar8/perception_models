@@ -1,0 +1,18 @@
+Predictions for EgoBlind Test Release set using Perception-LM
+-------------------------------------------------------
+
+Experiment Name: finetune_egoblind
+Videos dir: /projects/vig/ajay/persistent_memory/datasets/egoblind/test/video
+GT Annotations path: /projects/vig/ajay/persistent_memory/datasets/egoblind/test/test_half_release.csv
+Number of videos: 535
+Using model checkpoint: /projects/vig/ajay/persistent_memory/perception_models/checkpoints/finetune_egoblind/checkpoints/0000000500/
+Max frames per video: 32
+Saving predictions to: /projects/vig/ajay/persistent_memory/perception_models/predictions/egoblind_test_release_preds_8B_finetune_egoblind_v1.json
+
+----------------Inference time statistics:-------------
+Total inference time: 2.45 hours
+Average inference time per video: 16.61 seconds
+Median inference time per video: 10.73 seconds
+-------------------------------------------------------
+Done generating predictions.
+Saving summary to: /projects/vig/ajay/persistent_memory/perception_models/logs/egoblind_test_release_inference_summary_8B_finetune_egoblind.txt

@@ -1,0 +1,1271 @@
+{"question_id": "v_00923_1", "pred": "I don't know."}
+{"question_id": "v_00923_2", "pred": "I don't know."}
+{"question_id": "v_00923_4", "pred": "Yes."}
+{"question_id": "v_00923_5", "pred": "No."}
+{"question_id": "v_00924_1", "pred": "Yes."}
+{"question_id": "v_00924_2", "pred": "Right front."}
+{"question_id": "v_00924_3", "pred": "Yes."}
+{"question_id": "v_00925_2", "pred": "Yes."}
+{"question_id": "v_00925_3", "pred": "I don't know."}
+{"question_id": "v_00925_4", "pred": "No."}
+{"question_id": "v_00926_1", "pred": "Yes."}
+{"question_id": "v_00926_3", "pred": "Yes."}
+{"question_id": "v_00926_5", "pred": "Yes."}
+{"question_id": "v_00927_1", "pred": "I don't know."}
+{"question_id": "v_00927_3", "pred": "No."}
+{"question_id": "v_00928_1", "pred": "Yes."}
+{"question_id": "v_00928_2", "pred": "Yes."}
+{"question_id": "v_00929_1", "pred": "Yes."}
+{"question_id": "v_00930_1", "pred": "Yes."}
+{"question_id": "v_00930_2", "pred": "I don't know."}
+{"question_id": "v_00931_1", "pred": "Yes."}
+{"question_id": "v_00931_3", "pred": "Yes."}
+{"question_id": "v_00931_4", "pred": "Yes."}
+{"question_id": "v_00931_5", "pred": "Yes."}
+{"question_id": "v_00931_6", "pred": "Left."}
+{"question_id": "v_00932_2", "pred": "Yes."}
+{"question_id": "v_00932_4", "pred": "No."}
+{"question_id": "v_00932_5", "pred": "No."}
+{"question_id": "v_00933_1", "pred": "Right."}
+{"question_id": "v_00934_2", "pred": "Yes."}
+{"question_id": "v_00934_3", "pred": "Right."}
+{"question_id": "v_00934_6", "pred": "Yes."}
+{"question_id": "v_00934_8", "pred": "I don't know."}
+{"question_id": "v_00935_2", "pred": "Right."}
+{"question_id": "v_00935_3", "pred": "Go straight ahead."}
+{"question_id": "v_00935_5", "pred": "I don't know."}
+{"question_id": "v_00935_6", "pred": "Yes."}
+{"question_id": "v_00936_1", "pred": "Yes."}
+{"question_id": "v_00936_3", "pred": "Yes."}
+{"question_id": "v_00937_2", "pred": "Go straight ahead."}
+{"question_id": "v_00938_2", "pred": "Right front."}
+{"question_id": "v_00938_4", "pred": "Yes."}
+{"question_id": "v_00941_1", "pred": "No."}
+{"question_id": "v_00941_2", "pred": "No."}
+{"question_id": "v_00941_4", "pred": "I don't know."}
+{"question_id": "v_00941_6", "pred": "No."}
+{"question_id": "v_00942_1", "pred": "No."}
+{"question_id": "v_00942_2", "pred": "Yes."}
+{"question_id": "v_00942_3", "pred": "No."}
+{"question_id": "v_00943_1", "pred": "Yes."}
+{"question_id": "v_00943_2", "pred": "Yes."}
+{"question_id": "v_00943_4", "pred": "Yes."}
+{"question_id": "v_00944_1", "pred": "No."}
+{"question_id": "v_00944_2", "pred": "Yes."}
+{"question_id": "v_00944_4", "pred": "Yes."}
+{"question_id": "v_00944_6", "pred": "I don't know."}
+{"question_id": "v_00944_7", "pred": "Yes."}
+{"question_id": "v_00945_2", "pred": "No."}
+{"question_id": "v_00945_3", "pred": "You are in the waiting area of the station."}
+{"question_id": "v_00947_1", "pred": "Yes."}
+{"question_id": "v_00947_2", "pred": "Yes."}
+{"question_id": "v_00948_1", "pred": "Yes."}
+{"question_id": "v_00949_1", "pred": "No."}
+{"question_id": "v_00950_1", "pred": "No."}
+{"question_id": "v_00950_3", "pred": "I don't know."}
+{"question_id": "v_00951_2", "pred": "No."}
+{"question_id": "v_00951_3", "pred": "I don't know."}
+{"question_id": "v_00951_4", "pred": "I don't know."}
+{"question_id": "v_00952_2", "pred": "Yes."}
+{"question_id": "v_00952_3", "pred": "Yes."}
+{"question_id": "v_00953_1", "pred": "Yes."}
+{"question_id": "v_00953_4", "pred": "On your left."}
+{"question_id": "v_00953_7", "pred": "I don't know."}
+{"question_id": "v_00954_1", "pred": "Yes."}
+{"question_id": "v_00954_2", "pred": "No."}
+{"question_id": "v_00954_4", "pred": "I don't know."}
+{"question_id": "v_00954_5", "pred": "Yes."}
+{"question_id": "v_00954_6", "pred": "I don't know."}
+{"question_id": "v_00955_1", "pred": "Yes."}
+{"question_id": "v_00955_2", "pred": "Yes."}
+{"question_id": "v_00956_2", "pred": "No."}
+{"question_id": "v_00956_3", "pred": "Yes."}
+{"question_id": "v_00956_4", "pred": "I don't know."}
+{"question_id": "v_00956_5", "pred": "Go straight ahead."}
+{"question_id": "v_00957_10", "pred": "Yes."}
+{"question_id": "v_00957_11", "pred": "No."}
+{"question_id": "v_00957_12", "pred": "Right."}
+{"question_id": "v_00957_13", "pred": "No."}
+{"question_id": "v_00957_14", "pred": "A laptop."}
+{"question_id": "v_00957_15", "pred": "Yes."}
+{"question_id": "v_00957_4", "pred": "Yes."}
+{"question_id": "v_00957_7", "pred": "There are two pedestrians."}
+{"question_id": "v_00957_8", "pred": "Yes."}
+{"question_id": "v_00957_9", "pred": "Yes."}
+{"question_id": "v_00958_1", "pred": "Yes."}
+{"question_id": "v_00959_2", "pred": "Yes."}
+{"question_id": "v_00959_3", "pred": "Yes."}
+{"question_id": "v_00959_6", "pred": "Yes."}
+{"question_id": "v_00960_1", "pred": "No."}
+{"question_id": "v_00961_1", "pred": "Yes."}
+{"question_id": "v_00961_2", "pred": "No."}
+{"question_id": "v_00962_1", "pred": "Yes."}
+{"question_id": "v_00962_13", "pred": "No."}
+{"question_id": "v_00962_14", "pred": "No."}
+{"question_id": "v_00962_16", "pred": "No."}
+{"question_id": "v_00962_19", "pred": "Yes."}
+{"question_id": "v_00962_21", "pred": "Right front."}
+{"question_id": "v_00962_22", "pred": "Yes."}
+{"question_id": "v_00962_25", "pred": "No."}
+{"question_id": "v_00962_27", "pred": "Yes."}
+{"question_id": "v_00962_29", "pred": "I don't know."}
+{"question_id": "v_00962_4", "pred": "I don't know."}
+{"question_id": "v_00962_5", "pred": "I don't know."}
+{"question_id": "v_00962_6", "pred": "No."}
+{"question_id": "v_00962_8", "pred": "Elevator third floor floor."}
+{"question_id": "v_00963_1", "pred": "No."}
+{"question_id": "v_00964_3", "pred": "Yes."}
+{"question_id": "v_00964_4", "pred": "Yes."}
+{"question_id": "v_00964_5", "pred": "Move to the right."}
+{"question_id": "v_00964_6", "pred": "Yes."}
+{"question_id": "v_00964_7", "pred": "There is a blind path in the middle of the pathway."}
+{"question_id": "v_00967_1", "pred": "Go straight."}
+{"question_id": "v_00967_2", "pred": "Yes."}
+{"question_id": "v_00968_1", "pred": "No."}
+{"question_id": "v_00969_1", "pred": "Yes."}
+{"question_id": "v_00969_2", "pred": "Yes."}
+{"question_id": "v_00970_4", "pred": "Yes."}
+{"question_id": "v_00970_6", "pred": "Yes."}
+{"question_id": "v_00971_1", "pred": "Yes."}
+{"question_id": "v_00971_2", "pred": "Yes."}
+{"question_id": "v_00971_4", "pred": "No."}
+{"question_id": "v_00972_2", "pred": "Yes."}
+{"question_id": "v_00973_1", "pred": "Yes."}
+{"question_id": "v_00973_2", "pred": "I don't know."}
+{"question_id": "v_00974_1", "pred": "Go straight ahead."}
+{"question_id": "v_00977_1", "pred": "I don't know."}
+{"question_id": "v_00977_2", "pred": "Downward."}
+{"question_id": "v_00979_1", "pred": "A stone wall."}
+{"question_id": "v_00980_1", "pred": "Yes."}
+{"question_id": "v_00981_1", "pred": "Yes."}
+{"question_id": "v_00982_1", "pred": "Yes."}
+{"question_id": "v_00982_3", "pred": "Yes."}
+{"question_id": "v_00983_1", "pred": "I don't know."}
+{"question_id": "v_00983_4", "pred": "Press the button."}
+{"question_id": "v_00983_5", "pred": "I don't know."}
+{"question_id": "v_00983_6", "pred": "I don't know."}
+{"question_id": "v_00985_4", "pred": "No."}
+{"question_id": "v_00986_1", "pred": "Sitting on the sofa."}
+{"question_id": "v_00986_5", "pred": "Yes."}
+{"question_id": "v_00987_1", "pred": "Yes."}
+{"question_id": "v_00987_4", "pred": "Cookies."}
+{"question_id": "v_00988_2", "pred": "No."}
+{"question_id": "v_00988_4", "pred": "I don't know."}
+{"question_id": "v_00989_2", "pred": "No."}
+{"question_id": "v_00989_3", "pred": "Yes."}
+{"question_id": "v_00991_1", "pred": "No."}
+{"question_id": "v_00991_3", "pred": "I don't know."}
+{"question_id": "v_00992_1", "pred": "No."}
+{"question_id": "v_00992_3", "pred": "I don't know."}
+{"question_id": "v_00992_4", "pred": "Press it on the dough and then remove it to form a shape."}
+{"question_id": "v_00993_1", "pred": "Yes."}
+{"question_id": "v_00993_3", "pred": "I don't know."}
+{"question_id": "v_00993_4", "pred": "I don't know."}
+{"question_id": "v_00993_5", "pred": "I don't know."}
+{"question_id": "v_00993_6", "pred": "Pentagram."}
+{"question_id": "v_00994_1", "pred": "I don't know."}
+{"question_id": "v_00994_2", "pred": "Right front."}
+{"question_id": "v_00995_3", "pred": "Yes."}
+{"question_id": "v_00995_5", "pred": "Pull the handle and pull it out."}
+{"question_id": "v_00995_6", "pred": "Put it in."}
+{"question_id": "v_00995_7", "pred": "I don't know."}
+{"question_id": "v_00998_1", "pred": "No."}
+{"question_id": "v_00999_1", "pred": "Yes."}
+{"question_id": "v_00999_2", "pred": "I don't know."}
+{"question_id": "v_01000_2", "pred": "I don't know."}
+{"question_id": "v_01001_5", "pred": "No."}
+{"question_id": "v_01002_1", "pred": "Yes."}
+{"question_id": "v_01002_2", "pred": "Yes."}
+{"question_id": "v_01002_4", "pred": "No smoking."}
+{"question_id": "v_01004_1", "pred": "Yes."}
+{"question_id": "v_01005_1", "pred": "I don't know."}
+{"question_id": "v_01007_1", "pred": "No."}
+{"question_id": "v_01007_2", "pred": "Go straight ahead."}
+{"question_id": "v_01008_1", "pred": "On your left."}
+{"question_id": "v_01008_10", "pred": "A convenience store."}
+{"question_id": "v_01008_3", "pred": "Yes."}
+{"question_id": "v_01008_6", "pred": "There are several shops with bright signs and lights on the right side of the street."}
+{"question_id": "v_01008_7", "pred": "Yes."}
+{"question_id": "v_01010_1", "pred": "Right in front."}
+{"question_id": "v_01010_2", "pred": "I don't know."}
+{"question_id": "v_01011_2", "pred": "A bowl of wonton."}
+{"question_id": "v_01012_1", "pred": "I don't know."}
+{"question_id": "v_01012_2", "pred": "Yes."}
+{"question_id": "v_01013_1", "pred": "Yes."}
+{"question_id": "v_01013_2", "pred": "Yes."}
+{"question_id": "v_01014_3", "pred": "No."}
+{"question_id": "v_01014_4", "pred": "No."}
+{"question_id": "v_01015_1", "pred": "On both sides of the entrance."}
+{"question_id": "v_01016_1", "pred": "Go straight ahead."}
+{"question_id": "v_01016_2", "pred": "Yes."}
+{"question_id": "v_01016_3", "pred": "Yes."}
+{"question_id": "v_01017_1", "pred": "Yes."}
+{"question_id": "v_01017_2", "pred": "Sunny."}
+{"question_id": "v_01020_1", "pred": "Yes."}
+{"question_id": "v_01021_1", "pred": "Yes."}
+{"question_id": "v_01021_2", "pred": "Yes."}
+{"question_id": "v_01021_3", "pred": "Hold the handrail and step onto the moving part of the escalator. Keep your feet away from the edges and stand still. Keep your hands on the handrail and step off at the bottom."}
+{"question_id": "v_01021_5", "pred": "Yes."}
+{"question_id": "v_01022_3", "pred": "Yes."}
+{"question_id": "v_01023_3", "pred": "Yes."}
+{"question_id": "v_01024_4", "pred": "I don't know."}
+{"question_id": "v_01026_1", "pred": "Yes."}
+{"question_id": "v_01026_10", "pred": "I don't know."}
+{"question_id": "v_01026_12", "pred": "Yes."}
+{"question_id": "v_01026_13", "pred": "With the help of your guide dog."}
+{"question_id": "v_01026_16", "pred": "The interior of the car."}
+{"question_id": "v_01026_17", "pred": "I don't know."}
+{"question_id": "v_01026_4", "pred": "I don't know."}
+{"question_id": "v_01026_5", "pred": "Yes."}
+{"question_id": "v_01027_10", "pred": "I don't know."}
+{"question_id": "v_01027_11", "pred": "Yes."}
+{"question_id": "v_01027_12", "pred": "No."}
+{"question_id": "v_01027_2", "pred": "Yes."}
+{"question_id": "v_01027_3", "pred": "Yes."}
+{"question_id": "v_01027_6", "pred": "No."}
+{"question_id": "v_01027_7", "pred": "I don't know."}
+{"question_id": "v_01027_8", "pred": "Ask the staff next to you."}
+{"question_id": "v_01028_1", "pred": "Yes."}
+{"question_id": "v_01031_1", "pred": "I don't know."}
+{"question_id": "v_01032_2", "pred": "Right."}
+{"question_id": "v_01032_3", "pred": "Yes."}
+{"question_id": "v_01033_2", "pred": "I don't know."}
+{"question_id": "v_01033_4", "pred": "Yes."}
+{"question_id": "v_01033_5", "pred": "I don't know."}
+{"question_id": "v_01034_3", "pred": "I don't know."}
+{"question_id": "v_01034_6", "pred": "I don't know."}
+{"question_id": "v_01035_2", "pred": "Yes."}
+{"question_id": "v_01035_3", "pred": "Hold it up and show it to the staff."}
+{"question_id": "v_01035_4", "pred": "Yes."}
+{"question_id": "v_01035_5", "pred": "Yes."}
+{"question_id": "v_01037_4", "pred": "I pressed the number 2."}
+{"question_id": "v_01038_2", "pred": "I don't know."}
+{"question_id": "v_01038_3", "pred": "Yes."}
+{"question_id": "v_01039_2", "pred": "I don't know."}
+{"question_id": "v_01039_3", "pred": "I don't know."}
+{"question_id": "v_01039_4", "pred": "Yes."}
+{"question_id": "v_01041_1", "pred": "Yes."}
+{"question_id": "v_01041_4", "pred": "Yes."}
+{"question_id": "v_01042_1", "pred": "Yes."}
+{"question_id": "v_01042_10", "pred": "Yes."}
+{"question_id": "v_01042_3", "pred": "I don't know."}
+{"question_id": "v_01042_5", "pred": "Yes."}
+{"question_id": "v_01042_8", "pred": "A wall."}
+{"question_id": "v_01042_9", "pred": "Yes."}
+{"question_id": "v_01043_2", "pred": "Yes."}
+{"question_id": "v_01043_3", "pred": "I don't know."}
+{"question_id": "v_01044_1", "pred": "I don't know."}
+{"question_id": "v_01044_2", "pred": "A pile of bowls."}
+{"question_id": "v_01045_3", "pred": "Go straight."}
+{"question_id": "v_01045_4", "pred": "I don't know."}
+{"question_id": "v_01045_5", "pred": "Yes."}
+{"question_id": "v_01046_2", "pred": "Yes."}
+{"question_id": "v_01046_3", "pred": "Right front."}
+{"question_id": "v_01046_4", "pred": "I don't know."}
+{"question_id": "v_01047_1", "pred": "No."}
+{"question_id": "v_01048_3", "pred": "Left."}
+{"question_id": "v_01048_4", "pred": "Go straight ahead."}
+{"question_id": "v_01049_1", "pred": "I don't know."}
+{"question_id": "v_01050_2", "pred": "Go straight."}
+{"question_id": "v_01052_2", "pred": "No."}
+{"question_id": "v_01052_5", "pred": "Yes."}
+{"question_id": "v_01053_2", "pred": "Yes."}
+{"question_id": "v_01053_3", "pred": "Go straight."}
+{"question_id": "v_01054_1", "pred": "Right front."}
+{"question_id": "v_01054_2", "pred": "A tea shop."}
+{"question_id": "v_01055_1", "pred": "No."}
+{"question_id": "v_01057_4", "pred": "A food stand."}
+{"question_id": "v_01057_5", "pred": "Snack items."}
+{"question_id": "v_01058_2", "pred": "Yes."}
+{"question_id": "v_01059_1", "pred": "No."}
+{"question_id": "v_01059_3", "pred": "You are sitting at a table."}
+{"question_id": "v_01059_4", "pred": "Yes."}
+{"question_id": "v_01060_1", "pred": "I don't know."}
+{"question_id": "v_01061_1", "pred": "No."}
+{"question_id": "v_01062_1", "pred": "Right in front."}
+{"question_id": "v_01062_4", "pred": "Yes."}
+{"question_id": "v_01062_6", "pred": "Yes."}
+{"question_id": "v_01063_1", "pred": "Yes."}
+{"question_id": "v_01063_4", "pred": "A green bag."}
+{"question_id": "v_01064_3", "pred": "A bag."}
+{"question_id": "v_01064_4", "pred": "A bag."}
+{"question_id": "v_01065_4", "pred": "Yes."}
+{"question_id": "v_01066_1", "pred": "Yes."}
+{"question_id": "v_01066_2", "pred": "Yes."}
+{"question_id": "v_01066_3", "pred": "Two guide dogs."}
+{"question_id": "v_01067_1", "pred": "Yes."}
+{"question_id": "v_01067_2", "pred": "Yes."}
+{"question_id": "v_01067_6", "pred": "There are various dishes on the table, including bowls, plates, and a large serving dish."}
+{"question_id": "v_01067_8", "pred": "I don't know."}
+{"question_id": "v_01068_1", "pred": "Right in front of you."}
+{"question_id": "v_01068_4", "pred": "A bag."}
+{"question_id": "v_01069_1", "pred": "No."}
+{"question_id": "v_01069_2", "pred": "No."}
+{"question_id": "v_01069_3", "pred": "Yes."}
+{"question_id": "v_01070_2", "pred": "No."}
+{"question_id": "v_01070_3", "pred": "Yes."}
+{"question_id": "v_01071_1", "pred": "Yes."}
+{"question_id": "v_01071_3", "pred": "Left."}
+{"question_id": "v_01071_7", "pred": "Yes."}
+{"question_id": "v_01071_8", "pred": "Yes."}
+{"question_id": "v_01072_1", "pred": "No."}
+{"question_id": "v_01072_2", "pred": "About 20cm."}
+{"question_id": "v_01072_4", "pred": "No."}
+{"question_id": "v_01072_5", "pred": "Yes."}
+{"question_id": "v_01072_6", "pred": "No."}
+{"question_id": "v_01073_1", "pred": "Yes."}
+{"question_id": "v_01073_3", "pred": "A microwave oven."}
+{"question_id": "v_01073_4", "pred": "I don't know."}
+{"question_id": "v_01073_5", "pred": "Yes."}
+{"question_id": "v_01074_1", "pred": "No."}
+{"question_id": "v_01074_2", "pred": "I don't know."}
+{"question_id": "v_01075_1", "pred": "No."}
+{"question_id": "v_01076_2", "pred": "Yes."}
+{"question_id": "v_01076_4", "pred": "I am working."}
+{"question_id": "v_01077_1", "pred": "Yes."}
+{"question_id": "v_01077_2", "pred": "Touch the guide dog."}
+{"question_id": "v_01078_3", "pred": "Yes."}
+{"question_id": "v_01078_4", "pred": "Yes."}
+{"question_id": "v_01079_1", "pred": "I don't know."}
+{"question_id": "v_01079_2", "pred": "Yes."}
+{"question_id": "v_01080_3", "pred": "Yes."}
+{"question_id": "v_01080_4", "pred": "Yes."}
+{"question_id": "v_01080_6", "pred": "Yes."}
+{"question_id": "v_01081_3", "pred": "Yes."}
+{"question_id": "v_01081_4", "pred": "Yes."}
+{"question_id": "v_01082_1", "pred": "Yes."}
+{"question_id": "v_01083_1", "pred": "Yes."}
+{"question_id": "v_01083_2", "pred": "Yes."}
+{"question_id": "v_01084_3", "pred": "Yes."}
+{"question_id": "v_01084_5", "pred": "Right."}
+{"question_id": "v_01085_1", "pred": "Yes."}
+{"question_id": "v_01086_1", "pred": "On your left."}
+{"question_id": "v_01086_3", "pred": "Red and green."}
+{"question_id": "v_01087_1", "pred": "I don't know."}
+{"question_id": "v_01087_3", "pred": "Yes."}
+{"question_id": "v_01087_4", "pred": "Right in front."}
+{"question_id": "v_01087_5", "pred": "I don't know."}
+{"question_id": "v_01087_7", "pred": "Yes."}
+{"question_id": "v_01088_1", "pred": "Yes."}
+{"question_id": "v_01088_2", "pred": "Yes."}
+{"question_id": "v_01088_3", "pred": "On your left."}
+{"question_id": "v_01088_4", "pred": "Scallions."}
+{"question_id": "v_01089_2", "pred": "There are various items on the countertop."}
+{"question_id": "v_01090_2", "pred": "Yes."}
+{"question_id": "v_01090_3", "pred": "Yes."}
+{"question_id": "v_01091_1", "pred": "I don't know."}
+{"question_id": "v_01091_2", "pred": "Onions, corn, and various other vegetables."}
+{"question_id": "v_01092_1", "pred": "Yes."}
+{"question_id": "v_01092_2", "pred": "In the produce section."}
+{"question_id": "v_01092_3", "pred": "Corn."}
+{"question_id": "v_01092_4", "pred": "I don't know."}
+{"question_id": "v_01093_3", "pred": "I don't know."}
+{"question_id": "v_01093_5", "pred": "Tomatoes."}
+{"question_id": "v_01093_7", "pred": "I don't know."}
+{"question_id": "v_01093_8", "pred": "Two."}
+{"question_id": "v_01094_1", "pred": "Yes."}
+{"question_id": "v_01094_3", "pred": "Yes."}
+{"question_id": "v_01094_4", "pred": "A market."}
+{"question_id": "v_01095_3", "pred": "No."}
+{"question_id": "v_01095_5", "pred": "Yes."}
+{"question_id": "v_01095_7", "pred": "Yes."}
+{"question_id": "v_01095_8", "pred": "Yes."}
+{"question_id": "v_01096_2", "pred": "Go straight ahead."}
+{"question_id": "v_01096_4", "pred": "Museum."}
+{"question_id": "v_01097_1", "pred": "Yes."}
+{"question_id": "v_01097_2", "pred": "I don't know."}
+{"question_id": "v_01100_1", "pred": "No."}
+{"question_id": "v_01100_2", "pred": "Right."}
+{"question_id": "v_01100_3", "pred": "Yes."}
+{"question_id": "v_01100_4", "pred": "Yes."}
+{"question_id": "v_01101_1", "pred": "Yes."}
+{"question_id": "v_01101_2", "pred": "Go straight."}
+{"question_id": "v_01102_1", "pred": "I don't know."}
+{"question_id": "v_01104_3", "pred": "I don't know."}
+{"question_id": "v_01104_4", "pred": "There are some electric vehicles parked on both sides of the road."}
+{"question_id": "v_01106_10", "pred": "A sculpture of a person."}
+{"question_id": "v_01106_12", "pred": "Five."}
+{"question_id": "v_01106_2", "pred": "Yes."}
+{"question_id": "v_01106_3", "pred": "Yes."}
+{"question_id": "v_01106_4", "pred": "I don't know."}
+{"question_id": "v_01106_5", "pred": "Go straight."}
+{"question_id": "v_01106_7", "pred": "A sculpture."}
+{"question_id": "v_01108_1", "pred": "No."}
+{"question_id": "v_01108_2", "pred": "Mao Zedong."}
+{"question_id": "v_01108_3", "pred": "Yes."}
+{"question_id": "v_01110_1", "pred": "I don't know."}
+{"question_id": "v_01111_1", "pred": "Yes."}
+{"question_id": "v_01111_2", "pred": "I don't know."}
+{"question_id": "v_01111_3", "pred": "There is a security check of a conveyor belt."}
+{"question_id": "v_01113_1", "pred": "Yes."}
+{"question_id": "v_01113_11", "pred": "No."}
+{"question_id": "v_01113_12", "pred": "No."}
+{"question_id": "v_01113_13", "pred": "No."}
+{"question_id": "v_01113_14", "pred": "Yes."}
+{"question_id": "v_01113_15", "pred": "Go straight."}
+{"question_id": "v_01113_16", "pred": "No."}
+{"question_id": "v_01113_17", "pred": "I don't know."}
+{"question_id": "v_01113_3", "pred": "I don't know."}
+{"question_id": "v_01113_5", "pred": "I don't know."}
+{"question_id": "v_01113_6", "pred": "I don't know."}
+{"question_id": "v_01113_8", "pred": "No."}
+{"question_id": "v_01114_1", "pred": "No."}
+{"question_id": "v_01114_6", "pred": "There are two people walking in front of you."}
+{"question_id": "v_01115_1", "pred": "A guide rod."}
+{"question_id": "v_01116_1", "pred": "A guide rod."}
+{"question_id": "v_01117_2", "pred": "No."}
+{"question_id": "v_01117_3", "pred": "Yes."}
+{"question_id": "v_01118_1", "pred": "No."}
+{"question_id": "v_01118_3", "pred": "No."}
+{"question_id": "v_01118_4", "pred": "The screen is blank."}
+{"question_id": "v_01118_5", "pred": "Yes."}
+{"question_id": "v_01118_6", "pred": "Yes."}
+{"question_id": "v_01119_1", "pred": "Yes."}
+{"question_id": "v_01121_1", "pred": "Yes."}
+{"question_id": "v_01121_3", "pred": "I don't know."}
+{"question_id": "v_01122_2", "pred": "No."}
+{"question_id": "v_01122_3", "pred": "I don't know."}
+{"question_id": "v_01124_1", "pred": "Yes."}
+{"question_id": "v_01125_1", "pred": "Yes."}
+{"question_id": "v_01126_1", "pred": "Yes."}
+{"question_id": "v_01126_2", "pred": "Yes."}
+{"question_id": "v_01127_2", "pred": "Yes."}
+{"question_id": "v_01127_3", "pred": "I don't know."}
+{"question_id": "v_01128_1", "pred": "Yes."}
+{"question_id": "v_01128_2", "pred": "I don't know."}
+{"question_id": "v_01129_1", "pred": "Yes."}
+{"question_id": "v_01129_3", "pred": "I don't know."}
+{"question_id": "v_01130_1", "pred": "I don't know."}
+{"question_id": "v_01130_2", "pred": "6 yuan."}
+{"question_id": "v_01131_1", "pred": "No."}
+{"question_id": "v_01134_1", "pred": "Yes."}
+{"question_id": "v_01134_2", "pred": "Yes."}
+{"question_id": "v_01134_3", "pred": "A living room."}
+{"question_id": "v_01134_4", "pred": "A picture frame."}
+{"question_id": "v_01135_1", "pred": "Yes."}
+{"question_id": "v_01135_2", "pred": "179 yuan."}
+{"question_id": "v_01135_4", "pred": "Yes."}
+{"question_id": "v_01138_1", "pred": "Glasses, a tray, and a candle."}
+{"question_id": "v_01140_1", "pred": "69 yuan."}
+{"question_id": "v_01141_1", "pred": "I don't know."}
+{"question_id": "v_01141_2", "pred": "A tray."}
+{"question_id": "v_01143_1", "pred": "No."}
+{"question_id": "v_01143_4", "pred": "12 yuan."}
+{"question_id": "v_01143_5", "pred": "Yes."}
+{"question_id": "v_01143_6", "pred": "Pillow."}
+{"question_id": "v_01144_1", "pred": "Yes."}
+{"question_id": "v_01144_3", "pred": "Yes."}
+{"question_id": "v_01145_1", "pred": "Yes."}
+{"question_id": "v_01146_2", "pred": "I don't know."}
+{"question_id": "v_01149_1", "pred": "Yes."}
+{"question_id": "v_01150_1", "pred": "Yes."}
+{"question_id": "v_01150_2", "pred": "12 yuan."}
+{"question_id": "v_01151_1", "pred": "Yes."}
+{"question_id": "v_01151_2", "pred": "A supermarket."}
+{"question_id": "v_01153_2", "pred": "No."}
+{"question_id": "v_01155_1", "pred": "Right."}
+{"question_id": "v_01156_1", "pred": "Yes."}
+{"question_id": "v_01157_2", "pred": "Yes."}
+{"question_id": "v_01158_1", "pred": "No."}
+{"question_id": "v_01159_2", "pred": "I don't know."}
+{"question_id": "v_01159_3", "pred": "Haidilao."}
+{"question_id": "v_01159_4", "pred": "A food stand."}
+{"question_id": "v_01159_5", "pred": "Yes."}
+{"question_id": "v_01159_6", "pred": "I don't know."}
+{"question_id": "v_01159_7", "pred": "I don't know."}
+{"question_id": "v_01160_1", "pred": "Yes."}
+{"question_id": "v_01160_2", "pred": "Yes."}
+{"question_id": "v_01161_2", "pred": "No."}
+{"question_id": "v_01161_3", "pred": "I don't know."}
+{"question_id": "v_01161_4", "pred": "Yes."}
+{"question_id": "v_01161_6", "pred": "No."}
+{"question_id": "v_01162_1", "pred": "Yes."}
+{"question_id": "v_01162_2", "pred": "I don't know."}
+{"question_id": "v_01163_2", "pred": "Blind path."}
+{"question_id": "v_01164_1", "pred": "Yes."}
+{"question_id": "v_01165_1", "pred": "Yes."}
+{"question_id": "v_01165_3", "pred": "Yes."}
+{"question_id": "v_01166_1", "pred": "Yes."}
+{"question_id": "v_01166_2", "pred": "Pink."}
+{"question_id": "v_01167_2", "pred": "I don't know."}
+{"question_id": "v_01167_4", "pred": "Yes."}
+{"question_id": "v_01168_2", "pred": "No."}
+{"question_id": "v_01168_3", "pred": "No."}
+{"question_id": "v_01169_3", "pred": "Yes."}
+{"question_id": "v_01170_1", "pred": "Yes."}
+{"question_id": "v_01172_1", "pred": "Yes."}
+{"question_id": "v_01172_2", "pred": "Go straight ahead."}
+{"question_id": "v_01173_1", "pred": "Yes."}
+{"question_id": "v_01173_2", "pred": "Yes."}
+{"question_id": "v_01174_1", "pred": "A staff member."}
+{"question_id": "v_01174_2", "pred": "Yes."}
+{"question_id": "v_01176_2", "pred": "No."}
+{"question_id": "v_01176_3", "pred": "No."}
+{"question_id": "v_01176_5", "pred": "Yes."}
+{"question_id": "v_01176_6", "pred": "Airport staff."}
+{"question_id": "v_01177_1", "pred": "Yes."}
+{"question_id": "v_01177_2", "pred": "No."}
+{"question_id": "v_01177_3", "pred": "No entry."}
+{"question_id": "v_01178_1", "pred": "Yes."}
+{"question_id": "v_01179_1", "pred": "Yes."}
+{"question_id": "v_01180_1", "pred": "Yes."}
+{"question_id": "v_01180_3", "pred": "Go straight ahead."}
+{"question_id": "v_01180_5", "pred": "Please ensure your security check."}
+{"question_id": "v_01181_1", "pred": "Yes."}
+{"question_id": "v_01182_3", "pred": "Front."}
+{"question_id": "v_01183_2", "pred": "Yes."}
+{"question_id": "v_01184_1", "pred": "Yes."}
+{"question_id": "v_01185_1", "pred": "No."}
+{"question_id": "v_01185_2", "pred": "Go straight ahead."}
+{"question_id": "v_01185_5", "pred": "I don't know."}
+{"question_id": "v_01186_2", "pred": "No."}
+{"question_id": "v_01187_1", "pred": "Yes."}
+{"question_id": "v_01190_2", "pred": "Yes."}
+{"question_id": "v_01190_3", "pred": "Front."}
+{"question_id": "v_01191_2", "pred": "Yes."}
+{"question_id": "v_01191_3", "pred": "I don't know."}
+{"question_id": "v_01192_1", "pred": "Yes."}
+{"question_id": "v_01192_2", "pred": "Yes."}
+{"question_id": "v_01193_3", "pred": "I don't know."}
+{"question_id": "v_01194_2", "pred": "Yes."}
+{"question_id": "v_01195_2", "pred": "Yes."}
+{"question_id": "v_01195_4", "pred": "Yes."}
+{"question_id": "v_01196_1", "pred": "Yes."}
+{"question_id": "v_01197_1", "pred": "No."}
+{"question_id": "v_01198_1", "pred": "No."}
+{"question_id": "v_01198_2", "pred": "Yes."}
+{"question_id": "v_01199_2", "pred": "Yes."}
+{"question_id": "v_01200_1", "pred": "No."}
+{"question_id": "v_01201_2", "pred": "No."}
+{"question_id": "v_01202_1", "pred": "Yes."}
+{"question_id": "v_01202_2", "pred": "Yes."}
+{"question_id": "v_01204_2", "pred": "Yes."}
+{"question_id": "v_01205_5", "pred": "I don't know."}
+{"question_id": "v_01205_6", "pred": "Yes."}
+{"question_id": "v_01206_2", "pred": "No."}
+{"question_id": "v_01208_1", "pred": "Yes."}
+{"question_id": "v_01208_4", "pred": "Yes."}
+{"question_id": "v_01208_5", "pred": "Yes."}
+{"question_id": "v_01209_1", "pred": "I don't know."}
+{"question_id": "v_01209_3", "pred": "Go straight ahead."}
+{"question_id": "v_01209_7", "pred": "Yes."}
+{"question_id": "v_01210_3", "pred": "No."}
+{"question_id": "v_01210_4", "pred": "No."}
+{"question_id": "v_01210_6", "pred": "Yes."}
+{"question_id": "v_01211_10", "pred": "Yes."}
+{"question_id": "v_01211_12", "pred": "Yes."}
+{"question_id": "v_01211_13", "pred": "Pull the handle on the door and pull it inward."}
+{"question_id": "v_01211_14", "pred": "Yes."}
+{"question_id": "v_01211_2", "pred": "Yes."}
+{"question_id": "v_01211_3", "pred": "Yes."}
+{"question_id": "v_01211_4", "pred": "Yes."}
+{"question_id": "v_01211_5", "pred": "Yes."}
+{"question_id": "v_01211_6", "pred": "No."}
+{"question_id": "v_01211_8", "pred": "Yes."}
+{"question_id": "v_01211_9", "pred": "Yes."}
+{"question_id": "v_01212_2", "pred": "Yes."}
+{"question_id": "v_01212_4", "pred": "I don't know."}
+{"question_id": "v_01212_5", "pred": "Yes."}
+{"question_id": "v_01212_6", "pred": "Yes."}
+{"question_id": "v_01213_1", "pred": "I don't know."}
+{"question_id": "v_01214_1", "pred": "Yes."}
+{"question_id": "v_01214_2", "pred": "Go straight ahead."}
+{"question_id": "v_01214_3", "pred": "Yes."}
+{"question_id": "v_01214_5", "pred": "Yes."}
+{"question_id": "v_01215_2", "pred": "Right."}
+{"question_id": "v_01216_1", "pred": "Yes."}
+{"question_id": "v_01216_3", "pred": "Yes."}
+{"question_id": "v_01217_1", "pred": "Yes."}
+{"question_id": "v_01217_2", "pred": "Yes."}
+{"question_id": "v_01217_3", "pred": "I don't know."}
+{"question_id": "v_01218_2", "pred": "Yes."}
+{"question_id": "v_01220_2", "pred": "Yes."}
+{"question_id": "v_01220_3", "pred": "Yes."}
+{"question_id": "v_01220_4", "pred": "Yes."}
+{"question_id": "v_01220_5", "pred": "I don't know."}
+{"question_id": "v_01220_6", "pred": "I don't know."}
+{"question_id": "v_01221_3", "pred": "Yes."}
+{"question_id": "v_01222_1", "pred": "Yes."}
+{"question_id": "v_01224_2", "pred": "Yes."}
+{"question_id": "v_01224_3", "pred": "Yes."}
+{"question_id": "v_01225_3", "pred": "Yes."}
+{"question_id": "v_01226_1", "pred": "Yes."}
+{"question_id": "v_01226_2", "pred": "Yes."}
+{"question_id": "v_01227_1", "pred": "I don't know."}
+{"question_id": "v_01227_2", "pred": "No."}
+{"question_id": "v_01227_5", "pred": "Yes."}
+{"question_id": "v_01227_8", "pred": "Yes."}
+{"question_id": "v_01228_2", "pred": "I don't know."}
+{"question_id": "v_01228_3", "pred": "Go straight ahead."}
+{"question_id": "v_01229_1", "pred": "Yes."}
+{"question_id": "v_01229_2", "pred": "No."}
+{"question_id": "v_01230_1", "pred": "Yes."}
+{"question_id": "v_01230_6", "pred": "Yes."}
+{"question_id": "v_01231_3", "pred": "I don't know."}
+{"question_id": "v_01231_6", "pred": "Yes."}
+{"question_id": "v_01232_2", "pred": "Yes."}
+{"question_id": "v_01232_3", "pred": "Yes."}
+{"question_id": "v_01233_1", "pred": "Yes."}
+{"question_id": "v_01233_2", "pred": "I don't know."}
+{"question_id": "v_01233_4", "pred": "On your right."}
+{"question_id": "v_01233_5", "pred": "I don't know."}
+{"question_id": "v_01233_6", "pred": "I don't know."}
+{"question_id": "v_01234_3", "pred": "Yes."}
+{"question_id": "v_01234_5", "pred": "Yes."}
+{"question_id": "v_01235_1", "pred": "Your staff."}
+{"question_id": "v_01235_11", "pred": "Yes."}
+{"question_id": "v_01235_12", "pred": "No."}
+{"question_id": "v_01235_13", "pred": "No."}
+{"question_id": "v_01235_15", "pred": "No."}
+{"question_id": "v_01235_17", "pred": "There are many trees around the racecourse."}
+{"question_id": "v_01235_3", "pred": "Hold the reins with both hands, ensuring they are even."}
+{"question_id": "v_01235_4", "pred": "I don't know."}
+{"question_id": "v_01235_5", "pred": "Ask staff next to you."}
+{"question_id": "v_01235_9", "pred": "Horse reins."}
+{"question_id": "v_01236_3", "pred": "You are walking towards the fence."}
+{"question_id": "v_01237_1", "pred": "Yes."}
+{"question_id": "v_01239_1", "pred": "No."}
+{"question_id": "v_01239_2", "pred": "No."}
+{"question_id": "v_01239_3", "pred": "Llamas."}
+{"question_id": "v_01240_1", "pred": "No."}
+{"question_id": "v_01241_1", "pred": "Yes."}
+{"question_id": "v_01241_2", "pred": "No."}
+{"question_id": "v_01241_4", "pred": "Yes."}
+{"question_id": "v_01242_1", "pred": "Yes."}
+{"question_id": "v_01242_4", "pred": "Llama."}
+{"question_id": "v_01244_1", "pred": "No."}
+{"question_id": "v_01245_1", "pred": "Yes."}
+{"question_id": "v_01245_3", "pred": "Yes."}
+{"question_id": "v_01245_4", "pred": "Yes."}
+{"question_id": "v_01245_7", "pred": "Yes."}
+{"question_id": "v_01246_2", "pred": "No."}
+{"question_id": "v_01246_4", "pred": "Yes."}
+{"question_id": "v_01246_5", "pred": "Yes."}
+{"question_id": "v_01247_2", "pred": "Yes."}
+{"question_id": "v_01248_3", "pred": "Cafe."}
+{"question_id": "v_01248_4", "pred": "I don't know."}
+{"question_id": "v_01249_2", "pred": "Yes."}
+{"question_id": "v_01249_3", "pred": "Yes."}
+{"question_id": "v_01250_2", "pred": "Yes."}
+{"question_id": "v_01251_1", "pred": "Yes."}
+{"question_id": "v_01251_2", "pred": "Yes."}
+{"question_id": "v_01251_3", "pred": "Yes."}
+{"question_id": "v_01251_4", "pred": "Yes."}
+{"question_id": "v_01251_5", "pred": "A poster."}
+{"question_id": "v_01252_1", "pred": "Yes."}
+{"question_id": "v_01252_3", "pred": "No."}
+{"question_id": "v_01252_4", "pred": "Yes."}
+{"question_id": "v_01252_5", "pred": "No."}
+{"question_id": "v_01252_6", "pred": "A phone."}
+{"question_id": "v_01253_2", "pred": "Yes."}
+{"question_id": "v_01253_3", "pred": "I don't know."}
+{"question_id": "v_01255_1", "pred": "Yes."}
+{"question_id": "v_01256_1", "pred": "No."}
+{"question_id": "v_01256_3", "pred": "Yes."}
+{"question_id": "v_01256_4", "pred": "Yes."}
+{"question_id": "v_01256_5", "pred": "Pony."}
+{"question_id": "v_01257_2", "pred": "A petting zoo."}
+{"question_id": "v_01257_3", "pred": "Five."}
+{"question_id": "v_01257_4", "pred": "Yes."}
+{"question_id": "v_01258_1", "pred": "Yes."}
+{"question_id": "v_01259_1", "pred": "About 20cm."}
+{"question_id": "v_01259_2", "pred": "Yes."}
+{"question_id": "v_01260_4", "pred": "Yes."}
+{"question_id": "v_01261_1", "pred": "No."}
+{"question_id": "v_01261_3", "pred": "On the left."}
+{"question_id": "v_01262_2", "pred": "Yes."}
+{"question_id": "v_01262_4", "pred": "Yes."}
+{"question_id": "v_01263_2", "pred": "Yes."}
+{"question_id": "v_01263_3", "pred": "Fruit."}
+{"question_id": "v_01263_4", "pred": "Yes."}
+{"question_id": "v_01264_5", "pred": "Eating."}
+{"question_id": "v_01264_7", "pred": "Fruit."}
+{"question_id": "v_01265_2", "pred": "A pony."}
+{"question_id": "v_01265_3", "pred": "Giraffe."}
+{"question_id": "v_01266_3", "pred": "Goat."}
+{"question_id": "v_01267_2", "pred": "Yes."}
+{"question_id": "v_01268_2", "pred": "No."}
+{"question_id": "v_01269_2", "pred": "Pink plush toys."}
+{"question_id": "v_01270_1", "pred": "No."}
+{"question_id": "v_01270_4", "pred": "A purple plush doll."}
+{"question_id": "v_01270_5", "pred": "Five."}
+{"question_id": "v_01270_6", "pred": "A purple plush toy."}
+{"question_id": "v_01272_4", "pred": "A plush doll."}
+{"question_id": "v_01273_1", "pred": "No."}
+{"question_id": "v_01274_3", "pred": "Two plush toys."}
+{"question_id": "v_01275_1", "pred": "Yes."}
+{"question_id": "v_01275_2", "pred": "No."}
+{"question_id": "v_01276_1", "pred": "No."}
+{"question_id": "v_01276_2", "pred": "Yes."}
+{"question_id": "v_01276_3", "pred": "Move the claw around the machine to find the toys and then press the button to grab the toy."}
+{"question_id": "v_01276_5", "pred": "Yes."}
+{"question_id": "v_01276_7", "pred": "Yellow duck toys."}
+{"question_id": "v_01277_1", "pred": "No."}
+{"question_id": "v_01278_1", "pred": "No."}
+{"question_id": "v_01278_2", "pred": "Yes."}
+{"question_id": "v_01278_6", "pred": "A yellow duck and a purple cat."}
+{"question_id": "v_01279_1", "pred": "Yes."}
+{"question_id": "v_01279_2", "pred": "No."}
+{"question_id": "v_01279_4", "pred": "There are many plush toys in front of you."}
+{"question_id": "v_01279_5", "pred": "Green and yellow."}
+{"question_id": "v_01280_2", "pred": "Stuffed animals."}
+{"question_id": "v_01281_2", "pred": "A tea shop."}
+{"question_id": "v_01282_6", "pred": "Mug."}
+{"question_id": "v_01282_7", "pred": "Various items."}
+{"question_id": "v_01283_3", "pred": "A bag."}
+{"question_id": "v_01283_5", "pred": "Yes."}
+{"question_id": "v_01284_1", "pred": "Right."}
+{"question_id": "v_01284_3", "pred": "I don't know."}
+{"question_id": "v_01285_10", "pred": "No."}
+{"question_id": "v_01285_11", "pred": "I don't know."}
+{"question_id": "v_01285_12", "pred": "A statue."}
+{"question_id": "v_01285_14", "pred": "I don't know."}
+{"question_id": "v_01285_4", "pred": "I don't know."}
+{"question_id": "v_01285_5", "pred": "Yes."}
+{"question_id": "v_01285_7", "pred": "A man in a suit."}
+{"question_id": "v_01285_8", "pred": "The central station."}
+{"question_id": "v_01285_9", "pred": "A statue of a man holding a ball."}
+{"question_id": "v_01286_1", "pred": "Yes."}
+{"question_id": "v_01286_10", "pred": "Yes."}
+{"question_id": "v_01286_14", "pred": "A statue."}
+{"question_id": "v_01286_17", "pred": "A woman."}
+{"question_id": "v_01286_2", "pred": "No."}
+{"question_id": "v_01286_3", "pred": "A statue."}
+{"question_id": "v_01286_4", "pred": "A statue."}
+{"question_id": "v_01286_5", "pred": "Yes."}
+{"question_id": "v_01286_6", "pred": "Yes."}
+{"question_id": "v_01286_7", "pred": "Yes."}
+{"question_id": "v_01286_9", "pred": "Yes."}
+{"question_id": "v_01287_2", "pred": "A statue."}
+{"question_id": "v_01287_4", "pred": "A man."}
+{"question_id": "v_01290_12", "pred": "The store is filled with various handbags and accessories."}
+{"question_id": "v_01290_13", "pred": "Louis Vuitton."}
+{"question_id": "v_01290_2", "pred": "I don't know."}
+{"question_id": "v_01290_3", "pred": "I don't know."}
+{"question_id": "v_01290_5", "pred": "No."}
+{"question_id": "v_01290_6", "pred": "I don't know."}
+{"question_id": "v_01290_7", "pred": "A Louis Vuitton bag."}
+{"question_id": "v_01290_9", "pred": "Louis Vuitton."}
+{"question_id": "v_01291_1", "pred": "I don't know."}
+{"question_id": "v_01291_10", "pred": "There are various items on the shelves."}
+{"question_id": "v_01291_11", "pred": "A doll."}
+{"question_id": "v_01291_3", "pred": "I don't know."}
+{"question_id": "v_01291_6", "pred": "Yes."}
+{"question_id": "v_01291_8", "pred": "No."}
+{"question_id": "v_01291_9", "pred": "I don't know."}
+{"question_id": "v_01293_1", "pred": "No."}
+{"question_id": "v_01293_2", "pred": "Yes."}
+{"question_id": "v_01293_3", "pred": "Yes."}
+{"question_id": "v_01293_4", "pred": "I don't know."}
+{"question_id": "v_01294_1", "pred": "No."}
+{"question_id": "v_01294_11", "pred": "Yes."}
+{"question_id": "v_01294_12", "pred": "Diapers."}
+{"question_id": "v_01294_2", "pred": "Yes."}
+{"question_id": "v_01294_8", "pred": "I don't know."}
+{"question_id": "v_01294_9", "pred": "I don't know."}
+{"question_id": "v_01295_2", "pred": "No."}
+{"question_id": "v_01295_8", "pred": "A package of sanitary napkins."}
+{"question_id": "v_01296_3", "pred": "I don't know."}
+{"question_id": "v_01296_5", "pred": "Tissue."}
+{"question_id": "v_01296_6", "pred": "No."}
+{"question_id": "v_01296_8", "pred": "Tissue."}
+{"question_id": "v_01297_1", "pred": "Yes."}
+{"question_id": "v_01297_4", "pred": "I don't know."}
+{"question_id": "v_01297_6", "pred": "KP59."}
+{"question_id": "v_01298_1", "pred": "Yes."}
+{"question_id": "v_01298_5", "pred": "A rack of snacks."}
+{"question_id": "v_01299_1", "pred": "Yes."}
+{"question_id": "v_01299_3", "pred": "Yes."}
+{"question_id": "v_01299_4", "pred": "I don't know."}
+{"question_id": "v_01300_3", "pred": "Yes."}
+{"question_id": "v_01300_4", "pred": "I don't know."}
+{"question_id": "v_01300_5", "pred": "The middle and right front row desserts cost 10 yuan."}
+{"question_id": "v_01300_6", "pred": "Cookies."}
+{"question_id": "v_01301_3", "pred": "I don't know."}
+{"question_id": "v_01301_5", "pred": "Desserts."}
+{"question_id": "v_01301_6", "pred": "Snacks."}
+{"question_id": "v_01302_1", "pred": "Yes."}
+{"question_id": "v_01302_2", "pred": "Yes."}
+{"question_id": "v_01303_3", "pred": "Yes."}
+{"question_id": "v_01303_6", "pred": "Go up."}
+{"question_id": "v_01304_2", "pred": "Yes."}
+{"question_id": "v_01304_4", "pred": "Yes."}
+{"question_id": "v_01305_5", "pred": "Yes."}
+{"question_id": "v_01307_2", "pred": "No."}
+{"question_id": "v_01308_1", "pred": "Yes."}
+{"question_id": "v_01308_3", "pred": "Yes."}
+{"question_id": "v_01309_1", "pred": "Yes."}
+{"question_id": "v_01309_3", "pred": "I don't know."}
+{"question_id": "v_01309_4", "pred": "I don't know."}
+{"question_id": "v_01310_3", "pred": "Yes."}
+{"question_id": "v_01310_4", "pred": "The screen shows the phone in talkback mode."}
+{"question_id": "v_01310_5", "pred": "I don't know."}
+{"question_id": "v_01310_6", "pred": "I don't know."}
+{"question_id": "v_01311_1", "pred": "Yes."}
+{"question_id": "v_01311_12", "pred": "Yes."}
+{"question_id": "v_01311_14", "pred": "Yes."}
+{"question_id": "v_01311_2", "pred": "Yes."}
+{"question_id": "v_01311_3", "pred": "Yes."}
+{"question_id": "v_01311_6", "pred": "Yes."}
+{"question_id": "v_01311_9", "pred": "No."}
+{"question_id": "v_01312_5", "pred": "The trees."}
+{"question_id": "v_01313_1", "pred": "A colorful mural."}
+{"question_id": "v_01314_1", "pred": "I don't know."}
+{"question_id": "v_01315_1", "pred": "I don't know."}
+{"question_id": "v_01316_1", "pred": "There is a car passing by on the left."}
+{"question_id": "v_01318_1", "pred": "A brown jacket."}
+{"question_id": "v_01319_1", "pred": "Yes."}
+{"question_id": "v_01319_3", "pred": "Xinjiekou station."}
+{"question_id": "v_01319_4", "pred": "No."}
+{"question_id": "v_01320_1", "pred": "Right."}
+{"question_id": "v_01322_1", "pred": "I don't know."}
+{"question_id": "v_01324_1", "pred": "Yes."}
+{"question_id": "v_01324_2", "pred": "I don't know."}
+{"question_id": "v_01324_4", "pred": "Go straight ahead."}
+{"question_id": "v_01325_1", "pred": "You are on the sidewalk."}
+{"question_id": "v_01325_2", "pred": "No."}
+{"question_id": "v_01326_1", "pred": "Yes."}
+{"question_id": "v_01326_2", "pred": "No."}
+{"question_id": "v_01329_1", "pred": "Yes."}
+{"question_id": "v_01329_2", "pred": "Yes."}
+{"question_id": "v_01330_2", "pred": "Yes."}
+{"question_id": "v_01331_1", "pred": "No."}
+{"question_id": "v_01331_4", "pred": "Yes."}
+{"question_id": "v_01331_5", "pred": "Yes."}
+{"question_id": "v_01332_1", "pred": "No."}
+{"question_id": "v_01332_3", "pred": "Yes."}
+{"question_id": "v_01333_1", "pred": "No."}
+{"question_id": "v_01334_2", "pred": "No."}
+{"question_id": "v_01334_3", "pred": "Yes."}
+{"question_id": "v_01335_4", "pred": "No."}
+{"question_id": "v_01336_1", "pred": "Yes."}
+{"question_id": "v_01336_3", "pred": "Yes."}
+{"question_id": "v_01336_4", "pred": "Yes."}
+{"question_id": "v_01337_1", "pred": "You are in the middle of a city street."}
+{"question_id": "v_01338_1", "pred": "Yes."}
+{"question_id": "v_01338_3", "pred": "Yes."}
+{"question_id": "v_01339_2", "pred": "Yes."}
+{"question_id": "v_01339_3", "pred": "I don't know."}
+{"question_id": "v_01340_2", "pred": "No."}
+{"question_id": "v_01341_10", "pred": "A machine."}
+{"question_id": "v_01341_12", "pred": "Security check."}
+{"question_id": "v_01341_2", "pred": "Yes."}
+{"question_id": "v_01341_4", "pred": "Right front."}
+{"question_id": "v_01341_5", "pred": "I don't know."}
+{"question_id": "v_01341_6", "pred": "I don't know."}
+{"question_id": "v_01341_9", "pred": "Yes."}
+{"question_id": "v_01342_1", "pred": "You are on a sidewalk in a city."}
+{"question_id": "v_01342_2", "pred": "I don't know."}
+{"question_id": "v_01342_3", "pred": "I don't know."}
+{"question_id": "v_01344_4", "pred": "I don't know."}
+{"question_id": "v_01344_6", "pred": "Yes."}
+{"question_id": "v_01344_7", "pred": "It is about the train station."}
+{"question_id": "v_01344_9", "pred": "Yes."}
+{"question_id": "v_01345_2", "pred": "Yes."}
+{"question_id": "v_01346_1", "pred": "Yes."}
+{"question_id": "v_01347_2", "pred": "I don't know."}
+{"question_id": "v_01347_3", "pred": "Yes."}
+{"question_id": "v_01347_5", "pred": "Yes."}
+{"question_id": "v_01348_1", "pred": "Yes."}
+{"question_id": "v_01349_2", "pred": "Right."}
+{"question_id": "v_01349_5", "pred": "Go straight ahead."}
+{"question_id": "v_01349_7", "pred": "Yes."}
+{"question_id": "v_01350_10", "pred": "Yes."}
+{"question_id": "v_01350_11", "pred": "No."}
+{"question_id": "v_01350_12", "pred": "I don't know."}
+{"question_id": "v_01350_13", "pred": "No."}
+{"question_id": "v_01350_3", "pred": "I don't know."}
+{"question_id": "v_01350_6", "pred": "Yes."}
+{"question_id": "v_01350_7", "pred": "I don't know."}
+{"question_id": "v_01351_1", "pred": "I don't know."}
+{"question_id": "v_01351_13", "pred": "No."}
+{"question_id": "v_01351_2", "pred": "Right front."}
+{"question_id": "v_01351_5", "pred": "Yes."}
+{"question_id": "v_01351_6", "pred": "Yes."}
+{"question_id": "v_01351_8", "pred": "Go straight ahead."}
+{"question_id": "v_01351_9", "pred": "A narrow street."}
+{"question_id": "v_01352_2", "pred": "The time is 17:00."}
+{"question_id": "v_01353_1", "pred": "Yes."}
+{"question_id": "v_01353_2", "pred": "Right."}
+{"question_id": "v_01353_3", "pred": "Right front."}
+{"question_id": "v_01353_6", "pred": "Yes."}
+{"question_id": "v_01354_2", "pred": "Yes."}
+{"question_id": "v_01354_3", "pred": "Go straight ahead."}
+{"question_id": "v_01354_5", "pred": "Yes."}
+{"question_id": "v_01354_6", "pred": "A wall."}
+{"question_id": "v_01354_8", "pred": "There is a building with a sign that reads \"Xiaomi\" on the right."}
+{"question_id": "v_01355_10", "pred": "You are standing in the middle of the street."}
+{"question_id": "v_01355_12", "pred": "I don't know."}
+{"question_id": "v_01355_2", "pred": "I don't know."}
+{"question_id": "v_01355_3", "pred": "I don't know."}
+{"question_id": "v_01355_4", "pred": "I don't know."}
+{"question_id": "v_01355_7", "pred": "Go straight."}
+{"question_id": "v_01355_8", "pred": "Yes."}
+{"question_id": "v_01355_9", "pred": "Yes."}
+{"question_id": "v_01356_1", "pred": "Yes."}
+{"question_id": "v_01356_3", "pred": "Go straight ahead."}
+{"question_id": "v_01356_4", "pred": "A blue car and a white van."}
+{"question_id": "v_01357_2", "pred": "A convenience store."}
+{"question_id": "v_01357_3", "pred": "Go straight ahead."}
+{"question_id": "v_01358_2", "pred": "A glass building."}
+{"question_id": "v_01361_2", "pred": "Yes."}
+{"question_id": "v_01362_1", "pred": "I don't know."}
+{"question_id": "v_01364_1", "pred": "No."}
+{"question_id": "v_01365_2", "pred": "I don't know."}
+{"question_id": "v_01367_1", "pred": "Yes."}
+{"question_id": "v_01367_2", "pred": "Yes."}
+{"question_id": "v_01369_2", "pred": "Go straight."}
+{"question_id": "v_01369_3", "pred": "Various bowls, dishes, and decorative items."}
+{"question_id": "v_01369_4", "pred": "No."}
+{"question_id": "v_01370_1", "pred": "No."}
+{"question_id": "v_01371_1", "pred": "I don't know."}
+{"question_id": "v_01371_2", "pred": "I don't know."}
+{"question_id": "v_01371_4", "pred": "A bowl."}
+{"question_id": "v_01371_6", "pred": "There are various items on the table, including a small bowl, a plate, and some other objects."}
+{"question_id": "v_01372_1", "pred": "A ceramic owl."}
+{"question_id": "v_01372_2", "pred": "A black and white design."}
+{"question_id": "v_01373_2", "pred": "There are various items on the table."}
+{"question_id": "v_01374_1", "pred": "No."}
+{"question_id": "v_01375_10", "pred": "I don't know."}
+{"question_id": "v_01375_11", "pred": "I don't know."}
+{"question_id": "v_01375_12", "pred": "No."}
+{"question_id": "v_01375_13", "pred": "Yes."}
+{"question_id": "v_01375_14", "pred": "Various ceramic items."}
+{"question_id": "v_01375_15", "pred": "Yes."}
+{"question_id": "v_01375_16", "pred": "Yes."}
+{"question_id": "v_01375_17", "pred": "A ceramic figurine."}
+{"question_id": "v_01375_19", "pred": "Various items."}
+{"question_id": "v_01375_2", "pred": "I don't know."}
+{"question_id": "v_01375_22", "pred": "On the left front shelf."}
+{"question_id": "v_01375_23", "pred": "Yes."}
+{"question_id": "v_01375_4", "pred": "I don't know."}
+{"question_id": "v_01375_6", "pred": "I don't know."}
+{"question_id": "v_01375_7", "pred": "I don't know."}
+{"question_id": "v_01375_8", "pred": "Right front."}
+{"question_id": "v_01375_9", "pred": "No."}
+{"question_id": "v_01376_1", "pred": "Right front."}
+{"question_id": "v_01377_1", "pred": "I don't know."}
+{"question_id": "v_01377_10", "pred": "There are various items on the shelf, including ceramic bowls, vases, and decorative items."}
+{"question_id": "v_01377_2", "pred": "I don't know."}
+{"question_id": "v_01377_4", "pred": "I don't know."}
+{"question_id": "v_01377_5", "pred": "Yes."}
+{"question_id": "v_01378_1", "pred": "I don't know."}
+{"question_id": "v_01378_3", "pred": "A clay ring."}
+{"question_id": "v_01379_13", "pred": "On the left side of the table."}
+{"question_id": "v_01379_14", "pred": "I don't know."}
+{"question_id": "v_01379_15", "pred": "On the left side of the table."}
+{"question_id": "v_01379_16", "pred": "Yes."}
+{"question_id": "v_01379_17", "pred": "A bowl."}
+{"question_id": "v_01379_18", "pred": "A bowl."}
+{"question_id": "v_01379_22", "pred": "Yes."}
+{"question_id": "v_01379_24", "pred": "A small bowl."}
+{"question_id": "v_01379_25", "pred": "White."}
+{"question_id": "v_01379_26", "pred": "Yes."}
+{"question_id": "v_01379_27", "pred": "No."}
+{"question_id": "v_01379_28", "pred": "There are various items on the shelf, including bowls, dishes, and decorative items."}
+{"question_id": "v_01379_29", "pred": "White."}
+{"question_id": "v_01379_30", "pred": "Yes."}
+{"question_id": "v_01379_4", "pred": "I don't know."}
+{"question_id": "v_01379_5", "pred": "I don't know."}
+{"question_id": "v_01379_6", "pred": "No."}
+{"question_id": "v_01379_8", "pred": "Various items such as bowls, plates, and decorative objects."}
+{"question_id": "v_01379_9", "pred": "Yes."}
+{"question_id": "v_01380_2", "pred": "I don't know."}
+{"question_id": "v_01380_3", "pred": "I don't know."}
+{"question_id": "v_01380_5", "pred": "No."}
+{"question_id": "v_01380_6", "pred": "Yes."}
+{"question_id": "v_01380_7", "pred": "I don't know."}
+{"question_id": "v_01381_3", "pred": "A plate."}
+{"question_id": "v_01381_4", "pred": "It is a smooth, ceramic bowl."}
+{"question_id": "v_01381_6", "pred": "Front."}
+{"question_id": "v_01382_2", "pred": "There are various items on the shelf, including bottles, bowls, and decorative items."}
+{"question_id": "v_01382_4", "pred": "I don't know."}
+{"question_id": "v_01382_6", "pred": "On the shelf."}
+{"question_id": "v_01383_1", "pred": "I don't know."}
+{"question_id": "v_01385_1", "pred": "I don't know."}
+{"question_id": "v_01385_3", "pred": "I don't know."}
+{"question_id": "v_01385_5", "pred": "Go straight ahead."}
+{"question_id": "v_01386_3", "pred": "Yes."}
+{"question_id": "v_01387_2", "pred": "Go straight ahead."}
+{"question_id": "v_01387_3", "pred": "Yes."}
+{"question_id": "v_01388_4", "pred": "Go straight."}
+{"question_id": "v_01388_7", "pred": "I don't know."}
+{"question_id": "v_01390_2", "pred": "Yes."}
+{"question_id": "v_01391_2", "pred": "Turn right."}
+{"question_id": "v_01391_3", "pred": "Go straight ahead."}
+{"question_id": "v_01392_2", "pred": "No."}
+{"question_id": "v_01392_4", "pred": "No."}
+{"question_id": "v_01393_1", "pred": "No."}
+{"question_id": "v_01394_1", "pred": "Two people."}
+{"question_id": "v_01394_2", "pred": "Yes."}
+{"question_id": "v_01395_2", "pred": "I don't know."}
+{"question_id": "v_01395_3", "pred": "Yes."}
+{"question_id": "v_01396_1", "pred": "Yes."}
+{"question_id": "v_01397_1", "pred": "Yes."}
+{"question_id": "v_01398_1", "pred": "Yes."}
+{"question_id": "v_01398_5", "pred": "Right."}
+{"question_id": "v_01399_1", "pred": "Blind path."}
+{"question_id": "v_01399_2", "pred": "Yes."}
+{"question_id": "v_01400_1", "pred": "Yes."}
+{"question_id": "v_01400_2", "pred": "Yes."}
+{"question_id": "v_01400_6", "pred": "No."}
+{"question_id": "v_01400_7", "pred": "No."}
+{"question_id": "v_01400_8", "pred": "There are some trees and a building in the distance."}
+{"question_id": "v_01402_1", "pred": "I don't know."}
+{"question_id": "v_01402_2", "pred": "I don't know."}
+{"question_id": "v_01404_1", "pred": "The living room area has a sofa, a coffee table, and a chair."}
+{"question_id": "v_01405_1", "pred": "Hold the handrail with both hands and step up the stairs."}
+{"question_id": "v_01405_3", "pred": "Stairs."}
+{"question_id": "v_01406_1", "pred": "I don't know."}
+{"question_id": "v_01407_1", "pred": "Yes."}
+{"question_id": "v_01407_2", "pred": "Sofa, coffee table, and a cabinet."}
+{"question_id": "v_01407_3", "pred": "Yes."}
+{"question_id": "v_01408_1", "pred": "Go straight ahead."}
+{"question_id": "v_01408_2", "pred": "I don't know."}
+{"question_id": "v_01408_4", "pred": "Yes."}
+{"question_id": "v_01409_1", "pred": "A chair."}
+{"question_id": "v_01410_2", "pred": "Yes."}
+{"question_id": "v_01410_4", "pred": "Yes."}
+{"question_id": "v_01410_5", "pred": "Yes."}
+{"question_id": "v_01411_1", "pred": "I don't know."}
+{"question_id": "v_01412_1", "pred": "Touch the button."}
+{"question_id": "v_01412_2", "pred": "A pan, a glass lid, a bottle of oil, a spatula, and a chopping board."}
+{"question_id": "v_01414_2", "pred": "No."}
+{"question_id": "v_01414_3", "pred": "No."}
+{"question_id": "v_01414_5", "pred": "No."}
+{"question_id": "v_01414_6", "pred": "I don't know."}
+{"question_id": "v_01414_7", "pred": "Yes."}
+{"question_id": "v_01414_9", "pred": "Yes."}
+{"question_id": "v_01417_2", "pred": "No."}
+{"question_id": "v_01418_4", "pred": "Go straight ahead."}
+{"question_id": "v_01420_1", "pred": "I don't know."}
+{"question_id": "v_01421_1", "pred": "I don't know."}
+{"question_id": "v_01422_1", "pred": "You are in a park."}
+{"question_id": "v_01422_2", "pred": "A stone path."}
+{"question_id": "v_01424_1", "pred": "There is a ground covered with dry leaves."}
+{"question_id": "v_01424_2", "pred": "Dried leaves."}
+{"question_id": "v_01427_1", "pred": "Yes."}
+{"question_id": "v_01430_1", "pred": "No."}
+{"question_id": "v_01431_1", "pred": "Yes."}
+{"question_id": "v_01431_2", "pred": "I don't know."}
+{"question_id": "v_01433_3", "pred": "Yes."}
+{"question_id": "v_01434_10", "pred": "I don't know."}
+{"question_id": "v_01434_2", "pred": "Go straight ahead."}
+{"question_id": "v_01434_3", "pred": "Right front."}
+{"question_id": "v_01434_5", "pred": "Right front."}
+{"question_id": "v_01434_6", "pred": "Security check."}
+{"question_id": "v_01434_7", "pred": "Yes."}
+{"question_id": "v_01434_8", "pred": "Yes."}
+{"question_id": "v_01435_1", "pred": "I don't know."}
+{"question_id": "v_01435_3", "pred": "I don't know."}
+{"question_id": "v_01437_1", "pred": "Right front."}
+{"question_id": "v_01438_2", "pred": "Red bus."}
+{"question_id": "v_01438_3", "pred": "I don't know."}
+{"question_id": "v_01440_1", "pred": "Two bicycles."}
+{"question_id": "v_01441_1", "pred": "I don't know."}
+{"question_id": "v_01442_2", "pred": "I don't know."}
+{"question_id": "v_01442_4", "pred": "I don't know."}
+{"question_id": "v_01444_2", "pred": "I don't know."}
+{"question_id": "v_01445_1", "pred": "You are on a sidewalk."}
+{"question_id": "v_01445_2", "pred": "I don't know."}
+{"question_id": "v_01446_4", "pred": "Yes."}
+{"question_id": "v_01446_5", "pred": "Scallions."}
+{"question_id": "v_01446_7", "pred": "Yes."}
+{"question_id": "v_01447_2", "pred": "No."}
+{"question_id": "v_01447_3", "pred": "A bus stop."}
+{"question_id": "v_01447_4", "pred": "A trash can."}
+{"question_id": "v_01448_1", "pred": "Yes."}
+{"question_id": "v_01448_3", "pred": "Yes."}
+{"question_id": "v_01448_5", "pred": "Yes."}
+{"question_id": "v_01448_7", "pred": "I don't know."}
+{"question_id": "v_01448_9", "pred": "Go straight."}
+{"question_id": "v_01449_2", "pred": "Yes."}
+{"question_id": "v_01449_3", "pred": "A red and white traffic cone."}
+{"question_id": "v_01450_1", "pred": "Right in front."}
+{"question_id": "v_01450_2", "pred": "I don't know."}
+{"question_id": "v_01451_2", "pred": "Yes."}
+{"question_id": "v_01451_5", "pred": "Yes."}
+{"question_id": "v_01452_2", "pred": "Snack place."}
+{"question_id": "v_01452_4", "pred": "I don't know."}
+{"question_id": "v_01452_5", "pred": "Yes."}
+{"question_id": "v_01453_1", "pred": "A restaurant."}
+{"question_id": "v_01454_2", "pred": "A car."}
+{"question_id": "v_01455_1", "pred": "Yes."}
+{"question_id": "v_01459_1", "pred": "Yes."}
+{"question_id": "v_01461_2", "pred": "No."}
+{"question_id": "v_01463_1", "pred": "Yes."}
+{"question_id": "v_01464_1", "pred": "Yes."}
+{"question_id": "v_01464_2", "pred": "Yes."}
+{"question_id": "v_01465_1", "pred": "A smartphone."}
+{"question_id": "v_01465_2", "pred": "Yes."}
+{"question_id": "v_01466_1", "pred": "I don't know."}
+{"question_id": "v_01466_2", "pred": "I don't know."}
+{"question_id": "v_01467_1", "pred": "A smartphone."}
+{"question_id": "v_01467_2", "pred": "Yes."}
+{"question_id": "v_01467_3", "pred": "Yes."}
+{"question_id": "v_01467_4", "pred": "Right front."}
+{"question_id": "v_01468_1", "pred": "On your left."}
+{"question_id": "v_01470_2", "pred": "No."}
+{"question_id": "v_01471_2", "pred": "A stone pillar."}
+{"question_id": "v_01472_2", "pred": "No."}
+{"question_id": "v_01473_2", "pred": "Yes."}
+{"question_id": "v_01475_2", "pred": "Yes."}
+{"question_id": "v_01476_1", "pred": "I don't know."}
+{"question_id": "v_01477_1", "pred": "Yes."}
+{"question_id": "v_01478_1", "pred": "I don't know."}
+{"question_id": "v_01479_1", "pred": "On the shelf in front of you."}
+{"question_id": "v_01479_2", "pred": "I don't know."}
+{"question_id": "v_01481_1", "pred": "You are in a museum."}
+{"question_id": "v_01483_2", "pred": "A book."}
+{"question_id": "v_01486_1", "pred": "I don't know."}
+{"question_id": "v_01486_2", "pred": "No."}
+{"question_id": "v_01487_1", "pred": "Museum."}
+{"question_id": "v_01491_2", "pred": "A ticket."}
+{"question_id": "v_01492_1", "pred": "Red passport."}
+{"question_id": "v_01493_2", "pred": "Yes."}
+{"question_id": "v_01494_1", "pred": "Yes."}
+{"question_id": "v_01495_3", "pred": "Yes."}
+{"question_id": "v_01496_1", "pred": "A man."}
+{"question_id": "v_01496_2", "pred": "He is driving the car."}
+{"question_id": "v_01497_2", "pred": "Liangpi."}
+{"question_id": "v_01500_1", "pred": "I don't know."}
+{"question_id": "v_01501_1", "pred": "Yes."}
+{"question_id": "v_01502_2", "pred": "A sofa."}
+{"question_id": "v_01503_1", "pred": "Cat food."}
+{"question_id": "v_01504_2", "pred": "Cat."}
+{"question_id": "v_01507_1", "pred": "A large, circular, greenery-filled planter in the center of the room."}
+{"question_id": "v_01508_1", "pred": "Cactus."}
+{"question_id": "v_01509_2", "pred": "I don't know."}
+{"question_id": "v_01510_2", "pred": "Yes."}
+{"question_id": "v_01510_3", "pred": "I don't know."}
+{"question_id": "v_01511_1", "pred": "A store with a sign that reads \"MOSCHINO\"."}
+{"question_id": "v_01513_1", "pred": "Yes."}
+{"question_id": "v_01515_1", "pred": "Yes."}
+{"question_id": "v_01518_1", "pred": "Yes."}
+{"question_id": "v_01519_1", "pred": "There are many electric vehicles around."}
+{"question_id": "v_01520_1", "pred": "I don't know."}
+{"question_id": "v_01522_1", "pred": "Right front."}
+{"question_id": "v_01522_3", "pred": "Yes."}
+{"question_id": "v_01522_4", "pred": "You are standing in front of the entrance of a coffee shop."}
+{"question_id": "v_01523_1", "pred": "Yes."}
+{"question_id": "v_01523_2", "pred": "A convenience store."}
+{"question_id": "v_01526_1", "pred": "There are many people around."}
+{"question_id": "v_01527_1", "pred": "Yes."}
+{"question_id": "v_01527_2", "pred": "Yes."}
+{"question_id": "v_01528_1", "pred": "Yes."}
+{"question_id": "v_01529_1", "pred": "The cards are likely to be some form of identification or information cards."}
+{"question_id": "v_01531_1", "pred": "Yes."}
+{"question_id": "v_01531_2", "pred": "No."}
+{"question_id": "v_01531_4", "pred": "No."}
+{"question_id": "v_01531_5", "pred": "No."}
+{"question_id": "v_01532_2", "pred": "Yes."}
+{"question_id": "v_01533_1", "pred": "I don't know."}
+{"question_id": "v_01534_1", "pred": "Yes."}
+{"question_id": "v_01534_2", "pred": "Yes."}
+{"question_id": "v_01535_2", "pred": "Yes."}
+{"question_id": "v_01539_2", "pred": "No."}
+{"question_id": "v_01540_1", "pred": "I don't know."}
+{"question_id": "v_01540_2", "pred": "Yes."}
+{"question_id": "v_01540_3", "pred": "Yes."}
+{"question_id": "v_01540_4", "pred": "Yes."}
+{"question_id": "v_01544_1", "pred": "I don't know."}
+{"question_id": "v_01544_2", "pred": "There are two traffic cones in front of you."}
+{"question_id": "v_01545_1", "pred": "Not crowded."}
+{"question_id": "v_01546_1", "pred": "No."}
+{"question_id": "v_01547_1", "pred": "Yes."}
+{"question_id": "v_01547_2", "pred": "Yes."}
+{"question_id": "v_01547_4", "pred": "Yes."}
+{"question_id": "v_01548_1", "pred": "Yes."}
+{"question_id": "v_01550_10", "pred": "Yes."}
+{"question_id": "v_01550_2", "pred": "Yes."}
+{"question_id": "v_01550_4", "pred": "It went straight ahead."}
+{"question_id": "v_01550_9", "pred": "I don't know."}
+{"question_id": "v_01551_1", "pred": "A small snack stand."}
+{"question_id": "v_01551_10", "pred": "I don't know."}
+{"question_id": "v_01551_2", "pred": "I don't know."}
+{"question_id": "v_01551_3", "pred": "A food stand."}
+{"question_id": "v_01551_5", "pred": "A food stand."}
+{"question_id": "v_01551_6", "pred": "Yes."}
+{"question_id": "v_01551_7", "pred": "I don't know."}
+{"question_id": "v_01552_1", "pred": "I don't know."}
+{"question_id": "v_01552_11", "pred": "I don't know."}
+{"question_id": "v_01552_13", "pred": "Suguo convenience store."}
+{"question_id": "v_01552_14", "pred": "Yes."}
+{"question_id": "v_01552_15", "pred": "White."}
+{"question_id": "v_01552_17", "pred": "Turn right."}
+{"question_id": "v_01552_18", "pred": "I don't know."}
+{"question_id": "v_01552_3", "pred": "Yes."}
+{"question_id": "v_01552_4", "pred": "Go straight ahead."}
+{"question_id": "v_01552_6", "pred": "Two people."}
+{"question_id": "v_01552_7", "pred": "Yes."}
+{"question_id": "v_01552_9", "pred": "Yes."}
+{"question_id": "v_01554_3", "pred": "Yes."}
+{"question_id": "v_01555_1", "pred": "Yes."}
+{"question_id": "v_01555_10", "pred": "Right in front of me."}
+{"question_id": "v_01555_2", "pred": "Yes."}
+{"question_id": "v_01555_5", "pred": "There is a road with cars passing by."}
+{"question_id": "v_01555_6", "pred": "I don't know."}
+{"question_id": "v_01555_7", "pred": "I don't know."}
+{"question_id": "v_01555_8", "pred": "A staircase."}
+{"question_id": "v_01555_9", "pred": "I don't know."}
+{"question_id": "v_01556_1", "pred": "Right front."}
+{"question_id": "v_01556_10", "pred": "I don't know."}
+{"question_id": "v_01556_12", "pred": "Yes."}
+{"question_id": "v_01556_13", "pred": "Snack."}
+{"question_id": "v_01556_14", "pred": "12 yuan."}
+{"question_id": "v_01556_4", "pred": "I don't know."}
+{"question_id": "v_01556_5", "pred": "Snacks."}
+{"question_id": "v_01556_6", "pred": "The aisle of the supermarket."}
+{"question_id": "v_01556_9", "pred": "I don't know."}
+{"question_id": "v_01557_1", "pred": "Yes."}
+{"question_id": "v_01558_1", "pred": "I don't know."}
+{"question_id": "v_01559_1", "pred": "Yes."}
+{"question_id": "v_01559_2", "pred": "On the right side of the door."}
+{"question_id": "v_01559_3", "pred": "On the left side of the wall."}
+{"question_id": "v_01559_4", "pred": "Yes."}
+{"question_id": "v_01561_1", "pred": "A barrier."}
+{"question_id": "v_01561_3", "pred": "A tree."}
+{"question_id": "v_01561_5", "pred": "Yes."}
+{"question_id": "v_01561_6", "pred": "Yes."}
+{"question_id": "v_01562_5", "pred": "A table."}
+{"question_id": "v_01562_6", "pred": "Go straight."}
+{"question_id": "v_01564_1", "pred": "White and blue bus."}
+{"question_id": "v_01564_4", "pred": "Yes."}
+{"question_id": "v_01565_1", "pred": "Security check."}
+{"question_id": "v_01565_4", "pred": "The entrance of the building."}
+{"question_id": "v_01566_1", "pred": "Yes."}
+{"question_id": "v_01566_3", "pred": "Go straight ahead."}
+{"question_id": "v_01566_5", "pred": "Yes."}
+{"question_id": "v_01566_6", "pred": "Yes."}
+{"question_id": "v_01567_1", "pred": "A pillar."}
+{"question_id": "v_01567_2", "pred": "There are several shops on both sides."}
+{"question_id": "v_01567_3", "pred": "Go straight ahead."}
+{"question_id": "v_01568_1", "pred": "Yes."}
+{"question_id": "v_01568_2", "pred": "Yes."}
+{"question_id": "v_01568_4", "pred": "Yes."}
+{"question_id": "v_01569_1", "pred": "You are on the road."}
+{"question_id": "v_01569_4", "pred": "Yes."}
+{"question_id": "v_01570_2", "pred": "Yes."}
+{"question_id": "v_01570_4", "pred": "There are various ingredients in the bowls."}
+{"question_id": "v_01571_1", "pred": "On your right."}
+{"question_id": "v_01571_2", "pred": "I don't know."}
+{"question_id": "v_01571_5", "pred": "Yes."}
+{"question_id": "v_01571_6", "pred": "Right in front."}
+{"question_id": "v_01571_7", "pred": "Yes."}
+{"question_id": "v_01571_8", "pred": "M401."}
+{"question_id": "v_01571_9", "pred": "Yes."}
+{"question_id": "v_01572_1", "pred": "No."}
+{"question_id": "v_01572_13", "pred": "Yes."}
+{"question_id": "v_01572_2", "pred": "I don't know."}
+{"question_id": "v_01572_3", "pred": "Green fence."}
+{"question_id": "v_01572_8", "pred": "A car."}
+{"question_id": "v_01572_9", "pred": "A man on a red electric bike."}
+{"question_id": "v_01573_1", "pred": "Red."}
+{"question_id": "v_01573_3", "pred": "Yes."}
+{"question_id": "v_01574_1", "pred": "No."}
+{"question_id": "v_01574_4", "pred": "No."}
+{"question_id": "v_01575_2", "pred": "A wooden board."}
+{"question_id": "v_01576_1", "pred": "I don't know."}
+{"question_id": "v_01576_2", "pred": "A food court."}
+{"question_id": "v_01576_4", "pred": "Cup."}
+{"question_id": "v_01578_1", "pred": "Yes."}
